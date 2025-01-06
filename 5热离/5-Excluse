@@ -1,0 +1,2710 @@
+
+=== ~原矿 ===
+
+oreAmber // 琥珀原矿 洗-筛
+oreApatite // 磷灰石原矿 洗-筛
+oreBArTiMaEuSNek // BArTiMaEuSNek原矿 洗-筛
+oreBauxite // 铝土矿原矿 洗-热-粉
+oreCoal // 煤原矿 洗-筛
+oreCooperite // 硫铂矿原矿 洗or浸洗(Hg)
+oreDiamond // 钻石原矿 洗-筛
+oreDilithium // 双锂原矿 洗-筛
+oreEmerald // 绿宝石原矿 洗-筛
+oreGreenSapphire // 绿色蓝宝石原矿 洗-筛
+oreGalena // 方铅矿原矿 洗-保留
+oreIlmenite // 钛铁矿原矿 浸洗（硫酸）
+oreInfusedAir // 风之蕴魔石原矿 洗-筛
+oreInfusedEarth // 地之蕴魔石原矿 洗-筛
+oreInfusedEntropy // 混沌蕴魔石原矿 洗-筛
+oreInfusedFire // 火之蕴魔石原矿 洗-筛
+oreInfusedWater // 水之蕴魔石原矿 洗-筛
+oreInfusedOrder // 秩序蕴魔石原矿 洗-筛
+oreIridium // 铱原矿 浸洗(Hg)-热-粉
+oreLapis // 青金石原矿 洗-筛
+oreLead // 铅原矿 工业高炉
+oreLepidolite // 锂云母原矿 洗-浸洗(盐酸)
+oreMeteoriclron // 陨铁原矿 浸洗(Hg)-热-粉
+oreMithril // 秘银原矿 浸洗(Hg)-粉-离
+oreMonazite // 独居石原矿 洗-热-粉
+oreMytryl // 深空秘银原矿 粉-离
+oreNetherQuartz // 下界石英原矿 洗-筛
+oreNetherStar // 下界之星原矿 洗-筛
+oreNickel // 镍原矿 浸洗(Hg)-粉-离
+oreOlivine // 橄榄石原矿 洗-筛
+oreOrundum // 合成玉原矿 洗-筛
+oreOsmium // 锇原矿 浸洗(Hg)-热-粉
+orePlatinum // 铂原矿 浸洗(Hg)-热-粉
+orePlatinumMetallicPowder // 铂金属原矿 浸洗(Hg)-热-粉
+orePrasiolite // 堇云石原矿 洗-筛
+orePyrochlore // 烧绿石原矿 洗-热-粉
+orePyrolusite // 软锰矿原矿 洗-热-粉
+oreQuartzite // 石英岩原矿 洗-筛
+oreRedZircon // 红锆石原矿 洗-筛
+oreRoquesite // 硫铟铜原矿 保留
+oreRubracium // 褐铜原矿 粉-粉
+oreRuby // 红宝石原矿 洗-筛
+oreSalt // 盐原矿 洗-筛
+oreSapphire // 蓝宝石原矿 洗-筛
+oreScheelite // 白钨矿原矿 洗-保留
+oreMolybdenite // 辉钼矿原矿 洗-保留
+oreMolybdenum // 钼原矿 洗-保留
+oreSphalerite // 闪锌矿原矿 洗-保留
+oreTanzanite // 坦桑石原矿 洗-筛
+oreTiberium // 泰伯利亚原矿 洗-筛
+oreAdamantium // 精金原矿
+oreAgarditeCd // 菱铁矿（Cd）原矿
+oreAgarditeLa // 菱铁矿（La）原矿
+oreAgarditeNd // 菱铁矿（Nd）原矿
+oreAgarditeY // 菱铁矿（Y）原矿
+oreAlduorite // 神秘蓝金原矿
+oreAlmandine // 铁铝榴石原矿
+oreAluminium // 铝原矿
+oreAluminiumfluoride // 氟化铝原矿
+oreAlunite // 明矾石原矿
+oreAmericium // 镅原矿
+oreAmethyst // 紫水晶原矿
+oreAndradite // 钙铁榴石原矿
+oreAntimony // 锑原矿
+oreAnycopper // 铜原矿
+oreAnyiron // 铁原矿
+oreArdite // 阿迪特原矿
+oreArsenic // 砷原矿
+oreArsenopyrite // 砷铁矿原矿
+oreAsbestos // 石棉原矿
+oreAtheneite // 砷汞钯原矿
+oreBandedIron // 带状铁矿原矿
+oreBarite // 重晶石原矿
+oreBarium // 钡原矿
+oreBastnasite // 氟碳镧铈原矿
+oreBedrockium // 基岩原矿
+oreBeryllium // 铍原矿
+oreBismuth // 铋原矿
+oreBismuthinite // 辉铋原矿
+oreBismutite // 泡铋原矿
+oreBlackPlutonium // 黑钚原矿
+oreBlueTopaz // 蓝黄玉原矿
+oreBorax // 硼砂原矿
+oreBornite // 斑铜原矿
+oreBrownLimonite // 棕褐铁矿原矿
+oreCadmium // 镉原矿
+oreCaesium // 铯原矿
+oreCalcite // 方解石原矿
+oreCalciumDisilicide // 二硅化钙原矿
+oreCalciumHydride // 氢化钙原矿
+oreCallistolce // 木卫四冰原矿
+oreCassiterite // 锡石原矿
+oreCerite // 铈硅石原矿
+oreCerium // 铈原矿
+oreCertusQuartz // 赛特斯石英原矿
+oreCheese // 奶酪原矿
+oreChrome // 铬原矿
+oreChromite // 铬铁矿原矿
+oreChromo-Alumino-Povondraite // 铬铝电气石原矿
+oreChrysotile // 白石棉原矿
+oreCinnabar // 朱砂原矿
+oreCobalt // 钴原矿
+oreCobaltite // 辉钴矿原矿
+oreCosmicNeutronium // 宇宙中子态素原矿
+oreCrocoite // 赤铅矿原矿
+oreCrudeRhodiumMetal // 粗制铑金属原矿
+oreCryolite // 冰晶石原矿
+oreCryoliteF // 冰晶石F原矿
+oreDarklron // 玄铁原矿
+oreDeeplron // 深渊铁原矿
+oreDesh // 戴斯原矿
+oreDiatomite // 硅藻土原矿
+oreDjurleite // 久辉铜原矿
+oreDolomite // 白云石原矿
+oreDraconium // 龙原矿
+oreDraconiumAwakened // 觉醒龙原矿
+oreDuralumin // 硬铝原矿
+oreDysprosium // 镝原矿
+oreElectrotine // 蓝石原矿
+oreElectrum // 琥珀金原矿
+oreElectrumFlux // 通流琥珀金原矿
+oreEmery // 金刚砂原矿
+oreEnriched-NaquadahOxideMixture // 氧化富集硅岩混合物原矿
+oreErbium // 铒原矿
+oreEuropium // 铕原矿
+oreFayalite // 铁橄榄石原矿
+oreFerberite // 钨铁原矿
+oreFirestone // 火石原矿
+oreFlorencite // 磷铝铈矿原矿
+oreFluor-Buergerite // 氟铁电气石原矿
+oreFluorcaphite // 氟碳铈矿原矿
+oreFluoriteF // 氟石(F)原矿
+oreFluorspar // 氟石原矿
+oreFoolsRuby // 尖晶石原矿
+oreForce // 力量原矿
+oreForcicium // 力之宝石原矿
+oreForcillium // 力场宝石原矿
+oreForsterite // 镁橄榄石原矿
+oreGadoliniteCe // 硅铍钇矿(Ce)原矿
+oreGadoliniteY // 硅铍钇矿(Y)原矿
+oreGadolinium // 钆原矿
+oreGarnetRed // 红石榴石原矿
+oreGarnetYellow // 黄石榴石原矿
+oreGarnierite // 硅镁镍矿原矿
+oreGeikielite // 镁钛矿原矿
+oreGlauconite // 海绿石原矿
+oreGold // 金原矿
+oreGraphite // 石墨原矿
+oreGreenFuchsite // 绿铬云母原矿
+oreGreenockite // 硫镉原矿
+oreGrossular // 钙铝榴石原矿
+oreGypsum // 石膏原矿
+oreHedenbergite // 钙铁辉石原矿
+oreHeeEndium // 终末原矿
+oreHibonite // 黑铝钙石原矿
+oreHolmium // 钬原矿
+oreHuebnerite // 钨酸锰原矿
+oreIchorium // 灵宝原矿
+oreIndium // 铟原矿
+oreInfinityCatalyst // 无尽催化剂原矿
+oreInfusedGold // 注魔金原矿
+oreIridiumMetalResidue // 铱金属渣粉原矿
+oreIron // 铁原矿
+oreJade // 玉原矿
+oreJasper // 碧玉原矿
+oreKyanite // 蓝晶石原矿
+oreLanthaniteCe // 镧石(Ce)原矿
+oreLanthaniteLa // 镧石(La)原矿
+oreLanthaniteNd // 镧石()原矿
+oreLanthanum // 镧原矿
+oreLazurite // 蓝金石原矿
+oreLeachResidue // 浸出渣原矿
+oreLedox // 深铅原矿
+oreLepersonnite // 绿泥石原矿
+oreLignite // 褐煤原矿
+oreLithium // 锂原矿
+oreLoellingite // 斜方砷铁原矿
+oreLutetium // 镥原矿
+oreMagnesite // 菱镁矿原矿
+oreMagnesium // 镁原矿
+oreMagnetite // 磁铁矿原矿
+oreMalachite // 孔雀石原矿
+oreManganese // 锰原矿
+oreManyullyn // 玛玉灵原矿
+oreMica // 云母原矿
+oreMirabilite // 芒硝原矿
+oreMysteriousCrystal // 神秘水晶原矿
+oreNaquadah // 硅岩原矿
+oreNaquadahEnriched // 富集硅岩原矿
+oreNaquadahOxideMixture // 氧化富集硅岩混合物原矿
+oreNaquadria // 超能硅岩原矿
+oreNaquadriaOxideMixture // 氧化超能硅岩混合物原矿
+oreNeodymium // 钕原矿
+oreNeutronium // 中子原矿
+oreNichromite // 镍铬矿原矿
+oreNiobium // 铌原矿
+oreNiter // 硝石原矿
+oreOilsands // 油砂原矿
+oreOlenite // 铝电气石原矿
+oreOpal // 蛋白石原矿
+oreOrangeDescloizite // 橙钒铅铜原矿
+oreOrichalcum // 山铜原矿
+oreOriharukon // 奥利哈钢原矿
+orePalladium // 钯原矿
+orePalladiumMetallicPowder // 钯金属原矿
+orePentlandite // 镍黄铁矿原矿
+orePerlite // 珍珠岩原矿
+orePhosphate // 磷酸盐原矿
+orePigIron // 生铁原矿
+orePlutonium // 钚-239原矿
+orePlutonium241 // 钚-241原矿
+orePollucite // 铯榴石原矿
+orePolycrase // 锗铀钇矿原矿
+orePowellite // 钼钙矿原矿
+orePraseodymium // 镨原矿
+orePromethium // 钷原矿
+orePumice // 浮岩原矿
+orePyrite // 黄铁矿原矿
+orePyrope // 镁铝榴石原矿
+oreQuantium // 量子原矿
+oreRareEarthl // 稀土I原矿
+oreRareEarthlII // 稀土II原矿
+oreRareEarthlII // 稀土II原矿
+oreRarestMetalResidue // 稀有金属渣原矿
+oreRealgar // 雄黄原矿
+oreRedDescloizite // 红钒铅锌原矿
+oreRedFuchsite // 红铬云母原矿
+oreRedstone // 红石原矿
+oreRoastedlron // 焙烧铁原矿
+oreRoastedNickel // 焙烧镍原矿
+oreRockSalt // 岩盐原矿
+oreRubidium // 铷原矿
+oreRunite // 虚恩原矿
+oreRutile // 金红石原矿
+oreSaltpeter // 硝石原矿
+oreSamarium // 钐原矿
+oreSamarskiteY // 铌钇矿(Y)原矿
+oreSamarskiteYb // 铌钇矿(Yb)原矿
+oreScandium // 钪原矿
+oreShadow // 暗影金属原矿
+oreShadowIron // 暗影铁原矿
+oreSilicon // 硅原矿
+oreSiliconSolarGrade // 太阳能级硅(多晶硅)原矿
+oreSilver // 银原矿
+oreSoapstone // 皂石原矿
+oreSodalite // 方钠石原矿
+oreSpessartine // 锰铝榴石原矿
+oreSpodumene // 锂辉石原矿
+oreStibnite // 辉锑矿原矿
+oreStrontium // 锶原矿
+oreSulfur // 硫原矿
+oreTantalite // 钽铁矿原矿
+oreTantalum // 钽原矿
+oreTartarite // 溶火之石原矿
+oreTellurium // 碲原矿
+oreTemagamite // 碲汞钯原矿
+oreTengamRaw // 生磁原矿
+oreTerbium // 铽原矿
+oreTerlinguaite // 黄氯汞原矿
+oreTetrahedrite // 黝铜矿原矿
+oreThorianite // 方钍石原矿
+oreThorium // 钍原矿
+oreThulium // 铥原矿
+oreTin // 锡原矿
+oreTitanite // 榍石原矿
+oreTitanium // 钛原矿
+oreTopaz // 黄玉原矿
+oreTricalciumPhosphate // 磷酸三钙原矿
+oreTrinium // 三元金属原矿
+oreTritanium // 三钛原矿
+oreTrona // 天然碱原矿
+oreTungstate // 钨酸锂原矿
+oreTungsten // 钨原矿
+oreUraninite // 晶质铀矿原矿
+oreUranium // 铀-238原矿
+oreUranium235 // 铀-235原矿
+oreUvarovite // 钙铬榴石原矿
+oreVanadio-Oxy-Dravite // 钒镁电气石原矿
+oreVanadium // 钒原矿
+oreVanadiumMagnetite // 钒磁铁矿原矿
+oreVinteum // 温特姆原矿
+oreVulcanite // 胶木原矿
+oreVyroxeres // 幽冥剧毒结晶原矿
+oreWittichenite // 硫铋铜原矿
+oreWollastonite // 硅灰石原矿
+oreWulfenite // 钼铅矿原矿
+oreXenotime // 磷钇原矿
+oreYellowLimonite // 黄褐铁矿原矿
+oreYtterbium // 镱原矿
+oreYttrialite // 硅钍钇原矿
+oreYttrium // 钇原矿
+oreYttrocerite // 铈钇矿原矿
+oreZeolite // 沸石原矿
+oreZimbabweite // 钛铌铅钠石原矿
+oreZinc // 锌原矿
+oreZircon // 锆石原矿
+oreZirconolite // 钛锆酸钙原矿
+oreZircophyllite // 锆星叶石原矿
+oreZirkelite // 钛锆钍原矿
+
+=== ~粗矿 ===
+
+rawOreAmber // 琥珀粗矿 洗-筛
+rawOreApatite // 磷灰石粗矿 洗-筛
+rawOreBArTiMaEuSNek // BArTiMaEuSNek粗矿 洗-筛
+rawOreBauxite // 铝土矿粗矿 洗-热-粉
+rawOreCoal // 煤粗矿 洗-筛
+rawOreCooperite // 硫铂矿粗矿 洗or浸洗(Hg)
+rawOreDiamond // 钻石粗矿 洗-筛
+rawOreDilithium // 双锂粗矿 洗-筛
+rawOreEmerald // 绿宝石粗矿 洗-筛
+rawOreGreenSapphire // 绿色蓝宝石粗矿 洗-筛
+rawOreGalena // 方铅矿粗矿 洗-保留
+rawOreIlmenite // 钛铁矿粗矿 浸洗（硫酸）
+rawOreInfusedAir // 风之蕴魔石粗矿 洗-筛
+rawOreInfusedEarth // 地之蕴魔石粗矿 洗-筛
+rawOreInfusedEntropy // 混沌蕴魔石粗矿 洗-筛
+rawOreInfusedFire // 火之蕴魔石粗矿 洗-筛
+rawOreInfusedWater // 水之蕴魔石粗矿 洗-筛
+rawOreInfusedOrder // 秩序蕴魔石粗矿 洗-筛
+rawOreIridium // 铱粗矿 浸洗(Hg)-热-粉
+rawOreLapis // 青金石粗矿 洗-筛
+rawOreLead // 铅粗矿 工业高炉
+rawOreLepidolite // 锂云母粗矿 洗-浸洗(盐酸)
+rawOreMeteoriclron // 陨铁粗矿 浸洗(Hg)-热-粉
+rawOreMithril // 秘银粗矿 浸洗(Hg)-粉-离
+rawOreMonazite // 独居石粗矿 洗-热-粉
+rawOreMytryl // 深空秘银粗矿 粉-离
+rawOreNetherQuartz // 下界石英粗矿 洗-筛
+rawOreNetherStar // 下界之星粗矿 洗-筛
+rawOreNickel // 镍粗矿 浸洗(Hg)-粉-离
+rawOreOlivine // 橄榄石粗矿 洗-筛
+rawOreOrundum // 合成玉粗矿 洗-筛
+rawOreOsmium // 锇粗矿 浸洗(Hg)-热-粉
+rawOrePlatinum // 铂粗矿 浸洗(Hg)-热-粉
+rawOrePlatinumMetallicPowder // 铂金属粗矿 浸洗(Hg)-热-粉
+rawOrePrasiolite // 堇云石粗矿 洗-筛
+rawOrePyrochlore // 烧绿石粗矿 洗-热-粉
+rawOrePyrolusite // 软锰矿粗矿 洗-热-粉
+rawOreQuartzite // 石英岩粗矿 洗-筛
+rawOreRedZircon // 红锆石粗矿 洗-筛
+rawOreRoquesite // 硫铟铜粗矿 保留
+rawOreRubracium // 褐铜粗矿 粉-粉
+rawOreRuby // 红宝石粗矿 洗-筛
+rawOreSalt // 盐粗矿 洗-筛
+rawOreSapphire // 蓝宝石粗矿 洗-筛
+rawOreScheelite // 白钨矿粗矿 洗-保留
+rawOreMolybdenite // 辉钼矿粗矿 洗-保留
+rawOreMolybdenum // 钼粗矿 洗-保留
+rawOreSphalerite // 闪锌矿粗矿 洗-保留
+rawOreTanzanite // 坦桑石粗矿 洗-筛
+rawOreTiberium // 泰伯利亚粗矿 洗-筛
+rawOreAdamantium // 精金粗矿
+rawOreAgarditeCd // 菱铁矿（Cd）粗矿
+rawOreAgarditeLa // 菱铁矿（La）粗矿
+rawOreAgarditeNd // 菱铁矿（Nd）粗矿
+rawOreAgarditeY // 菱铁矿（Y）粗矿
+rawOreAlduorite // 神秘蓝金粗矿
+rawOreAlmandine // 铁铝榴石粗矿
+rawOreAluminium // 铝粗矿
+rawOreAluminiumfluoride // 氟化铝粗矿
+rawOreAlunite // 明矾石粗矿
+rawOreAmericium // 镅粗矿
+rawOreAmethyst // 紫水晶粗矿
+rawOreAndradite // 钙铁榴石粗矿
+rawOreAntimony // 锑粗矿
+rawOreAnycopper // 铜粗矿
+rawOreAnyiron // 铁粗矿
+rawOreArdite // 阿迪特粗矿
+rawOreArsenic // 砷粗矿
+rawOreArsenopyrite // 砷铁矿粗矿
+rawOreAsbestos // 石棉粗矿
+rawOreAtheneite // 砷汞钯粗矿
+rawOreBandedIron // 带状铁矿粗矿
+rawOreBarite // 重晶石粗矿
+rawOreBarium // 钡粗矿
+rawOreBastnasite // 氟碳镧铈粗矿
+rawOreBedrockium // 基岩粗矿
+rawOreBeryllium // 铍粗矿
+rawOreBismuth // 铋粗矿
+rawOreBismuthinite // 辉铋粗矿
+rawOreBismutite // 泡铋粗矿
+rawOreBlackPlutonium // 黑钚粗矿
+rawOreBlueTopaz // 蓝黄玉粗矿
+rawOreBorax // 硼砂粗矿
+rawOreBornite // 斑铜粗矿
+rawOreBrownLimonite // 棕褐铁矿粗矿
+rawOreCadmium // 镉粗矿
+rawOreCaesium // 铯粗矿
+rawOreCalcite // 方解石粗矿
+rawOreCalciumDisilicide // 二硅化钙粗矿
+rawOreCalciumHydride // 氢化钙粗矿
+rawOreCallistolce // 木卫四冰粗矿
+rawOreCassiterite // 锡石粗矿
+rawOreCerite // 铈硅石粗矿
+rawOreCerium // 铈粗矿
+rawOreCertusQuartz // 赛特斯石英粗矿
+rawOreCheese // 奶酪粗矿
+rawOreChrome // 铬粗矿
+rawOreChromite // 铬铁矿粗矿
+rawOreChromo-Alumino-Povondraite // 铬铝电气石粗矿
+rawOreChrysotile // 白石棉粗矿
+rawOreCinnabar // 朱砂粗矿
+rawOreCobalt // 钴粗矿
+rawOreCobaltite // 辉钴矿粗矿
+rawOreCosmicNeutronium // 宇宙中子态素粗矿
+rawOreCrocoite // 赤铅矿粗矿
+rawOreCrudeRhodiumMetal // 粗制铑金属粗矿
+rawOreCryolite // 冰晶石粗矿
+rawOreCryoliteF // 冰晶石F粗矿
+rawOreDarklron // 玄铁粗矿
+rawOreDeeplron // 深渊铁粗矿
+rawOreDesh // 戴斯粗矿
+rawOreDiatomite // 硅藻土粗矿
+rawOreDjurleite // 久辉铜粗矿
+rawOreDolomite // 白云石粗矿
+rawOreDraconium // 龙粗矿
+rawOreDraconiumAwakened // 觉醒龙粗矿
+rawOreDuralumin // 硬铝粗矿
+rawOreDysprosium // 镝粗矿
+rawOreElectrotine // 蓝石粗矿
+rawOreElectrum // 琥珀金粗矿
+rawOreElectrumFlux // 通流琥珀金粗矿
+rawOreEmery // 金刚砂粗矿
+rawOreEnriched-NaquadahOxideMixture // 氧化富集硅岩混合物粗矿
+rawOreErbium // 铒粗矿
+rawOreEuropium // 铕粗矿
+rawOreFayalite // 铁橄榄石粗矿
+rawOreFerberite // 钨铁粗矿
+rawOreFirestone // 火石粗矿
+rawOreFlorencite // 磷铝铈矿粗矿
+rawOreFluor-Buergerite // 氟铁电气石粗矿
+rawOreFluorcaphite // 氟碳铈矿粗矿
+rawOreFluoriteF // 氟石(F)粗矿
+rawOreFluorspar // 氟石粗矿
+rawOreFoolsRuby // 尖晶石粗矿
+rawOreForce // 力量粗矿
+rawOreForcicium // 力之宝石粗矿
+rawOreForcillium // 力场宝石粗矿
+rawOreForsterite // 镁橄榄石粗矿
+rawOreGadoliniteCe // 硅铍钇矿(Ce)粗矿
+rawOreGadoliniteY // 硅铍钇矿(Y)粗矿
+rawOreGadolinium // 钆粗矿
+rawOreGarnetRed // 红石榴石粗矿
+rawOreGarnetYellow // 黄石榴石粗矿
+rawOreGarnierite // 硅镁镍矿粗矿
+rawOreGeikielite // 镁钛矿粗矿
+rawOreGlauconite // 海绿石粗矿
+rawOreGold // 金粗矿
+rawOreGraphite // 石墨粗矿
+rawOreGreenFuchsite // 绿铬云母粗矿
+rawOreGreenockite // 硫镉粗矿
+rawOreGrossular // 钙铝榴石粗矿
+rawOreGypsum // 石膏粗矿
+rawOreHedenbergite // 钙铁辉石粗矿
+rawOreHeeEndium // 终末粗矿
+rawOreHibonite // 黑铝钙石粗矿
+rawOreHolmium // 钬粗矿
+rawOreHuebnerite // 钨酸锰粗矿
+rawOreIchorium // 灵宝粗矿
+rawOreIndium // 铟粗矿
+rawOreInfinityCatalyst // 无尽催化剂粗矿
+rawOreInfusedGold // 注魔金粗矿
+rawOreIridiumMetalResidue // 铱金属渣粉粗矿
+rawOreIron // 铁粗矿
+rawOreJade // 玉粗矿
+rawOreJasper // 碧玉粗矿
+rawOreKyanite // 蓝晶石粗矿
+rawOreLanthaniteCe // 镧石(Ce)粗矿
+rawOreLanthaniteLa // 镧石(La)粗矿
+rawOreLanthaniteNd // 镧石()粗矿
+rawOreLanthanum // 镧粗矿
+rawOreLazurite // 蓝金石粗矿
+rawOreLeachResidue // 浸出渣粗矿
+rawOreLedox // 深铅粗矿
+rawOreLepersonnite // 绿泥石粗矿
+rawOreLignite // 褐煤粗矿
+rawOreLithium // 锂粗矿
+rawOreLoellingite // 斜方砷铁粗矿
+rawOreLutetium // 镥粗矿
+rawOreMagnesite // 菱镁矿粗矿
+rawOreMagnesium // 镁粗矿
+rawOreMagnetite // 磁铁矿粗矿
+rawOreMalachite // 孔雀石粗矿
+rawOreManganese // 锰粗矿
+rawOreManyullyn // 玛玉灵粗矿
+rawOreMica // 云母粗矿
+rawOreMirabilite // 芒硝粗矿
+rawOreMysteriousCrystal // 神秘水晶粗矿
+rawOreNaquadah // 硅岩粗矿
+rawOreNaquadahEnriched // 富集硅岩粗矿
+rawOreNaquadahOxideMixture // 氧化富集硅岩混合物粗矿
+rawOreNaquadria // 超能硅岩粗矿
+rawOreNaquadriaOxideMixture // 氧化超能硅岩混合物粗矿
+rawOreNeodymium // 钕粗矿
+rawOreNeutronium // 中子粗矿
+rawOreNichromite // 镍铬矿粗矿
+rawOreNiobium // 铌粗矿
+rawOreNiter // 硝石粗矿
+rawOreOilsands // 油砂粗矿
+rawOreOlenite // 铝电气石粗矿
+rawOreOpal // 蛋白石粗矿
+rawOreOrangeDescloizite // 橙钒铅铜粗矿
+rawOreOrichalcum // 山铜粗矿
+rawOreOriharukon // 奥利哈钢粗矿
+rawOrePalladium // 钯粗矿
+rawOrePalladiumMetallicPowder // 钯金属粗矿
+rawOrePentlandite // 镍黄铁矿粗矿
+rawOrePerlite // 珍珠岩粗矿
+rawOrePhosphate // 磷酸盐粗矿
+rawOrePigIron // 生铁粗矿
+rawOrePlutonium // 钚-239粗矿
+rawOrePlutonium241 // 钚-241粗矿
+rawOrePollucite // 铯榴石粗矿
+rawOrePolycrase // 锗铀钇矿粗矿
+rawOrePowellite // 钼钙矿粗矿
+rawOrePraseodymium // 镨粗矿
+rawOrePromethium // 钷粗矿
+rawOrePumice // 浮岩粗矿
+rawOrePyrite // 黄铁矿粗矿
+rawOrePyrope // 镁铝榴石粗矿
+rawOreQuantium // 量子粗矿
+rawOreRareEarthl // 稀土I粗矿
+rawOreRareEarthlII // 稀土II粗矿
+rawOreRareEarthlII // 稀土II粗矿
+rawOreRarestMetalResidue // 稀有金属渣粗矿
+rawOreRealgar // 雄黄粗矿
+rawOreRedDescloizite // 红钒铅锌粗矿
+rawOreRedFuchsite // 红铬云母粗矿
+rawOreRedstone // 红石粗矿
+rawOreRoastedlron // 焙烧铁粗矿
+rawOreRoastedNickel // 焙烧镍粗矿
+rawOreRockSalt // 岩盐粗矿
+rawOreRubidium // 铷粗矿
+rawOreRunite // 虚恩粗矿
+rawOreRutile // 金红石粗矿
+rawOreSaltpeter // 硝石粗矿
+rawOreSamarium // 钐粗矿
+rawOreSamarskiteY // 铌钇矿(Y)粗矿
+rawOreSamarskiteYb // 铌钇矿(Yb)粗矿
+rawOreScandium // 钪粗矿
+rawOreShadow // 暗影金属粗矿
+rawOreShadowIron // 暗影铁粗矿
+rawOreSilicon // 硅粗矿
+rawOreSiliconSolarGrade // 太阳能级硅(多晶硅)粗矿
+rawOreSilver // 银粗矿
+rawOreSoapstone // 皂石粗矿
+rawOreSodalite // 方钠石粗矿
+rawOreSpessartine // 锰铝榴石粗矿
+rawOreSpodumene // 锂辉石粗矿
+rawOreStibnite // 辉锑矿粗矿
+rawOreStrontium // 锶粗矿
+rawOreSulfur // 硫粗矿
+rawOreTantalite // 钽铁矿粗矿
+rawOreTantalum // 钽粗矿
+rawOreTartarite // 溶火之石粗矿
+rawOreTellurium // 碲粗矿
+rawOreTemagamite // 碲汞钯粗矿
+rawOreTengamRaw // 生磁粗矿
+rawOreTerbium // 铽粗矿
+rawOreTerlinguaite // 黄氯汞粗矿
+rawOreTetrahedrite // 黝铜矿粗矿
+rawOreThorianite // 方钍石粗矿
+rawOreThorium // 钍粗矿
+rawOreThulium // 铥粗矿
+rawOreTin // 锡粗矿
+rawOreTitanite // 榍石粗矿
+rawOreTitanium // 钛粗矿
+rawOreTopaz // 黄玉粗矿
+rawOreTricalciumPhosphate // 磷酸三钙粗矿
+rawOreTrinium // 三元金属粗矿
+rawOreTritanium // 三钛粗矿
+rawOreTrona // 天然碱粗矿
+rawOreTungstate // 钨酸锂粗矿
+rawOreTungsten // 钨粗矿
+rawOreUraninite // 晶质铀矿粗矿
+rawOreUranium // 铀-238粗矿
+rawOreUranium235 // 铀-235粗矿
+rawOreUvarovite // 钙铬榴石粗矿
+rawOreVanadio-Oxy-Dravite // 钒镁电气石粗矿
+rawOreVanadium // 钒粗矿
+rawOreVanadiumMagnetite // 钒磁铁矿粗矿
+rawOreVinteum // 温特姆粗矿
+rawOreVulcanite // 胶木粗矿
+rawOreVyroxeres // 幽冥剧毒结晶粗矿
+rawOreWittichenite // 硫铋铜粗矿
+rawOreWollastonite // 硅灰石粗矿
+rawOreWulfenite // 钼铅矿粗矿
+rawOreXenotime // 磷钇粗矿
+rawOreYellowLimonite // 黄褐铁矿粗矿
+rawOreYtterbium // 镱粗矿
+rawOreYttrialite // 硅钍钇粗矿
+rawOreYttrium // 钇粗矿
+rawOreYttrocerite // 铈钇矿粗矿
+rawOreZeolite // 沸石粗矿
+rawOreZimbabweite // 钛铌铅钠石粗矿
+rawOreZinc // 锌粗矿
+rawOreZircon // 锆石粗矿
+rawOreZirconolite // 钛锆酸钙粗矿
+rawOreZircophyllite // 锆星叶石粗矿
+rawOreZirkelite // 钛锆钍粗矿
+
+=== 粉碎~ ===
+
+crushedAmber // 粉碎琥珀 洗-筛
+crushedApatite // 粉碎磷灰石 洗-筛
+crushedBArTiMaEuSNek // 粉碎BArTiMaEuSNek 洗-筛
+crushedBauxite // 粉碎铝土矿 洗-热-粉
+crushedCoal // 粉碎煤 洗-筛
+crushedCooperite // 粉碎硫铂矿 洗or浸洗(Hg)
+crushedDiamond // 粉碎钻石 洗-筛
+crushedDilithium // 粉碎双锂 洗-筛
+crushedEmerald // 粉碎绿宝石 洗-筛
+crushedGreenSapphire // 粉碎绿色蓝宝石 洗-筛
+crushedGalena // 粉碎方铅矿 洗-保留
+crushedIlmenite // 粉碎钛铁矿 浸洗（硫酸）
+crushedInfusedAir // 粉碎风之蕴魔石 洗-筛
+crushedInfusedEarth // 粉碎地之蕴魔石 洗-筛
+crushedInfusedEntropy // 粉碎混沌蕴魔石 洗-筛
+crushedInfusedFire // 粉碎火之蕴魔石 洗-筛
+crushedInfusedWater // 粉碎水之蕴魔石 洗-筛
+crushedInfusedOrder // 粉碎秩序蕴魔石 洗-筛
+crushedIridium // 粉碎铱 浸洗(Hg)-热-粉
+crushedLapis // 粉碎青金石 洗-筛
+crushedLead // 粉碎铅 工业高炉
+crushedLepidolite // 粉碎锂云母 洗-浸洗(盐酸)
+crushedMeteoriclron // 粉碎陨铁 浸洗(Hg)-热-粉
+crushedMithril // 粉碎秘银 浸洗(Hg)-粉-离
+crushedMonazite // 粉碎独居石 洗-热-粉
+crushedMytryl // 粉碎深空秘银 粉-离
+crushedNetherQuartz // 粉碎下界石英 洗-筛
+crushedNetherStar // 粉碎下界之星 洗-筛
+crushedNickel // 粉碎镍 浸洗(Hg)-粉-离
+crushedOlivine // 粉碎橄榄石 洗-筛
+crushedOrundum // 粉碎合成玉 洗-筛
+crushedOsmium // 粉碎锇 浸洗(Hg)-热-粉
+crushedPlatinum // 粉碎铂 浸洗(Hg)-热-粉
+crushedPlatinumMetallicPowder // 粉碎铂金属 浸洗(Hg)-热-粉
+crushedPrasiolite // 粉碎堇云石 洗-筛
+crushedPyrochlore // 粉碎烧绿石 洗-热-粉
+crushedPyrolusite // 粉碎软锰矿 洗-热-粉
+crushedQuartzite // 粉碎石英岩 洗-筛
+crushedRedZircon // 粉碎红锆石 洗-筛
+crushedRoquesite // 粉碎硫铟铜 保留
+crushedRubracium // 粉碎褐铜 粉-粉
+crushedRuby // 粉碎红宝石 洗-筛
+crushedSalt // 粉碎盐 洗-筛
+crushedSapphire // 粉碎蓝宝石 洗-筛
+crushedScheelite // 粉碎白钨矿 洗-保留
+crushedMolybdenite // 粉碎辉钼矿 洗-保留
+crushedMolybdenum // 粉碎钼 洗-保留
+crushedSphalerite // 粉碎闪锌矿 洗-保留
+crushedTanzanite // 粉碎坦桑石 洗-筛
+crushedTiberium // 粉碎泰伯利亚 洗-筛
+crushedAdamantium // 粉碎精金
+crushedAgarditeCd // 粉碎菱铁矿（Cd）
+crushedAgarditeLa // 粉碎菱铁矿（La）
+crushedAgarditeNd // 粉碎菱铁矿（Nd）
+crushedAgarditeY // 粉碎菱铁矿（Y）
+crushedAlduorite // 粉碎神秘蓝金
+crushedAlmandine // 粉碎铁铝榴石
+crushedAluminium // 粉碎铝
+crushedAluminiumfluoride // 粉碎氟化铝
+crushedAlunite // 粉碎明矾石
+crushedAmericium // 粉碎镅
+crushedAmethyst // 粉碎紫水晶
+crushedAndradite // 粉碎钙铁榴石
+crushedAntimony // 粉碎锑
+crushedAnycopper // 粉碎铜
+crushedAnyiron // 粉碎铁
+crushedArdite // 粉碎阿迪特
+crushedArsenic // 粉碎砷
+crushedArsenopyrite // 粉碎砷铁矿
+crushedAsbestos // 粉碎石棉
+crushedAtheneite // 粉碎砷汞钯
+crushedBandedIron // 粉碎带状铁矿
+crushedBarite // 粉碎重晶石
+crushedBarium // 粉碎钡
+crushedBastnasite // 粉碎氟碳镧铈
+crushedBedrockium // 粉碎基岩
+crushedBeryllium // 粉碎铍
+crushedBismuth // 粉碎铋
+crushedBismuthinite // 粉碎辉铋
+crushedBismutite // 粉碎泡铋
+crushedBlackPlutonium // 粉碎黑钚
+crushedBlueTopaz // 粉碎蓝黄玉
+crushedBorax // 粉碎硼砂
+crushedBornite // 粉碎斑铜
+crushedBrownLimonite // 粉碎棕褐铁矿
+crushedCadmium // 粉碎镉
+crushedCaesium // 粉碎铯
+crushedCalcite // 粉碎方解石
+crushedCalciumDisilicide // 粉碎二硅化钙
+crushedCalciumHydride // 粉碎氢化钙
+crushedCallistolce // 粉碎木卫四冰
+crushedCassiterite // 粉碎锡石
+crushedCerite // 粉碎铈硅石
+crushedCerium // 粉碎铈
+crushedCertusQuartz // 粉碎赛特斯石英
+crushedCheese // 粉碎奶酪
+crushedChrome // 粉碎铬
+crushedChromite // 粉碎铬铁矿
+crushedChromo-Alumino-Povondraite // 粉碎铬铝电气石
+crushedChrysotile // 粉碎白石棉
+crushedCinnabar // 粉碎朱砂
+crushedCobalt // 粉碎钴
+crushedCobaltite // 粉碎辉钴矿
+crushedCosmicNeutronium // 粉碎宇宙中子态素
+crushedCrocoite // 粉碎赤铅矿
+crushedCrudeRhodiumMetal // 粉碎粗制铑金属
+crushedCryolite // 粉碎冰晶石
+crushedCryoliteF // 粉碎冰晶石F
+crushedDarklron // 粉碎玄铁
+crushedDeeplron // 粉碎深渊铁
+crushedDesh // 粉碎戴斯
+crushedDiatomite // 粉碎硅藻土
+crushedDjurleite // 粉碎久辉铜
+crushedDolomite // 粉碎白云石
+crushedDraconium // 粉碎龙
+crushedDraconiumAwakened // 粉碎觉醒龙
+crushedDuralumin // 粉碎硬铝
+crushedDysprosium // 粉碎镝
+crushedElectrotine // 粉碎蓝石
+crushedElectrum // 粉碎琥珀金
+crushedElectrumFlux // 粉碎通流琥珀金
+crushedEmery // 粉碎金刚砂
+crushedEnriched-NaquadahOxideMixture // 粉碎氧化富集硅岩混合物
+crushedErbium // 粉碎铒
+crushedEuropium // 粉碎铕
+crushedFayalite // 粉碎铁橄榄石
+crushedFerberite // 粉碎钨铁
+crushedFirestone // 粉碎火石
+crushedFlorencite // 粉碎磷铝铈矿
+crushedFluor-Buergerite // 粉碎氟铁电气石
+crushedFluorcaphite // 粉碎氟碳铈矿
+crushedFluoriteF // 粉碎氟石(F)
+crushedFluorspar // 粉碎氟石
+crushedFoolsRuby // 粉碎尖晶石
+crushedForce // 粉碎力量
+crushedForcicium // 粉碎力之宝石
+crushedForcillium // 粉碎力场宝石
+crushedForsterite // 粉碎镁橄榄石
+crushedGadoliniteCe // 粉碎硅铍钇矿(Ce)
+crushedGadoliniteY // 粉碎硅铍钇矿(Y)
+crushedGadolinium // 粉碎钆
+crushedGarnetRed // 粉碎红石榴石
+crushedGarnetYellow // 粉碎黄石榴石
+crushedGarnierite // 粉碎硅镁镍矿
+crushedGeikielite // 粉碎镁钛矿
+crushedGlauconite // 粉碎海绿石
+crushedGold // 粉碎金
+crushedGraphite // 粉碎石墨
+crushedGreenFuchsite // 粉碎绿铬云母
+crushedGreenockite // 粉碎硫镉
+crushedGrossular // 粉碎钙铝榴石
+crushedGypsum // 粉碎石膏
+crushedHedenbergite // 粉碎钙铁辉石
+crushedHeeEndium // 粉碎终末
+crushedHibonite // 粉碎黑铝钙石
+crushedHolmium // 粉碎钬
+crushedHuebnerite // 粉碎钨酸锰
+crushedIchorium // 粉碎灵宝
+crushedIndium // 粉碎铟
+crushedInfinityCatalyst // 粉碎无尽催化剂
+crushedInfusedGold // 粉碎注魔金
+crushedIridiumMetalResidue // 粉碎铱金属渣粉
+crushedIron // 粉碎铁
+crushedJade // 粉碎玉
+crushedJasper // 粉碎碧玉
+crushedKyanite // 粉碎蓝晶石
+crushedLanthaniteCe // 粉碎镧石(Ce)
+crushedLanthaniteLa // 粉碎镧石(La)
+crushedLanthaniteNd // 粉碎镧石()
+crushedLanthanum // 粉碎镧
+crushedLazurite // 粉碎蓝金石
+crushedLeachResidue // 粉碎浸出渣
+crushedLedox // 粉碎深铅
+crushedLepersonnite // 粉碎绿泥石
+crushedLignite // 粉碎褐煤
+crushedLithium // 粉碎锂
+crushedLoellingite // 粉碎斜方砷铁
+crushedLutetium // 粉碎镥
+crushedMagnesite // 粉碎菱镁矿
+crushedMagnesium // 粉碎镁
+crushedMagnetite // 粉碎磁铁矿
+crushedMalachite // 粉碎孔雀石
+crushedManganese // 粉碎锰
+crushedManyullyn // 粉碎玛玉灵
+crushedMica // 粉碎云母
+crushedMirabilite // 粉碎芒硝
+crushedMysteriousCrystal // 粉碎神秘水晶
+crushedNaquadah // 粉碎硅岩
+crushedNaquadahEnriched // 粉碎富集硅岩
+crushedNaquadahOxideMixture // 粉碎氧化富集硅岩混合物
+crushedNaquadria // 粉碎超能硅岩
+crushedNaquadriaOxideMixture // 粉碎氧化超能硅岩混合物
+crushedNeodymium // 粉碎钕
+crushedNeutronium // 粉碎中子
+crushedNichromite // 粉碎镍铬矿
+crushedNiobium // 粉碎铌
+crushedNiter // 粉碎硝石
+crushedOilsands // 粉碎油砂
+crushedOlenite // 粉碎铝电气石
+crushedOpal // 粉碎蛋白石
+crushedOrangeDescloizite // 粉碎橙钒铅铜
+crushedOrichalcum // 粉碎山铜
+crushedOriharukon // 粉碎奥利哈钢
+crushedPalladium // 粉碎钯
+crushedPalladiumMetallicPowder // 粉碎钯金属
+crushedPentlandite // 粉碎镍黄铁矿
+crushedPerlite // 粉碎珍珠岩
+crushedPhosphate // 粉碎磷酸盐
+crushedPigIron // 粉碎生铁
+crushedPlutonium // 粉碎钚-239
+crushedPlutonium241 // 粉碎钚-241
+crushedPollucite // 粉碎铯榴石
+crushedPolycrase // 粉碎锗铀钇矿
+crushedPowellite // 粉碎钼钙矿
+crushedPraseodymium // 粉碎镨
+crushedPromethium // 粉碎钷
+crushedPumice // 粉碎浮岩
+crushedPyrite // 粉碎黄铁矿
+crushedPyrope // 粉碎镁铝榴石
+crushedQuantium // 粉碎量子
+crushedRareEarthl // 粉碎稀土I
+crushedRareEarthlII // 粉碎稀土II
+crushedRareEarthlII // 粉碎稀土II
+crushedRarestMetalResidue // 粉碎稀有金属渣
+crushedRealgar // 粉碎雄黄
+crushedRedDescloizite // 粉碎红钒铅锌
+crushedRedFuchsite // 粉碎红铬云母
+crushedRedstone // 粉碎红石
+crushedRoastedlron // 粉碎焙烧铁
+crushedRoastedNickel // 粉碎焙烧镍
+crushedRockSalt // 粉碎岩盐
+crushedRubidium // 粉碎铷
+crushedRunite // 粉碎虚恩
+crushedRutile // 粉碎金红石
+crushedSaltpeter // 粉碎硝石
+crushedSamarium // 粉碎钐
+crushedSamarskiteY // 粉碎铌钇矿(Y)
+crushedSamarskiteYb // 粉碎铌钇矿(Yb)
+crushedScandium // 粉碎钪
+crushedShadow // 粉碎暗影金属
+crushedShadowIron // 粉碎暗影铁
+crushedSilicon // 粉碎硅
+crushedSiliconSolarGrade // 粉碎太阳能级硅(多晶硅)
+crushedSilver // 粉碎银
+crushedSoapstone // 粉碎皂石
+crushedSodalite // 粉碎方钠石
+crushedSpessartine // 粉碎锰铝榴石
+crushedSpodumene // 粉碎锂辉石
+crushedStibnite // 粉碎辉锑矿
+crushedStrontium // 粉碎锶
+crushedSulfur // 粉碎硫
+crushedTantalite // 粉碎钽铁矿
+crushedTantalum // 粉碎钽
+crushedTartarite // 粉碎溶火之石
+crushedTellurium // 粉碎碲
+crushedTemagamite // 粉碎碲汞钯
+crushedTengamRaw // 粉碎生磁
+crushedTerbium // 粉碎铽
+crushedTerlinguaite // 粉碎黄氯汞
+crushedTetrahedrite // 粉碎黝铜矿
+crushedThorianite // 粉碎方钍石
+crushedThorium // 粉碎钍
+crushedThulium // 粉碎铥
+crushedTin // 粉碎锡
+crushedTitanite // 粉碎榍石
+crushedTitanium // 粉碎钛
+crushedTopaz // 粉碎黄玉
+crushedTricalciumPhosphate // 粉碎磷酸三钙
+crushedTrinium // 粉碎三元金属
+crushedTritanium // 粉碎三钛
+crushedTrona // 粉碎天然碱
+crushedTungstate // 粉碎钨酸锂
+crushedTungsten // 粉碎钨
+crushedUraninite // 粉碎晶质铀矿
+crushedUranium // 粉碎铀-238
+crushedUranium235 // 粉碎铀-235
+crushedUvarovite // 粉碎钙铬榴石
+crushedVanadio-Oxy-Dravite // 粉碎钒镁电气石
+crushedVanadium // 粉碎钒
+crushedVanadiumMagnetite // 粉碎钒磁铁矿
+crushedVinteum // 粉碎温特姆
+crushedVulcanite // 粉碎胶木
+crushedVyroxeres // 粉碎幽冥剧毒结晶
+crushedWittichenite // 粉碎硫铋铜
+crushedWollastonite // 粉碎硅灰石
+crushedWulfenite // 粉碎钼铅矿
+crushedXenotime // 粉碎磷钇
+crushedYellowLimonite // 粉碎黄褐铁矿
+crushedYtterbium // 粉碎镱
+crushedYttrialite // 粉碎硅钍钇
+crushedYttrium // 粉碎钇
+crushedYttrocerite // 粉碎铈钇矿
+crushedZeolite // 粉碎沸石
+crushedZimbabweite // 粉碎钛铌铅钠石
+crushedZinc // 粉碎锌
+crushedZircon // 粉碎锆石
+crushedZirconolite // 粉碎钛锆酸钙
+crushedZircophyllite // 粉碎锆星叶石
+crushedZirkelite // 粉碎钛锆钍
+
+=== 洗净~ ===
+
+crushedPurifiedAmber // 洗净琥珀 洗-筛
+crushedPurifiedApatite // 洗净磷灰石 洗-筛
+crushedPurifiedBArTiMaEuSNek // 洗净BArTiMaEuSNek 洗-筛
+crushedPurifiedCoal // 洗净煤 洗-筛
+crushedPurifiedCooperite // 洗净硫铂矿 洗or浸洗(Hg)
+crushedPurifiedDiamond // 洗净钻石 洗-筛
+crushedPurifiedDilithium // 洗净双锂 洗-筛
+crushedPurifiedEmerald // 洗净绿宝石 洗-筛
+crushedPurifiedGreenSapphire // 洗净绿色蓝宝石 洗-筛
+crushedPurifiedGalena // 洗净方铅矿 洗-保留
+crushedPurifiedIlmenite // 洗净钛铁矿 浸洗（硫酸）
+crushedPurifiedInfusedAir // 洗净风之蕴魔石 洗-筛
+crushedPurifiedInfusedEarth // 洗净地之蕴魔石 洗-筛
+crushedPurifiedInfusedEntropy // 洗净混沌蕴魔石 洗-筛
+crushedPurifiedInfusedFire // 洗净火之蕴魔石 洗-筛
+crushedPurifiedInfusedWater // 洗净水之蕴魔石 洗-筛
+crushedPurifiedInfusedOrder // 洗净秩序蕴魔石 洗-筛
+crushedPurifiedLapis // 洗净青金石 洗-筛
+crushedPurifiedLead // 洗净铅 工业高炉
+crushedPurifiedLepidolite // 洗净锂云母 洗-浸洗(盐酸)
+crushedPurifiedMithril // 洗净秘银 浸洗(Hg)-粉-离
+crushedPurifiedMytryl // 洗净深空秘银 粉-离
+crushedPurifiedNetherQuartz // 洗净下界石英 洗-筛
+crushedPurifiedNetherStar // 洗净下界之星 洗-筛
+crushedPurifiedNickel // 洗净镍 浸洗(Hg)-粉-离
+crushedPurifiedOlivine // 洗净橄榄石 洗-筛
+crushedPurifiedOrundum // 洗净合成玉 洗-筛
+crushedPurifiedPlatinumMetallicPowder // 洗净铂金属 浸洗(Hg)-热-粉
+crushedPurifiedPrasiolite // 洗净堇云石 洗-筛
+crushedPurifiedQuartzite // 洗净石英岩 洗-筛
+crushedPurifiedRedZircon // 洗净红锆石 洗-筛
+crushedPurifiedRoquesite // 洗净硫铟铜 保留
+crushedPurifiedRubracium // 洗净褐铜 粉-粉
+crushedPurifiedRuby // 洗净红宝石 洗-筛
+crushedPurifiedSalt // 洗净盐 洗-筛
+crushedPurifiedSapphire // 洗净蓝宝石 洗-筛
+crushedPurifiedScheelite // 洗净白钨矿 洗-保留
+crushedPurifiedMolybdenite // 洗净辉钼矿 洗-保留
+crushedPurifiedMolybdenum // 洗净钼 洗-保留
+crushedPurifiedSphalerite // 洗净闪锌矿 洗-保留
+crushedPurifiedTanzanite // 洗净坦桑石 洗-筛
+crushedPurifiedTiberium // 洗净泰伯利亚 洗-筛
+crushedPurifiedAdamantium // 洗净精金
+crushedPurifiedAgarditeCd // 洗净菱铁矿（Cd）
+crushedPurifiedAgarditeLa // 洗净菱铁矿（La）
+crushedPurifiedAgarditeNd // 洗净菱铁矿（Nd）
+crushedPurifiedAgarditeY // 洗净菱铁矿（Y）
+crushedPurifiedAlduorite // 洗净神秘蓝金
+crushedPurifiedAlmandine // 洗净铁铝榴石
+crushedPurifiedAluminium // 洗净铝
+crushedPurifiedAluminiumfluoride // 洗净氟化铝
+crushedPurifiedAlunite // 洗净明矾石
+crushedPurifiedAmericium // 洗净镅
+crushedPurifiedAmethyst // 洗净紫水晶
+crushedPurifiedAndradite // 洗净钙铁榴石
+crushedPurifiedAntimony // 洗净锑
+crushedPurifiedAnycopper // 洗净铜
+crushedPurifiedAnyiron // 洗净铁
+crushedPurifiedArdite // 洗净阿迪特
+crushedPurifiedArsenic // 洗净砷
+crushedPurifiedArsenopyrite // 洗净砷铁矿
+crushedPurifiedAsbestos // 洗净石棉
+crushedPurifiedAtheneite // 洗净砷汞钯
+crushedPurifiedBandedIron // 洗净带状铁矿
+crushedPurifiedBarite // 洗净重晶石
+crushedPurifiedBarium // 洗净钡
+crushedPurifiedBastnasite // 洗净氟碳镧铈
+crushedPurifiedBedrockium // 洗净基岩
+crushedPurifiedBeryllium // 洗净铍
+crushedPurifiedBismuth // 洗净铋
+crushedPurifiedBismuthinite // 洗净辉铋
+crushedPurifiedBismutite // 洗净泡铋
+crushedPurifiedBlackPlutonium // 洗净黑钚
+crushedPurifiedBlueTopaz // 洗净蓝黄玉
+crushedPurifiedBorax // 洗净硼砂
+crushedPurifiedBornite // 洗净斑铜
+crushedPurifiedBrownLimonite // 洗净棕褐铁矿
+crushedPurifiedCadmium // 洗净镉
+crushedPurifiedCaesium // 洗净铯
+crushedPurifiedCalcite // 洗净方解石
+crushedPurifiedCalciumDisilicide // 洗净二硅化钙
+crushedPurifiedCalciumHydride // 洗净氢化钙
+crushedPurifiedCallistolce // 洗净木卫四冰
+crushedPurifiedCassiterite // 洗净锡石
+crushedPurifiedCerite // 洗净铈硅石
+crushedPurifiedCerium // 洗净铈
+crushedPurifiedCertusQuartz // 洗净赛特斯石英
+crushedPurifiedCheese // 洗净奶酪
+crushedPurifiedChrome // 洗净铬
+crushedPurifiedChromite // 洗净铬铁矿
+crushedPurifiedChromo-Alumino-Povondraite // 洗净铬铝电气石
+crushedPurifiedChrysotile // 洗净白石棉
+crushedPurifiedCinnabar // 洗净朱砂
+crushedPurifiedCobalt // 洗净钴
+crushedPurifiedCobaltite // 洗净辉钴矿
+crushedPurifiedCosmicNeutronium // 洗净宇宙中子态素
+crushedPurifiedCrocoite // 洗净赤铅矿
+crushedPurifiedCrudeRhodiumMetal // 洗净粗制铑金属
+crushedPurifiedCryolite // 洗净冰晶石
+crushedPurifiedCryoliteF // 洗净冰晶石F
+crushedPurifiedDarklron // 洗净玄铁
+crushedPurifiedDeeplron // 洗净深渊铁
+crushedPurifiedDesh // 洗净戴斯
+crushedPurifiedDiatomite // 洗净硅藻土
+crushedPurifiedDjurleite // 洗净久辉铜
+crushedPurifiedDolomite // 洗净白云石
+crushedPurifiedDraconium // 洗净龙
+crushedPurifiedDraconiumAwakened // 洗净觉醒龙
+crushedPurifiedDuralumin // 洗净硬铝
+crushedPurifiedDysprosium // 洗净镝
+crushedPurifiedElectrotine // 洗净蓝石
+crushedPurifiedElectrum // 洗净琥珀金
+crushedPurifiedElectrumFlux // 洗净通流琥珀金
+crushedPurifiedEmery // 洗净金刚砂
+crushedPurifiedEnriched-NaquadahOxideMixture // 洗净氧化富集硅岩混合物
+crushedPurifiedErbium // 洗净铒
+crushedPurifiedEuropium // 洗净铕
+crushedPurifiedFayalite // 洗净铁橄榄石
+crushedPurifiedFerberite // 洗净钨铁
+crushedPurifiedFirestone // 洗净火石
+crushedPurifiedFlorencite // 洗净磷铝铈矿
+crushedPurifiedFluor-Buergerite // 洗净氟铁电气石
+crushedPurifiedFluorcaphite // 洗净氟碳铈矿
+crushedPurifiedFluoriteF // 洗净氟石(F)
+crushedPurifiedFluorspar // 洗净氟石
+crushedPurifiedFoolsRuby // 洗净尖晶石
+crushedPurifiedForce // 洗净力量
+crushedPurifiedForcicium // 洗净力之宝石
+crushedPurifiedForcillium // 洗净力场宝石
+crushedPurifiedForsterite // 洗净镁橄榄石
+crushedPurifiedGadoliniteCe // 洗净硅铍钇矿(Ce)
+crushedPurifiedGadoliniteY // 洗净硅铍钇矿(Y)
+crushedPurifiedGadolinium // 洗净钆
+crushedPurifiedGarnetRed // 洗净红石榴石
+crushedPurifiedGarnetYellow // 洗净黄石榴石
+crushedPurifiedGarnierite // 洗净硅镁镍矿
+crushedPurifiedGeikielite // 洗净镁钛矿
+crushedPurifiedGlauconite // 洗净海绿石
+crushedPurifiedGold // 洗净金
+crushedPurifiedGraphite // 洗净石墨
+crushedPurifiedGreenFuchsite // 洗净绿铬云母
+crushedPurifiedGreenockite // 洗净硫镉
+crushedPurifiedGrossular // 洗净钙铝榴石
+crushedPurifiedGypsum // 洗净石膏
+crushedPurifiedHedenbergite // 洗净钙铁辉石
+crushedPurifiedHeeEndium // 洗净终末
+crushedPurifiedHibonite // 洗净黑铝钙石
+crushedPurifiedHolmium // 洗净钬
+crushedPurifiedHuebnerite // 洗净钨酸锰
+crushedPurifiedIchorium // 洗净灵宝
+crushedPurifiedIndium // 洗净铟
+crushedPurifiedInfinityCatalyst // 洗净无尽催化剂
+crushedPurifiedInfusedGold // 洗净注魔金
+crushedPurifiedIridiumMetalResidue // 洗净铱金属渣粉
+crushedPurifiedIron // 洗净铁
+crushedPurifiedJade // 洗净玉
+crushedPurifiedJasper // 洗净碧玉
+crushedPurifiedKyanite // 洗净蓝晶石
+crushedPurifiedLanthaniteCe // 洗净镧石(Ce)
+crushedPurifiedLanthaniteLa // 洗净镧石(La)
+crushedPurifiedLanthaniteNd // 洗净镧石()
+crushedPurifiedLanthanum // 洗净镧
+crushedPurifiedLazurite // 洗净蓝金石
+crushedPurifiedLeachResidue // 洗净浸出渣
+crushedPurifiedLedox // 洗净深铅
+crushedPurifiedLepersonnite // 洗净绿泥石
+crushedPurifiedLignite // 洗净褐煤
+crushedPurifiedLithium // 洗净锂
+crushedPurifiedLoellingite // 洗净斜方砷铁
+crushedPurifiedLutetium // 洗净镥
+crushedPurifiedMagnesite // 洗净菱镁矿
+crushedPurifiedMagnesium // 洗净镁
+crushedPurifiedMagnetite // 洗净磁铁矿
+crushedPurifiedMalachite // 洗净孔雀石
+crushedPurifiedManganese // 洗净锰
+crushedPurifiedManyullyn // 洗净玛玉灵
+crushedPurifiedMica // 洗净云母
+crushedPurifiedMirabilite // 洗净芒硝
+crushedPurifiedMysteriousCrystal // 洗净神秘水晶
+crushedPurifiedNaquadah // 洗净硅岩
+crushedPurifiedNaquadahEnriched // 洗净富集硅岩
+crushedPurifiedNaquadahOxideMixture // 洗净氧化富集硅岩混合物
+crushedPurifiedNaquadria // 洗净超能硅岩
+crushedPurifiedNaquadriaOxideMixture // 洗净氧化超能硅岩混合物
+crushedPurifiedNeodymium // 洗净钕
+crushedPurifiedNeutronium // 洗净中子
+crushedPurifiedNichromite // 洗净镍铬矿
+crushedPurifiedNiobium // 洗净铌
+crushedPurifiedNiter // 洗净硝石
+crushedPurifiedOilsands // 洗净油砂
+crushedPurifiedOlenite // 洗净铝电气石
+crushedPurifiedOpal // 洗净蛋白石
+crushedPurifiedOrangeDescloizite // 洗净橙钒铅铜
+crushedPurifiedOrichalcum // 洗净山铜
+crushedPurifiedOriharukon // 洗净奥利哈钢
+crushedPurifiedPalladium // 洗净钯
+crushedPurifiedPalladiumMetallicPowder // 洗净钯金属
+crushedPurifiedPentlandite // 洗净镍黄铁矿
+crushedPurifiedPerlite // 洗净珍珠岩
+crushedPurifiedPhosphate // 洗净磷酸盐
+crushedPurifiedPigIron // 洗净生铁
+crushedPurifiedPlutonium // 洗净钚-239
+crushedPurifiedPlutonium241 // 洗净钚-241
+crushedPurifiedPollucite // 洗净铯榴石
+crushedPurifiedPolycrase // 洗净锗铀钇矿
+crushedPurifiedPowellite // 洗净钼钙矿
+crushedPurifiedPraseodymium // 洗净镨
+crushedPurifiedPromethium // 洗净钷
+crushedPurifiedPumice // 洗净浮岩
+crushedPurifiedPyrite // 洗净黄铁矿
+crushedPurifiedPyrope // 洗净镁铝榴石
+crushedPurifiedQuantium // 洗净量子
+crushedPurifiedRareEarthl // 洗净稀土I
+crushedPurifiedRareEarthlII // 洗净稀土II
+crushedPurifiedRareEarthlII // 洗净稀土II
+crushedPurifiedRarestMetalResidue // 洗净稀有金属渣
+crushedPurifiedRealgar // 洗净雄黄
+crushedPurifiedRedDescloizite // 洗净红钒铅锌
+crushedPurifiedRedFuchsite // 洗净红铬云母
+crushedPurifiedRedstone // 洗净红石
+crushedPurifiedRoastedlron // 洗净焙烧铁
+crushedPurifiedRoastedNickel // 洗净焙烧镍
+crushedPurifiedRockSalt // 洗净岩盐
+crushedPurifiedRubidium // 洗净铷
+crushedPurifiedRunite // 洗净虚恩
+crushedPurifiedRutile // 洗净金红石
+crushedPurifiedSaltpeter // 洗净硝石
+crushedPurifiedSamarium // 洗净钐
+crushedPurifiedSamarskiteY // 洗净铌钇矿(Y)
+crushedPurifiedSamarskiteYb // 洗净铌钇矿(Yb)
+crushedPurifiedScandium // 洗净钪
+crushedPurifiedShadow // 洗净暗影金属
+crushedPurifiedShadowIron // 洗净暗影铁
+crushedPurifiedSilicon // 洗净硅
+crushedPurifiedSiliconSolarGrade // 洗净太阳能级硅(多晶硅)
+crushedPurifiedSilver // 洗净银
+crushedPurifiedSoapstone // 洗净皂石
+crushedPurifiedSodalite // 洗净方钠石
+crushedPurifiedSpessartine // 洗净锰铝榴石
+crushedPurifiedSpodumene // 洗净锂辉石
+crushedPurifiedStibnite // 洗净辉锑矿
+crushedPurifiedStrontium // 洗净锶
+crushedPurifiedSulfur // 洗净硫
+crushedPurifiedTantalite // 洗净钽铁矿
+crushedPurifiedTantalum // 洗净钽
+crushedPurifiedTartarite // 洗净溶火之石
+crushedPurifiedTellurium // 洗净碲
+crushedPurifiedTemagamite // 洗净碲汞钯
+crushedPurifiedTengamRaw // 洗净生磁
+crushedPurifiedTerbium // 洗净铽
+crushedPurifiedTerlinguaite // 洗净黄氯汞
+crushedPurifiedTetrahedrite // 洗净黝铜矿
+crushedPurifiedThorianite // 洗净方钍石
+crushedPurifiedThorium // 洗净钍
+crushedPurifiedThulium // 洗净铥
+crushedPurifiedTin // 洗净锡
+crushedPurifiedTitanite // 洗净榍石
+crushedPurifiedTitanium // 洗净钛
+crushedPurifiedTopaz // 洗净黄玉
+crushedPurifiedTricalciumPhosphate // 洗净磷酸三钙
+crushedPurifiedTrinium // 洗净三元金属
+crushedPurifiedTritanium // 洗净三钛
+crushedPurifiedTrona // 洗净天然碱
+crushedPurifiedTungstate // 洗净钨酸锂
+crushedPurifiedTungsten // 洗净钨
+crushedPurifiedUraninite // 洗净晶质铀矿
+crushedPurifiedUranium // 洗净铀-238
+crushedPurifiedUranium235 // 洗净铀-235
+crushedPurifiedUvarovite // 洗净钙铬榴石
+crushedPurifiedVanadio-Oxy-Dravite // 洗净钒镁电气石
+crushedPurifiedVanadium // 洗净钒
+crushedPurifiedVanadiumMagnetite // 洗净钒磁铁矿
+crushedPurifiedVinteum // 洗净温特姆
+crushedPurifiedVulcanite // 洗净胶木
+crushedPurifiedVyroxeres // 洗净幽冥剧毒结晶
+crushedPurifiedWittichenite // 洗净硫铋铜
+crushedPurifiedWollastonite // 洗净硅灰石
+crushedPurifiedWulfenite // 洗净钼铅矿
+crushedPurifiedXenotime // 洗净磷钇
+crushedPurifiedYellowLimonite // 洗净黄褐铁矿
+crushedPurifiedYtterbium // 洗净镱
+crushedPurifiedYttrialite // 洗净硅钍钇
+crushedPurifiedYttrium // 洗净钇
+crushedPurifiedYttrocerite // 洗净铈钇矿
+crushedPurifiedZeolite // 洗净沸石
+crushedPurifiedZimbabweite // 洗净钛铌铅钠石
+crushedPurifiedZinc // 洗净锌
+crushedPurifiedZircon // 洗净锆石
+crushedPurifiedZirconolite // 洗净钛锆酸钙
+crushedPurifiedZircophyllite // 洗净锆星叶石
+crushedPurifiedZirkelite // 洗净钛锆钍
+
+=== 离心~ ===
+
+crushedCentrifugedAmber // 离心琥珀 洗-筛
+crushedCentrifugedApatite // 离心磷灰石 洗-筛
+crushedCentrifugedBArTiMaEuSNek // 离心BArTiMaEuSNek 洗-筛
+crushedCentrifugedBauxite // 离心铝土矿 洗-热-粉
+crushedCentrifugedCoal // 离心煤 洗-筛
+crushedCentrifugedCooperite // 离心硫铂矿 洗or浸洗(Hg)
+crushedCentrifugedDiamond // 离心钻石 洗-筛
+crushedCentrifugedDilithium // 离心双锂 洗-筛
+crushedCentrifugedEmerald // 离心绿宝石 洗-筛
+crushedCentrifugedGreenSapphire // 离心绿色蓝宝石 洗-筛
+crushedCentrifugedGalena // 离心方铅矿 洗-保留
+crushedCentrifugedIlmenite // 离心钛铁矿 浸洗（硫酸）
+crushedCentrifugedInfusedAir // 离心风之蕴魔石 洗-筛
+crushedCentrifugedInfusedEarth // 离心地之蕴魔石 洗-筛
+crushedCentrifugedInfusedEntropy // 离心混沌蕴魔石 洗-筛
+crushedCentrifugedInfusedFire // 离心火之蕴魔石 洗-筛
+crushedCentrifugedInfusedWater // 离心水之蕴魔石 洗-筛
+crushedCentrifugedInfusedOrder // 离心秩序蕴魔石 洗-筛
+crushedCentrifugedIridium // 离心铱 浸洗(Hg)-热-粉
+crushedCentrifugedLapis // 离心青金石 洗-筛
+crushedCentrifugedLead // 离心铅 工业高炉
+crushedCentrifugedLepidolite // 离心锂云母 洗-浸洗(盐酸)
+crushedCentrifugedMeteoriclron // 离心陨铁 浸洗(Hg)-热-粉
+crushedCentrifugedMithril // 离心秘银 浸洗(Hg)-粉-离
+crushedCentrifugedMonazite // 离心独居石 洗-热-粉
+crushedCentrifugedMytryl // 离心深空秘银 粉-离
+crushedCentrifugedNetherQuartz // 离心下界石英 洗-筛
+crushedCentrifugedNetherStar // 离心下界之星 洗-筛
+crushedCentrifugedNickel // 离心镍 浸洗(Hg)-粉-离
+crushedCentrifugedOlivine // 离心橄榄石 洗-筛
+crushedCentrifugedOrundum // 离心合成玉 洗-筛
+crushedCentrifugedOsmium // 离心锇 浸洗(Hg)-热-粉
+crushedCentrifugedPlatinum // 离心铂 浸洗(Hg)-热-粉
+crushedCentrifugedPlatinumMetallicPowder // 离心铂金属 浸洗(Hg)-热-粉
+crushedCentrifugedPrasiolite // 离心堇云石 洗-筛
+crushedCentrifugedPyrochlore // 离心烧绿石 洗-热-粉
+crushedCentrifugedPyrolusite // 离心软锰矿 洗-热-粉
+crushedCentrifugedQuartzite // 离心石英岩 洗-筛
+crushedCentrifugedRedZircon // 离心红锆石 洗-筛
+crushedCentrifugedRoquesite // 离心硫铟铜 保留
+crushedCentrifugedRubracium // 离心褐铜 粉-粉
+crushedCentrifugedRuby // 离心红宝石 洗-筛
+crushedCentrifugedSalt // 离心盐 洗-筛
+crushedCentrifugedSapphire // 离心蓝宝石 洗-筛
+crushedCentrifugedScheelite // 离心白钨矿 洗-保留
+crushedCentrifugedMolybdenite // 离心辉钼矿 洗-保留
+crushedCentrifugedMolybdenum // 离心钼 洗-保留
+crushedCentrifugedSphalerite // 离心闪锌矿 洗-保留
+crushedCentrifugedTanzanite // 离心坦桑石 洗-筛
+crushedCentrifugedTiberium // 离心泰伯利亚 洗-筛
+crushedCentrifugedAdamantium // 离心精金
+crushedCentrifugedAgarditeCd // 离心菱铁矿（Cd）
+crushedCentrifugedAgarditeLa // 离心菱铁矿（La）
+crushedCentrifugedAgarditeNd // 离心菱铁矿（Nd）
+crushedCentrifugedAgarditeY // 离心菱铁矿（Y）
+crushedCentrifugedAlduorite // 离心神秘蓝金
+crushedCentrifugedAlmandine // 离心铁铝榴石
+crushedCentrifugedAluminium // 离心铝
+crushedCentrifugedAluminiumfluoride // 离心氟化铝
+crushedCentrifugedAlunite // 离心明矾石
+crushedCentrifugedAmericium // 离心镅
+crushedCentrifugedAmethyst // 离心紫水晶
+crushedCentrifugedAndradite // 离心钙铁榴石
+crushedCentrifugedAntimony // 离心锑
+crushedCentrifugedAnycopper // 离心铜
+crushedCentrifugedAnyiron // 离心铁
+crushedCentrifugedArdite // 离心阿迪特
+crushedCentrifugedArsenic // 离心砷
+crushedCentrifugedArsenopyrite // 离心砷铁矿
+crushedCentrifugedAsbestos // 离心石棉
+crushedCentrifugedAtheneite // 离心砷汞钯
+crushedCentrifugedBandedIron // 离心带状铁矿
+crushedCentrifugedBarite // 离心重晶石
+crushedCentrifugedBarium // 离心钡
+crushedCentrifugedBastnasite // 离心氟碳镧铈
+crushedCentrifugedBedrockium // 离心基岩
+crushedCentrifugedBeryllium // 离心铍
+crushedCentrifugedBismuth // 离心铋
+crushedCentrifugedBismuthinite // 离心辉铋
+crushedCentrifugedBismutite // 离心泡铋
+crushedCentrifugedBlackPlutonium // 离心黑钚
+crushedCentrifugedBlueTopaz // 离心蓝黄玉
+crushedCentrifugedBorax // 离心硼砂
+crushedCentrifugedBornite // 离心斑铜
+crushedCentrifugedBrownLimonite // 离心棕褐铁矿
+crushedCentrifugedCadmium // 离心镉
+crushedCentrifugedCaesium // 离心铯
+crushedCentrifugedCalcite // 离心方解石
+crushedCentrifugedCalciumDisilicide // 离心二硅化钙
+crushedCentrifugedCalciumHydride // 离心氢化钙
+crushedCentrifugedCallistolce // 离心木卫四冰
+crushedCentrifugedCassiterite // 离心锡石
+crushedCentrifugedCerite // 离心铈硅石
+crushedCentrifugedCerium // 离心铈
+crushedCentrifugedCertusQuartz // 离心赛特斯石英
+crushedCentrifugedCheese // 离心奶酪
+crushedCentrifugedChrome // 离心铬
+crushedCentrifugedChromite // 离心铬铁矿
+crushedCentrifugedChromo-Alumino-Povondraite // 离心铬铝电气石
+crushedCentrifugedChrysotile // 离心白石棉
+crushedCentrifugedCinnabar // 离心朱砂
+crushedCentrifugedCobalt // 离心钴
+crushedCentrifugedCobaltite // 离心辉钴矿
+crushedCentrifugedCosmicNeutronium // 离心宇宙中子态素
+crushedCentrifugedCrocoite // 离心赤铅矿
+crushedCentrifugedCrudeRhodiumMetal // 离心粗制铑金属
+crushedCentrifugedCryolite // 离心冰晶石
+crushedCentrifugedCryoliteF // 离心冰晶石F
+crushedCentrifugedDarklron // 离心玄铁
+crushedCentrifugedDeeplron // 离心深渊铁
+crushedCentrifugedDesh // 离心戴斯
+crushedCentrifugedDiatomite // 离心硅藻土
+crushedCentrifugedDjurleite // 离心久辉铜
+crushedCentrifugedDolomite // 离心白云石
+crushedCentrifugedDraconium // 离心龙
+crushedCentrifugedDraconiumAwakened // 离心觉醒龙
+crushedCentrifugedDuralumin // 离心硬铝
+crushedCentrifugedDysprosium // 离心镝
+crushedCentrifugedElectrotine // 离心蓝石
+crushedCentrifugedElectrum // 离心琥珀金
+crushedCentrifugedElectrumFlux // 离心通流琥珀金
+crushedCentrifugedEmery // 离心金刚砂
+crushedCentrifugedEnriched-NaquadahOxideMixture // 离心氧化富集硅岩混合物
+crushedCentrifugedErbium // 离心铒
+crushedCentrifugedEuropium // 离心铕
+crushedCentrifugedFayalite // 离心铁橄榄石
+crushedCentrifugedFerberite // 离心钨铁
+crushedCentrifugedFirestone // 离心火石
+crushedCentrifugedFlorencite // 离心磷铝铈矿
+crushedCentrifugedFluor-Buergerite // 离心氟铁电气石
+crushedCentrifugedFluorcaphite // 离心氟碳铈矿
+crushedCentrifugedFluoriteF // 离心氟石(F)
+crushedCentrifugedFluorspar // 离心氟石
+crushedCentrifugedFoolsRuby // 离心尖晶石
+crushedCentrifugedForce // 离心力量
+crushedCentrifugedForcicium // 离心力之宝石
+crushedCentrifugedForcillium // 离心力场宝石
+crushedCentrifugedForsterite // 离心镁橄榄石
+crushedCentrifugedGadoliniteCe // 离心硅铍钇矿(Ce)
+crushedCentrifugedGadoliniteY // 离心硅铍钇矿(Y)
+crushedCentrifugedGadolinium // 离心钆
+crushedCentrifugedGarnetRed // 离心红石榴石
+crushedCentrifugedGarnetYellow // 离心黄石榴石
+crushedCentrifugedGarnierite // 离心硅镁镍矿
+crushedCentrifugedGeikielite // 离心镁钛矿
+crushedCentrifugedGlauconite // 离心海绿石
+crushedCentrifugedGold // 离心金
+crushedCentrifugedGraphite // 离心石墨
+crushedCentrifugedGreenFuchsite // 离心绿铬云母
+crushedCentrifugedGreenockite // 离心硫镉
+crushedCentrifugedGrossular // 离心钙铝榴石
+crushedCentrifugedGypsum // 离心石膏
+crushedCentrifugedHedenbergite // 离心钙铁辉石
+crushedCentrifugedHeeEndium // 离心终末
+crushedCentrifugedHibonite // 离心黑铝钙石
+crushedCentrifugedHolmium // 离心钬
+crushedCentrifugedHuebnerite // 离心钨酸锰
+crushedCentrifugedIchorium // 离心灵宝
+crushedCentrifugedIndium // 离心铟
+crushedCentrifugedInfinityCatalyst // 离心无尽催化剂
+crushedCentrifugedInfusedGold // 离心注魔金
+crushedCentrifugedIridiumMetalResidue // 离心铱金属渣粉
+crushedCentrifugedIron // 离心铁
+crushedCentrifugedJade // 离心玉
+crushedCentrifugedJasper // 离心碧玉
+crushedCentrifugedKyanite // 离心蓝晶石
+crushedCentrifugedLanthaniteCe // 离心镧石(Ce)
+crushedCentrifugedLanthaniteLa // 离心镧石(La)
+crushedCentrifugedLanthaniteNd // 离心镧石()
+crushedCentrifugedLanthanum // 离心镧
+crushedCentrifugedLazurite // 离心蓝金石
+crushedCentrifugedLeachResidue // 离心浸出渣
+crushedCentrifugedLedox // 离心深铅
+crushedCentrifugedLepersonnite // 离心绿泥石
+crushedCentrifugedLignite // 离心褐煤
+crushedCentrifugedLithium // 离心锂
+crushedCentrifugedLoellingite // 离心斜方砷铁
+crushedCentrifugedLutetium // 离心镥
+crushedCentrifugedMagnesite // 离心菱镁矿
+crushedCentrifugedMagnesium // 离心镁
+crushedCentrifugedMagnetite // 离心磁铁矿
+crushedCentrifugedMalachite // 离心孔雀石
+crushedCentrifugedManganese // 离心锰
+crushedCentrifugedManyullyn // 离心玛玉灵
+crushedCentrifugedMica // 离心云母
+crushedCentrifugedMirabilite // 离心芒硝
+crushedCentrifugedMysteriousCrystal // 离心神秘水晶
+crushedCentrifugedNaquadah // 离心硅岩
+crushedCentrifugedNaquadahEnriched // 离心富集硅岩
+crushedCentrifugedNaquadahOxideMixture // 离心氧化富集硅岩混合物
+crushedCentrifugedNaquadria // 离心超能硅岩
+crushedCentrifugedNaquadriaOxideMixture // 离心氧化超能硅岩混合物
+crushedCentrifugedNeodymium // 离心钕
+crushedCentrifugedNeutronium // 离心中子
+crushedCentrifugedNichromite // 离心镍铬矿
+crushedCentrifugedNiobium // 离心铌
+crushedCentrifugedNiter // 离心硝石
+crushedCentrifugedOilsands // 离心油砂
+crushedCentrifugedOlenite // 离心铝电气石
+crushedCentrifugedOpal // 离心蛋白石
+crushedCentrifugedOrangeDescloizite // 离心橙钒铅铜
+crushedCentrifugedOrichalcum // 离心山铜
+crushedCentrifugedOriharukon // 离心奥利哈钢
+crushedCentrifugedPalladium // 离心钯
+crushedCentrifugedPalladiumMetallicPowder // 离心钯金属
+crushedCentrifugedPentlandite // 离心镍黄铁矿
+crushedCentrifugedPerlite // 离心珍珠岩
+crushedCentrifugedPhosphate // 离心磷酸盐
+crushedCentrifugedPigIron // 离心生铁
+crushedCentrifugedPlutonium // 离心钚-239
+crushedCentrifugedPlutonium241 // 离心钚-241
+crushedCentrifugedPollucite // 离心铯榴石
+crushedCentrifugedPolycrase // 离心锗铀钇矿
+crushedCentrifugedPowellite // 离心钼钙矿
+crushedCentrifugedPraseodymium // 离心镨
+crushedCentrifugedPromethium // 离心钷
+crushedCentrifugedPumice // 离心浮岩
+crushedCentrifugedPyrite // 离心黄铁矿
+crushedCentrifugedPyrope // 离心镁铝榴石
+crushedCentrifugedQuantium // 离心量子
+crushedCentrifugedRareEarthl // 离心稀土I
+crushedCentrifugedRareEarthlII // 离心稀土II
+crushedCentrifugedRareEarthlII // 离心稀土II
+crushedCentrifugedRarestMetalResidue // 离心稀有金属渣
+crushedCentrifugedRealgar // 离心雄黄
+crushedCentrifugedRedDescloizite // 离心红钒铅锌
+crushedCentrifugedRedFuchsite // 离心红铬云母
+crushedCentrifugedRedstone // 离心红石
+crushedCentrifugedRoastedlron // 离心焙烧铁
+crushedCentrifugedRoastedNickel // 离心焙烧镍
+crushedCentrifugedRockSalt // 离心岩盐
+crushedCentrifugedRubidium // 离心铷
+crushedCentrifugedRunite // 离心虚恩
+crushedCentrifugedRutile // 离心金红石
+crushedCentrifugedSaltpeter // 离心硝石
+crushedCentrifugedSamarium // 离心钐
+crushedCentrifugedSamarskiteY // 离心铌钇矿(Y)
+crushedCentrifugedSamarskiteYb // 离心铌钇矿(Yb)
+crushedCentrifugedScandium // 离心钪
+crushedCentrifugedShadow // 离心暗影金属
+crushedCentrifugedShadowIron // 离心暗影铁
+crushedCentrifugedSilicon // 离心硅
+crushedCentrifugedSiliconSolarGrade // 离心太阳能级硅(多晶硅)
+crushedCentrifugedSilver // 离心银
+crushedCentrifugedSoapstone // 离心皂石
+crushedCentrifugedSodalite // 离心方钠石
+crushedCentrifugedSpessartine // 离心锰铝榴石
+crushedCentrifugedSpodumene // 离心锂辉石
+crushedCentrifugedStibnite // 离心辉锑矿
+crushedCentrifugedStrontium // 离心锶
+crushedCentrifugedSulfur // 离心硫
+crushedCentrifugedTantalite // 离心钽铁矿
+crushedCentrifugedTantalum // 离心钽
+crushedCentrifugedTartarite // 离心溶火之石
+crushedCentrifugedTellurium // 离心碲
+crushedCentrifugedTemagamite // 离心碲汞钯
+crushedCentrifugedTengamRaw // 离心生磁
+crushedCentrifugedTerbium // 离心铽
+crushedCentrifugedTerlinguaite // 离心黄氯汞
+crushedCentrifugedTetrahedrite // 离心黝铜矿
+crushedCentrifugedThorianite // 离心方钍石
+crushedCentrifugedThorium // 离心钍
+crushedCentrifugedThulium // 离心铥
+crushedCentrifugedTin // 离心锡
+crushedCentrifugedTitanite // 离心榍石
+crushedCentrifugedTitanium // 离心钛
+crushedCentrifugedTopaz // 离心黄玉
+crushedCentrifugedTricalciumPhosphate // 离心磷酸三钙
+crushedCentrifugedTrinium // 离心三元金属
+crushedCentrifugedTritanium // 离心三钛
+crushedCentrifugedTrona // 离心天然碱
+crushedCentrifugedTungstate // 离心钨酸锂
+crushedCentrifugedTungsten // 离心钨
+crushedCentrifugedUraninite // 离心晶质铀矿
+crushedCentrifugedUranium // 离心铀-238
+crushedCentrifugedUranium235 // 离心铀-235
+crushedCentrifugedUvarovite // 离心钙铬榴石
+crushedCentrifugedVanadio-Oxy-Dravite // 离心钒镁电气石
+crushedCentrifugedVanadium // 离心钒
+crushedCentrifugedVanadiumMagnetite // 离心钒磁铁矿
+crushedCentrifugedVinteum // 离心温特姆
+crushedCentrifugedVulcanite // 离心胶木
+crushedCentrifugedVyroxeres // 离心幽冥剧毒结晶
+crushedCentrifugedWittichenite // 离心硫铋铜
+crushedCentrifugedWollastonite // 离心硅灰石
+crushedCentrifugedWulfenite // 离心钼铅矿
+crushedCentrifugedXenotime // 离心磷钇
+crushedCentrifugedYellowLimonite // 离心黄褐铁矿
+crushedCentrifugedYtterbium // 离心镱
+crushedCentrifugedYttrialite // 离心硅钍钇
+crushedCentrifugedYttrium // 离心钇
+crushedCentrifugedYttrocerite // 离心铈钇矿
+crushedCentrifugedZeolite // 离心沸石
+crushedCentrifugedZimbabweite // 离心钛铌铅钠石
+crushedCentrifugedZinc // 离心锌
+crushedCentrifugedZircon // 离心锆石
+crushedCentrifugedZirconolite // 离心钛锆酸钙
+crushedCentrifugedZircophyllite // 离心锆星叶石
+crushedCentrifugedZirkelite // 离心钛锆钍
+
+=== ~粉 ===
+
+dustAmber // 琥珀粉 洗-筛
+dustApatite // 磷灰石粉 洗-筛
+dustBArTiMaEuSNek // BArTiMaEuSNek粉 洗-筛
+dustBauxite // 铝土矿粉 洗-热-粉
+dustCoal // 煤粉 洗-筛
+dustCooperite // 硫铂矿粉 洗or浸洗(Hg)
+dustDiamond // 钻石粉 洗-筛
+dustDilithium // 双锂粉 洗-筛
+dustEmerald // 绿宝石粉 洗-筛
+dustGreenSapphire // 绿色蓝宝石粉 洗-筛
+dustGalena // 方铅矿粉 洗-保留
+dustIlmenite // 钛铁矿粉 浸洗（硫酸）
+dustInfusedAir // 风之蕴魔石粉 洗-筛
+dustInfusedEarth // 地之蕴魔石粉 洗-筛
+dustInfusedEntropy // 混沌蕴魔石粉 洗-筛
+dustInfusedFire // 火之蕴魔石粉 洗-筛
+dustInfusedWater // 水之蕴魔石粉 洗-筛
+dustInfusedOrder // 秩序蕴魔石粉 洗-筛
+dustIridium // 铱粉 浸洗(Hg)-热-粉
+dustLapis // 青金石粉 洗-筛
+dustLead // 铅粉 工业高炉
+dustLepidolite // 锂云母粉 洗-浸洗(盐酸)
+dustMeteoriclron // 陨铁粉 浸洗(Hg)-热-粉
+dustMithril // 秘银粉 浸洗(Hg)-粉-离
+dustMonazite // 独居石粉 洗-热-粉
+dustMytryl // 深空秘银粉 粉-离
+dustNetherQuartz // 下界石英粉 洗-筛
+dustNetherStar // 下界之星粉 洗-筛
+dustNickel // 镍粉 浸洗(Hg)-粉-离
+dustOlivine // 橄榄石粉 洗-筛
+dustOrundum // 合成玉粉 洗-筛
+dustOsmium // 锇粉 浸洗(Hg)-热-粉
+dustPlatinum // 铂粉 浸洗(Hg)-热-粉
+dustPlatinumMetallicPowder // 铂金属粉 浸洗(Hg)-热-粉
+dustPrasiolite // 堇云石粉 洗-筛
+dustPyrochlore // 烧绿石粉 洗-热-粉
+dustPyrolusite // 软锰矿粉 洗-热-粉
+dustQuartzite // 石英岩粉 洗-筛
+dustRedZircon // 红锆石粉 洗-筛
+dustRoquesite // 硫铟铜粉 保留
+dustRubracium // 褐铜粉 粉-粉
+dustRuby // 红宝石粉 洗-筛
+dustSalt // 盐粉 洗-筛
+dustSapphire // 蓝宝石粉 洗-筛
+dustScheelite // 白钨矿粉 洗-保留
+dustMolybdenite // 辉钼矿粉 洗-保留
+dustMolybdenum // 钼粉 洗-保留
+dustSphalerite // 闪锌矿粉 洗-保留
+dustTanzanite // 坦桑石粉 洗-筛
+dustTiberium // 泰伯利亚粉 洗-筛
+dustAdamantium // 精金粉
+dustAgarditeCd // 菱铁矿（Cd）粉
+dustAgarditeLa // 菱铁矿（La）粉
+dustAgarditeNd // 菱铁矿（Nd）粉
+dustAgarditeY // 菱铁矿（Y）粉
+dustAlduorite // 神秘蓝金粉
+dustAlmandine // 铁铝榴石粉
+dustAluminium // 铝粉
+dustAluminiumfluoride // 氟化铝粉
+dustAlunite // 明矾石粉
+dustAmericium // 镅粉
+dustAmethyst // 紫水晶粉
+dustAndradite // 钙铁榴石粉
+dustAntimony // 锑粉
+dustAnycopper // 铜粉
+dustAnyiron // 铁粉
+dustArdite // 阿迪特粉
+dustArsenic // 砷粉
+dustArsenopyrite // 砷铁矿粉
+dustAsbestos // 石棉粉
+dustAtheneite // 砷汞钯粉
+dustBandedIron // 带状铁矿粉
+dustBarite // 重晶石粉
+dustBarium // 钡粉
+dustBastnasite // 氟碳镧铈粉
+dustBedrockium // 基岩粉
+dustBeryllium // 铍粉
+dustBismuth // 铋粉
+dustBismuthinite // 辉铋粉
+dustBismutite // 泡铋粉
+dustBlackPlutonium // 黑钚粉
+dustBlueTopaz // 蓝黄玉粉
+dustBorax // 硼砂粉
+dustBornite // 斑铜粉
+dustBrownLimonite // 棕褐铁矿粉
+dustCadmium // 镉粉
+dustCaesium // 铯粉
+dustCalcite // 方解石粉
+dustCalciumDisilicide // 二硅化钙粉
+dustCalciumHydride // 氢化钙粉
+dustCallistolce // 木卫四冰粉
+dustCassiterite // 锡石粉
+dustCerite // 铈硅石粉
+dustCerium // 铈粉
+dustCertusQuartz // 赛特斯石英粉
+dustCheese // 奶酪粉
+dustChrome // 铬粉
+dustChromite // 铬铁矿粉
+dustChromo-Alumino-Povondraite // 铬铝电气石粉
+dustChrysotile // 白石棉粉
+dustCinnabar // 朱砂粉
+dustCobalt // 钴粉
+dustCobaltite // 辉钴矿粉
+dustCosmicNeutronium // 宇宙中子态素粉
+dustCrocoite // 赤铅矿粉
+dustCrudeRhodiumMetal // 粗制铑金属粉
+dustCryolite // 冰晶石粉
+dustCryoliteF // 冰晶石F粉
+dustDarklron // 玄铁粉
+dustDeeplron // 深渊铁粉
+dustDesh // 戴斯粉
+dustDiatomite // 硅藻土粉
+dustDjurleite // 久辉铜粉
+dustDolomite // 白云石粉
+dustDraconium // 龙粉
+dustDraconiumAwakened // 觉醒龙粉
+dustDuralumin // 硬铝粉
+dustDysprosium // 镝粉
+dustElectrotine // 蓝石粉
+dustElectrum // 琥珀金粉
+dustElectrumFlux // 通流琥珀金粉
+dustEmery // 金刚砂粉
+dustEnriched-NaquadahOxideMixture // 氧化富集硅岩混合物粉
+dustErbium // 铒粉
+dustEuropium // 铕粉
+dustFayalite // 铁橄榄石粉
+dustFerberite // 钨铁粉
+dustFirestone // 火石粉
+dustFlorencite // 磷铝铈矿粉
+dustFluor-Buergerite // 氟铁电气石粉
+dustFluorcaphite // 氟碳铈矿粉
+dustFluoriteF // 氟石(F)粉
+dustFluorspar // 氟石粉
+dustFoolsRuby // 尖晶石粉
+dustForce // 力量粉
+dustForcicium // 力之宝石粉
+dustForcillium // 力场宝石粉
+dustForsterite // 镁橄榄石粉
+dustGadoliniteCe // 硅铍钇矿(Ce)粉
+dustGadoliniteY // 硅铍钇矿(Y)粉
+dustGadolinium // 钆粉
+dustGarnetRed // 红石榴石粉
+dustGarnetYellow // 黄石榴石粉
+dustGarnierite // 硅镁镍矿粉
+dustGeikielite // 镁钛矿粉
+dustGlauconite // 海绿石粉
+dustGold // 金粉
+dustGraphite // 石墨粉
+dustGreenFuchsite // 绿铬云母粉
+dustGreenockite // 硫镉粉
+dustGrossular // 钙铝榴石粉
+dustGypsum // 石膏粉
+dustHedenbergite // 钙铁辉石粉
+dustHeeEndium // 终末粉
+dustHibonite // 黑铝钙石粉
+dustHolmium // 钬粉
+dustHuebnerite // 钨酸锰粉
+dustIchorium // 灵宝粉
+dustIndium // 铟粉
+dustInfinityCatalyst // 无尽催化剂粉
+dustInfusedGold // 注魔金粉
+dustIridiumMetalResidue // 铱金属渣粉粉
+dustIron // 铁粉
+dustJade // 玉粉
+dustJasper // 碧玉粉
+dustKyanite // 蓝晶石粉
+dustLanthaniteCe // 镧石(Ce)粉
+dustLanthaniteLa // 镧石(La)粉
+dustLanthaniteNd // 镧石()粉
+dustLanthanum // 镧粉
+dustLazurite // 蓝金石粉
+dustLeachResidue // 浸出渣粉
+dustLedox // 深铅粉
+dustLepersonnite // 绿泥石粉
+dustLignite // 褐煤粉
+dustLithium // 锂粉
+dustLoellingite // 斜方砷铁粉
+dustLutetium // 镥粉
+dustMagnesite // 菱镁矿粉
+dustMagnesium // 镁粉
+dustMagnetite // 磁铁矿粉
+dustMalachite // 孔雀石粉
+dustManganese // 锰粉
+dustManyullyn // 玛玉灵粉
+dustMica // 云母粉
+dustMirabilite // 芒硝粉
+dustMysteriousCrystal // 神秘水晶粉
+dustNaquadah // 硅岩粉
+dustNaquadahEnriched // 富集硅岩粉
+dustNaquadahOxideMixture // 氧化富集硅岩混合物粉
+dustNaquadria // 超能硅岩粉
+dustNaquadriaOxideMixture // 氧化超能硅岩混合物粉
+dustNeodymium // 钕粉
+dustNeutronium // 中子粉
+dustNichromite // 镍铬矿粉
+dustNiobium // 铌粉
+dustNiter // 硝石粉
+dustOilsands // 油砂粉
+dustOlenite // 铝电气石粉
+dustOpal // 蛋白石粉
+dustOrangeDescloizite // 橙钒铅铜粉
+dustOrichalcum // 山铜粉
+dustOriharukon // 奥利哈钢粉
+dustPalladium // 钯粉
+dustPalladiumMetallicPowder // 钯金属粉
+dustPentlandite // 镍黄铁矿粉
+dustPerlite // 珍珠岩粉
+dustPhosphate // 磷酸盐粉
+dustPigIron // 生铁粉
+dustPlutonium // 钚-239粉
+dustPlutonium241 // 钚-241粉
+dustPollucite // 铯榴石粉
+dustPolycrase // 锗铀钇矿粉
+dustPowellite // 钼钙矿粉
+dustPraseodymium // 镨粉
+dustPromethium // 钷粉
+dustPumice // 浮岩粉
+dustPyrite // 黄铁矿粉
+dustPyrope // 镁铝榴石粉
+dustQuantium // 量子粉
+dustRareEarthl // 稀土I粉
+dustRareEarthlII // 稀土II粉
+dustRareEarthlII // 稀土II粉
+dustRarestMetalResidue // 稀有金属渣粉
+dustRealgar // 雄黄粉
+dustRedDescloizite // 红钒铅锌粉
+dustRedFuchsite // 红铬云母粉
+dustRedstone // 红石粉
+dustRoastedlron // 焙烧铁粉
+dustRoastedNickel // 焙烧镍粉
+dustRockSalt // 岩盐粉
+dustRubidium // 铷粉
+dustRunite // 虚恩粉
+dustRutile // 金红石粉
+dustSaltpeter // 硝石粉
+dustSamarium // 钐粉
+dustSamarskiteY // 铌钇矿(Y)粉
+dustSamarskiteYb // 铌钇矿(Yb)粉
+dustScandium // 钪粉
+dustShadow // 暗影金属粉
+dustShadowIron // 暗影铁粉
+dustSilicon // 硅粉
+dustSiliconSolarGrade // 太阳能级硅(多晶硅)粉
+dustSilver // 银粉
+dustSoapstone // 皂石粉
+dustSodalite // 方钠石粉
+dustSpessartine // 锰铝榴石粉
+dustSpodumene // 锂辉石粉
+dustStibnite // 辉锑矿粉
+dustStrontium // 锶粉
+dustSulfur // 硫粉
+dustTantalite // 钽铁矿粉
+dustTantalum // 钽粉
+dustTartarite // 溶火之石粉
+dustTellurium // 碲粉
+dustTemagamite // 碲汞钯粉
+dustTengamRaw // 生磁粉
+dustTerbium // 铽粉
+dustTerlinguaite // 黄氯汞粉
+dustTetrahedrite // 黝铜矿粉
+dustThorianite // 方钍石粉
+dustThorium // 钍粉
+dustThulium // 铥粉
+dustTin // 锡粉
+dustTitanite // 榍石粉
+dustTitanium // 钛粉
+dustTopaz // 黄玉粉
+dustTricalciumPhosphate // 磷酸三钙粉
+dustTrinium // 三元金属粉
+dustTritanium // 三钛粉
+dustTrona // 天然碱粉
+dustTungstate // 钨酸锂粉
+dustTungsten // 钨粉
+dustUraninite // 晶质铀矿粉
+dustUranium // 铀-238粉
+dustUranium235 // 铀-235粉
+dustUvarovite // 钙铬榴石粉
+dustVanadio-Oxy-Dravite // 钒镁电气石粉
+dustVanadium // 钒粉
+dustVanadiumMagnetite // 钒磁铁矿粉
+dustVinteum // 温特姆粉
+dustVulcanite // 胶木粉
+dustVyroxeres // 幽冥剧毒结晶粉
+dustWittichenite // 硫铋铜粉
+dustWollastonite // 硅灰石粉
+dustWulfenite // 钼铅矿粉
+dustXenotime // 磷钇粉
+dustYellowLimonite // 黄褐铁矿粉
+dustYtterbium // 镱粉
+dustYttrialite // 硅钍钇粉
+dustYttrium // 钇粉
+dustYttrocerite // 铈钇矿粉
+dustZeolite // 沸石粉
+dustZimbabweite // 钛铌铅钠石粉
+dustZinc // 锌粉
+dustZircon // 锆石粉
+dustZirconolite // 钛锆酸钙粉
+dustZircophyllite // 锆星叶石粉
+dustZirkelite // 钛锆钍粉
+
+=== 洁净~粉 ===
+
+dustPureAmber // 洁净琥珀粉 洗-筛
+dustPureApatite // 洁净磷灰石粉 洗-筛
+dustPureBArTiMaEuSNek // 洁净BArTiMaEuSNek粉 洗-筛
+dustPureBauxite // 洁净铝土矿粉 洗-热-粉
+dustPureCoal // 洁净煤粉 洗-筛
+dustPureCooperite // 洁净硫铂矿粉 洗or浸洗(Hg)
+dustPureDiamond // 洁净钻石粉 洗-筛
+dustPureDilithium // 洁净双锂粉 洗-筛
+dustPureEmerald // 洁净绿宝石粉 洗-筛
+dustPureGreenSapphire // 洁净绿色蓝宝石粉 洗-筛
+dustPureGalena // 洁净方铅矿粉 洗-保留
+dustPureIlmenite // 洁净钛铁矿粉 浸洗（硫酸）
+dustPureInfusedAir // 洁净风之蕴魔石粉 洗-筛
+dustPureInfusedEarth // 洁净地之蕴魔石粉 洗-筛
+dustPureInfusedEntropy // 洁净混沌蕴魔石粉 洗-筛
+dustPureInfusedFire // 洁净火之蕴魔石粉 洗-筛
+dustPureInfusedWater // 洁净水之蕴魔石粉 洗-筛
+dustPureInfusedOrder // 洁净秩序蕴魔石粉 洗-筛
+dustPureIridium // 洁净铱粉 浸洗(Hg)-热-粉
+dustPureLapis // 洁净青金石粉 洗-筛
+dustPureLead // 洁净铅粉 工业高炉
+dustPureLepidolite // 洁净锂云母粉 洗-浸洗(盐酸)
+dustPureMeteoriclron // 洁净陨铁粉 浸洗(Hg)-热-粉
+dustPureMithril // 洁净秘银粉 浸洗(Hg)-粉-离
+dustPureMonazite // 洁净独居石粉 洗-热-粉
+dustPureMytryl // 洁净深空秘银粉 粉-离
+dustPureNetherQuartz // 洁净下界石英粉 洗-筛
+dustPureNetherStar // 洁净下界之星粉 洗-筛
+dustPureNickel // 洁净镍粉 浸洗(Hg)-粉-离
+dustPureOlivine // 洁净橄榄石粉 洗-筛
+dustPureOrundum // 洁净合成玉粉 洗-筛
+dustPureOsmium // 洁净锇粉 浸洗(Hg)-热-粉
+dustPurePlatinum // 洁净铂粉 浸洗(Hg)-热-粉
+dustPurePlatinumMetallicPowder // 洁净铂金属粉 浸洗(Hg)-热-粉
+dustPurePrasiolite // 洁净堇云石粉 洗-筛
+dustPurePyrochlore // 洁净烧绿石粉 洗-热-粉
+dustPurePyrolusite // 洁净软锰矿粉 洗-热-粉
+dustPureQuartzite // 洁净石英岩粉 洗-筛
+dustPureRedZircon // 洁净红锆石粉 洗-筛
+dustPureRoquesite // 洁净硫铟铜粉 保留
+dustPureRubracium // 洁净褐铜粉 粉-粉
+dustPureRuby // 洁净红宝石粉 洗-筛
+dustPureSalt // 洁净盐粉 洗-筛
+dustPureSapphire // 洁净蓝宝石粉 洗-筛
+dustPureScheelite // 洁净白钨矿粉 洗-保留
+dustPureMolybdenite // 洁净辉钼矿粉 洗-保留
+dustPureMolybdenum // 洁净钼粉 洗-保留
+dustPureSphalerite // 洁净闪锌矿粉 洗-保留
+dustPureTanzanite // 洁净坦桑石粉 洗-筛
+dustPureTiberium // 洁净泰伯利亚粉 洗-筛
+dustPureAdamantium // 洁净精金粉
+dustPureAgarditeCd // 洁净菱铁矿（Cd）粉
+dustPureAgarditeLa // 洁净菱铁矿（La）粉
+dustPureAgarditeNd // 洁净菱铁矿（Nd）粉
+dustPureAgarditeY // 洁净菱铁矿（Y）粉
+dustPureAlduorite // 洁净神秘蓝金粉
+dustPureAlmandine // 洁净铁铝榴石粉
+dustPureAluminium // 洁净铝粉
+dustPureAluminiumfluoride // 洁净氟化铝粉
+dustPureAlunite // 洁净明矾石粉
+dustPureAmericium // 洁净镅粉
+dustPureAmethyst // 洁净紫水晶粉
+dustPureAndradite // 洁净钙铁榴石粉
+dustPureAntimony // 洁净锑粉
+dustPureAnycopper // 洁净铜粉
+dustPureAnyiron // 洁净铁粉
+dustPureArdite // 洁净阿迪特粉
+dustPureArsenic // 洁净砷粉
+dustPureArsenopyrite // 洁净砷铁矿粉
+dustPureAsbestos // 洁净石棉粉
+dustPureAtheneite // 洁净砷汞钯粉
+dustPureBandedIron // 洁净带状铁矿粉
+dustPureBarite // 洁净重晶石粉
+dustPureBarium // 洁净钡粉
+dustPureBastnasite // 洁净氟碳镧铈粉
+dustPureBedrockium // 洁净基岩粉
+dustPureBeryllium // 洁净铍粉
+dustPureBismuth // 洁净铋粉
+dustPureBismuthinite // 洁净辉铋粉
+dustPureBismutite // 洁净泡铋粉
+dustPureBlackPlutonium // 洁净黑钚粉
+dustPureBlueTopaz // 洁净蓝黄玉粉
+dustPureBorax // 洁净硼砂粉
+dustPureBornite // 洁净斑铜粉
+dustPureBrownLimonite // 洁净棕褐铁矿粉
+dustPureCadmium // 洁净镉粉
+dustPureCaesium // 洁净铯粉
+dustPureCalcite // 洁净方解石粉
+dustPureCalciumDisilicide // 洁净二硅化钙粉
+dustPureCalciumHydride // 洁净氢化钙粉
+dustPureCallistolce // 洁净木卫四冰粉
+dustPureCassiterite // 洁净锡石粉
+dustPureCerite // 洁净铈硅石粉
+dustPureCerium // 洁净铈粉
+dustPureCertusQuartz // 洁净赛特斯石英粉
+dustPureCheese // 洁净奶酪粉
+dustPureChrome // 洁净铬粉
+dustPureChromite // 洁净铬铁矿粉
+dustPureChromo-Alumino-Povondraite // 洁净铬铝电气石粉
+dustPureChrysotile // 洁净白石棉粉
+dustPureCinnabar // 洁净朱砂粉
+dustPureCobalt // 洁净钴粉
+dustPureCobaltite // 洁净辉钴矿粉
+dustPureCosmicNeutronium // 洁净宇宙中子态素粉
+dustPureCrocoite // 洁净赤铅矿粉
+dustPureCrudeRhodiumMetal // 洁净粗制铑金属粉
+dustPureCryolite // 洁净冰晶石粉
+dustPureCryoliteF // 洁净冰晶石F粉
+dustPureDarklron // 洁净玄铁粉
+dustPureDeeplron // 洁净深渊铁粉
+dustPureDesh // 洁净戴斯粉
+dustPureDiatomite // 洁净硅藻土粉
+dustPureDjurleite // 洁净久辉铜粉
+dustPureDolomite // 洁净白云石粉
+dustPureDraconium // 洁净龙粉
+dustPureDraconiumAwakened // 洁净觉醒龙粉
+dustPureDuralumin // 洁净硬铝粉
+dustPureDysprosium // 洁净镝粉
+dustPureElectrotine // 洁净蓝石粉
+dustPureElectrum // 洁净琥珀金粉
+dustPureElectrumFlux // 洁净通流琥珀金粉
+dustPureEmery // 洁净金刚砂粉
+dustPureEnriched-NaquadahOxideMixture // 洁净氧化富集硅岩混合物粉
+dustPureErbium // 洁净铒粉
+dustPureEuropium // 洁净铕粉
+dustPureFayalite // 洁净铁橄榄石粉
+dustPureFerberite // 洁净钨铁粉
+dustPureFirestone // 洁净火石粉
+dustPureFlorencite // 洁净磷铝铈矿粉
+dustPureFluor-Buergerite // 洁净氟铁电气石粉
+dustPureFluorcaphite // 洁净氟碳铈矿粉
+dustPureFluoriteF // 洁净氟石(F)粉
+dustPureFluorspar // 洁净氟石粉
+dustPureFoolsRuby // 洁净尖晶石粉
+dustPureForce // 洁净力量粉
+dustPureForcicium // 洁净力之宝石粉
+dustPureForcillium // 洁净力场宝石粉
+dustPureForsterite // 洁净镁橄榄石粉
+dustPureGadoliniteCe // 洁净硅铍钇矿(Ce)粉
+dustPureGadoliniteY // 洁净硅铍钇矿(Y)粉
+dustPureGadolinium // 洁净钆粉
+dustPureGarnetRed // 洁净红石榴石粉
+dustPureGarnetYellow // 洁净黄石榴石粉
+dustPureGarnierite // 洁净硅镁镍矿粉
+dustPureGeikielite // 洁净镁钛矿粉
+dustPureGlauconite // 洁净海绿石粉
+dustPureGold // 洁净金粉
+dustPureGraphite // 洁净石墨粉
+dustPureGreenFuchsite // 洁净绿铬云母粉
+dustPureGreenockite // 洁净硫镉粉
+dustPureGrossular // 洁净钙铝榴石粉
+dustPureGypsum // 洁净石膏粉
+dustPureHedenbergite // 洁净钙铁辉石粉
+dustPureHeeEndium // 洁净终末粉
+dustPureHibonite // 洁净黑铝钙石粉
+dustPureHolmium // 洁净钬粉
+dustPureHuebnerite // 洁净钨酸锰粉
+dustPureIchorium // 洁净灵宝粉
+dustPureIndium // 洁净铟粉
+dustPureInfinityCatalyst // 洁净无尽催化剂粉
+dustPureInfusedGold // 洁净注魔金粉
+dustPureIridiumMetalResidue // 洁净铱金属渣粉粉
+dustPureIron // 洁净铁粉
+dustPureJade // 洁净玉粉
+dustPureJasper // 洁净碧玉粉
+dustPureKyanite // 洁净蓝晶石粉
+dustPureLanthaniteCe // 洁净镧石(Ce)粉
+dustPureLanthaniteLa // 洁净镧石(La)粉
+dustPureLanthaniteNd // 洁净镧石()粉
+dustPureLanthanum // 洁净镧粉
+dustPureLazurite // 洁净蓝金石粉
+dustPureLeachResidue // 洁净浸出渣粉
+dustPureLedox // 洁净深铅粉
+dustPureLepersonnite // 洁净绿泥石粉
+dustPureLignite // 洁净褐煤粉
+dustPureLithium // 洁净锂粉
+dustPureLoellingite // 洁净斜方砷铁粉
+dustPureLutetium // 洁净镥粉
+dustPureMagnesite // 洁净菱镁矿粉
+dustPureMagnesium // 洁净镁粉
+dustPureMagnetite // 洁净磁铁矿粉
+dustPureMalachite // 洁净孔雀石粉
+dustPureManganese // 洁净锰粉
+dustPureManyullyn // 洁净玛玉灵粉
+dustPureMica // 洁净云母粉
+dustPureMirabilite // 洁净芒硝粉
+dustPureMysteriousCrystal // 洁净神秘水晶粉
+dustPureNaquadah // 洁净硅岩粉
+dustPureNaquadahEnriched // 洁净富集硅岩粉
+dustPureNaquadahOxideMixture // 洁净氧化富集硅岩混合物粉
+dustPureNaquadria // 洁净超能硅岩粉
+dustPureNaquadriaOxideMixture // 洁净氧化超能硅岩混合物粉
+dustPureNeodymium // 洁净钕粉
+dustPureNeutronium // 洁净中子粉
+dustPureNichromite // 洁净镍铬矿粉
+dustPureNiobium // 洁净铌粉
+dustPureNiter // 洁净硝石粉
+dustPureOilsands // 洁净油砂粉
+dustPureOlenite // 洁净铝电气石粉
+dustPureOpal // 洁净蛋白石粉
+dustPureOrangeDescloizite // 洁净橙钒铅铜粉
+dustPureOrichalcum // 洁净山铜粉
+dustPureOriharukon // 洁净奥利哈钢粉
+dustPurePalladium // 洁净钯粉
+dustPurePalladiumMetallicPowder // 洁净钯金属粉
+dustPurePentlandite // 洁净镍黄铁矿粉
+dustPurePerlite // 洁净珍珠岩粉
+dustPurePhosphate // 洁净磷酸盐粉
+dustPurePigIron // 洁净生铁粉
+dustPurePlutonium // 洁净钚-239粉
+dustPurePlutonium241 // 洁净钚-241粉
+dustPurePollucite // 洁净铯榴石粉
+dustPurePolycrase // 洁净锗铀钇矿粉
+dustPurePowellite // 洁净钼钙矿粉
+dustPurePraseodymium // 洁净镨粉
+dustPurePromethium // 洁净钷粉
+dustPurePumice // 洁净浮岩粉
+dustPurePyrite // 洁净黄铁矿粉
+dustPurePyrope // 洁净镁铝榴石粉
+dustPureQuantium // 洁净量子粉
+dustPureRareEarthl // 洁净稀土I粉
+dustPureRareEarthlII // 洁净稀土II粉
+dustPureRareEarthlII // 洁净稀土II粉
+dustPureRarestMetalResidue // 洁净稀有金属渣粉
+dustPureRealgar // 洁净雄黄粉
+dustPureRedDescloizite // 洁净红钒铅锌粉
+dustPureRedFuchsite // 洁净红铬云母粉
+dustPureRedstone // 洁净红石粉
+dustPureRoastedlron // 洁净焙烧铁粉
+dustPureRoastedNickel // 洁净焙烧镍粉
+dustPureRockSalt // 洁净岩盐粉
+dustPureRubidium // 洁净铷粉
+dustPureRunite // 洁净虚恩粉
+dustPureRutile // 洁净金红石粉
+dustPureSaltpeter // 洁净硝石粉
+dustPureSamarium // 洁净钐粉
+dustPureSamarskiteY // 洁净铌钇矿(Y)粉
+dustPureSamarskiteYb // 洁净铌钇矿(Yb)粉
+dustPureScandium // 洁净钪粉
+dustPureShadow // 洁净暗影金属粉
+dustPureShadowIron // 洁净暗影铁粉
+dustPureSilicon // 洁净硅粉
+dustPureSiliconSolarGrade // 洁净太阳能级硅(多晶硅)粉
+dustPureSilver // 洁净银粉
+dustPureSoapstone // 洁净皂石粉
+dustPureSodalite // 洁净方钠石粉
+dustPureSpessartine // 洁净锰铝榴石粉
+dustPureSpodumene // 洁净锂辉石粉
+dustPureStibnite // 洁净辉锑矿粉
+dustPureStrontium // 洁净锶粉
+dustPureSulfur // 洁净硫粉
+dustPureTantalite // 洁净钽铁矿粉
+dustPureTantalum // 洁净钽粉
+dustPureTartarite // 洁净溶火之石粉
+dustPureTellurium // 洁净碲粉
+dustPureTemagamite // 洁净碲汞钯粉
+dustPureTengamRaw // 洁净生磁粉
+dustPureTerbium // 洁净铽粉
+dustPureTerlinguaite // 洁净黄氯汞粉
+dustPureTetrahedrite // 洁净黝铜矿粉
+dustPureThorianite // 洁净方钍石粉
+dustPureThorium // 洁净钍粉
+dustPureThulium // 洁净铥粉
+dustPureTin // 洁净锡粉
+dustPureTitanite // 洁净榍石粉
+dustPureTitanium // 洁净钛粉
+dustPureTopaz // 洁净黄玉粉
+dustPureTricalciumPhosphate // 洁净磷酸三钙粉
+dustPureTrinium // 洁净三元金属粉
+dustPureTritanium // 洁净三钛粉
+dustPureTrona // 洁净天然碱粉
+dustPureTungstate // 洁净钨酸锂粉
+dustPureTungsten // 洁净钨粉
+dustPureUraninite // 洁净晶质铀矿粉
+dustPureUranium // 洁净铀-238粉
+dustPureUranium235 // 洁净铀-235粉
+dustPureUvarovite // 洁净钙铬榴石粉
+dustPureVanadio-Oxy-Dravite // 洁净钒镁电气石粉
+dustPureVanadium // 洁净钒粉
+dustPureVanadiumMagnetite // 洁净钒磁铁矿粉
+dustPureVinteum // 洁净温特姆粉
+dustPureVulcanite // 洁净胶木粉
+dustPureVyroxeres // 洁净幽冥剧毒结晶粉
+dustPureWittichenite // 洁净硫铋铜粉
+dustPureWollastonite // 洁净硅灰石粉
+dustPureWulfenite // 洁净钼铅矿粉
+dustPureXenotime // 洁净磷钇粉
+dustPureYellowLimonite // 洁净黄褐铁矿粉
+dustPureYtterbium // 洁净镱粉
+dustPureYttrialite // 洁净硅钍钇粉
+dustPureYttrium // 洁净钇粉
+dustPureYttrocerite // 洁净铈钇矿粉
+dustPureZeolite // 洁净沸石粉
+dustPureZimbabweite // 洁净钛铌铅钠石粉
+dustPureZinc // 洁净锌粉
+dustPureZircon // 洁净锆石粉
+dustPureZirconolite // 洁净钛锆酸钙粉
+dustPureZircophyllite // 洁净锆星叶石粉
+dustPureZirkelite // 洁净钛锆钍粉
+
+=== 含杂~粉 ===
+
+dustlmpureAmber // 含杂琥珀粉 洗-筛
+dustlmpureApatite // 含杂磷灰石粉 洗-筛
+dustlmpureBArTiMaEuSNek // 含杂BArTiMaEuSNek粉 洗-筛
+dustlmpureBauxite // 含杂铝土矿粉 洗-热-粉
+dustlmpureCoal // 含杂煤粉 洗-筛
+dustlmpureCooperite // 含杂硫铂矿粉 洗or浸洗(Hg)
+dustlmpureDiamond // 含杂钻石粉 洗-筛
+dustlmpureDilithium // 含杂双锂粉 洗-筛
+dustlmpureEmerald // 含杂绿宝石粉 洗-筛
+dustlmpureGreenSapphire // 含杂绿色蓝宝石粉 洗-筛
+dustlmpureGalena // 含杂方铅矿粉 洗-保留
+dustlmpureIlmenite // 含杂钛铁矿粉 浸洗（硫酸）
+dustlmpureInfusedAir // 含杂风之蕴魔石粉 洗-筛
+dustlmpureInfusedEarth // 含杂地之蕴魔石粉 洗-筛
+dustlmpureInfusedEntropy // 含杂混沌蕴魔石粉 洗-筛
+dustlmpureInfusedFire // 含杂火之蕴魔石粉 洗-筛
+dustlmpureInfusedWater // 含杂水之蕴魔石粉 洗-筛
+dustlmpureInfusedOrder // 含杂秩序蕴魔石粉 洗-筛
+dustlmpureIridium // 含杂铱粉 浸洗(Hg)-热-粉
+dustlmpureLapis // 含杂青金石粉 洗-筛
+dustlmpureLead // 含杂铅粉 工业高炉
+dustlmpureLepidolite // 含杂锂云母粉 洗-浸洗(盐酸)
+dustlmpureMeteoriclron // 含杂陨铁粉 浸洗(Hg)-热-粉
+dustlmpureMithril // 含杂秘银粉 浸洗(Hg)-粉-离
+dustlmpureMonazite // 含杂独居石粉 洗-热-粉
+dustlmpureMytryl // 含杂深空秘银粉 粉-离
+dustlmpureNetherQuartz // 含杂下界石英粉 洗-筛
+dustlmpureNetherStar // 含杂下界之星粉 洗-筛
+dustlmpureNickel // 含杂镍粉 浸洗(Hg)-粉-离
+dustlmpureOlivine // 含杂橄榄石粉 洗-筛
+dustlmpureOrundum // 含杂合成玉粉 洗-筛
+dustlmpureOsmium // 含杂锇粉 浸洗(Hg)-热-粉
+dustlmpurePlatinum // 含杂铂粉 浸洗(Hg)-热-粉
+dustlmpurePlatinumMetallicPowder // 含杂铂金属粉 浸洗(Hg)-热-粉
+dustlmpurePrasiolite // 含杂堇云石粉 洗-筛
+dustlmpurePyrochlore // 含杂烧绿石粉 洗-热-粉
+dustlmpurePyrolusite // 含杂软锰矿粉 洗-热-粉
+dustlmpureQuartzite // 含杂石英岩粉 洗-筛
+dustlmpureRedZircon // 含杂红锆石粉 洗-筛
+dustlmpureRoquesite // 含杂硫铟铜粉 保留
+dustlmpureRubracium // 含杂褐铜粉 粉-粉
+dustlmpureRuby // 含杂红宝石粉 洗-筛
+dustlmpureSalt // 含杂盐粉 洗-筛
+dustlmpureSapphire // 含杂蓝宝石粉 洗-筛
+dustlmpureScheelite // 含杂白钨矿粉 洗-保留
+dustlmpureMolybdenite // 含杂辉钼矿粉 洗-保留
+dustlmpureMolybdenum // 含杂钼粉 洗-保留
+dustlmpureSphalerite // 含杂闪锌矿粉 洗-保留
+dustlmpureTanzanite // 含杂坦桑石粉 洗-筛
+dustlmpureTiberium // 含杂泰伯利亚粉 洗-筛
+dustlmpureAdamantium // 含杂精金粉
+dustlmpureAgarditeCd // 含杂菱铁矿（Cd）粉
+dustlmpureAgarditeLa // 含杂菱铁矿（La）粉
+dustlmpureAgarditeNd // 含杂菱铁矿（Nd）粉
+dustlmpureAgarditeY // 含杂菱铁矿（Y）粉
+dustlmpureAlduorite // 含杂神秘蓝金粉
+dustlmpureAlmandine // 含杂铁铝榴石粉
+dustlmpureAluminium // 含杂铝粉
+dustlmpureAluminiumfluoride // 含杂氟化铝粉
+dustlmpureAlunite // 含杂明矾石粉
+dustlmpureAmericium // 含杂镅粉
+dustlmpureAmethyst // 含杂紫水晶粉
+dustlmpureAndradite // 含杂钙铁榴石粉
+dustlmpureAntimony // 含杂锑粉
+dustlmpureAnycopper // 含杂铜粉
+dustlmpureAnyiron // 含杂铁粉
+dustlmpureArdite // 含杂阿迪特粉
+dustlmpureArsenic // 含杂砷粉
+dustlmpureArsenopyrite // 含杂砷铁矿粉
+dustlmpureAsbestos // 含杂石棉粉
+dustlmpureAtheneite // 含杂砷汞钯粉
+dustlmpureBandedIron // 含杂带状铁矿粉
+dustlmpureBarite // 含杂重晶石粉
+dustlmpureBarium // 含杂钡粉
+dustlmpureBastnasite // 含杂氟碳镧铈粉
+dustlmpureBedrockium // 含杂基岩粉
+dustlmpureBeryllium // 含杂铍粉
+dustlmpureBismuth // 含杂铋粉
+dustlmpureBismuthinite // 含杂辉铋粉
+dustlmpureBismutite // 含杂泡铋粉
+dustlmpureBlackPlutonium // 含杂黑钚粉
+dustlmpureBlueTopaz // 含杂蓝黄玉粉
+dustlmpureBorax // 含杂硼砂粉
+dustlmpureBornite // 含杂斑铜粉
+dustlmpureBrownLimonite // 含杂棕褐铁矿粉
+dustlmpureCadmium // 含杂镉粉
+dustlmpureCaesium // 含杂铯粉
+dustlmpureCalcite // 含杂方解石粉
+dustlmpureCalciumDisilicide // 含杂二硅化钙粉
+dustlmpureCalciumHydride // 含杂氢化钙粉
+dustlmpureCallistolce // 含杂木卫四冰粉
+dustlmpureCassiterite // 含杂锡石粉
+dustlmpureCerite // 含杂铈硅石粉
+dustlmpureCerium // 含杂铈粉
+dustlmpureCertusQuartz // 含杂赛特斯石英粉
+dustlmpureCheese // 含杂奶酪粉
+dustlmpureChrome // 含杂铬粉
+dustlmpureChromite // 含杂铬铁矿粉
+dustlmpureChromo-Alumino-Povondraite // 含杂铬铝电气石粉
+dustlmpureChrysotile // 含杂白石棉粉
+dustlmpureCinnabar // 含杂朱砂粉
+dustlmpureCobalt // 含杂钴粉
+dustlmpureCobaltite // 含杂辉钴矿粉
+dustlmpureCosmicNeutronium // 含杂宇宙中子态素粉
+dustlmpureCrocoite // 含杂赤铅矿粉
+dustlmpureCrudeRhodiumMetal // 含杂粗制铑金属粉
+dustlmpureCryolite // 含杂冰晶石粉
+dustlmpureCryoliteF // 含杂冰晶石F粉
+dustlmpureDarklron // 含杂玄铁粉
+dustlmpureDeeplron // 含杂深渊铁粉
+dustlmpureDesh // 含杂戴斯粉
+dustlmpureDiatomite // 含杂硅藻土粉
+dustlmpureDjurleite // 含杂久辉铜粉
+dustlmpureDolomite // 含杂白云石粉
+dustlmpureDraconium // 含杂龙粉
+dustlmpureDraconiumAwakened // 含杂觉醒龙粉
+dustlmpureDuralumin // 含杂硬铝粉
+dustlmpureDysprosium // 含杂镝粉
+dustlmpureElectrotine // 含杂蓝石粉
+dustlmpureElectrum // 含杂琥珀金粉
+dustlmpureElectrumFlux // 含杂通流琥珀金粉
+dustlmpureEmery // 含杂金刚砂粉
+dustlmpureEnriched-NaquadahOxideMixture // 含杂氧化富集硅岩混合物粉
+dustlmpureErbium // 含杂铒粉
+dustlmpureEuropium // 含杂铕粉
+dustlmpureFayalite // 含杂铁橄榄石粉
+dustlmpureFerberite // 含杂钨铁粉
+dustlmpureFirestone // 含杂火石粉
+dustlmpureFlorencite // 含杂磷铝铈矿粉
+dustlmpureFluor-Buergerite // 含杂氟铁电气石粉
+dustlmpureFluorcaphite // 含杂氟碳铈矿粉
+dustlmpureFluoriteF // 含杂氟石(F)粉
+dustlmpureFluorspar // 含杂氟石粉
+dustlmpureFoolsRuby // 含杂尖晶石粉
+dustlmpureForce // 含杂力量粉
+dustlmpureForcicium // 含杂力之宝石粉
+dustlmpureForcillium // 含杂力场宝石粉
+dustlmpureForsterite // 含杂镁橄榄石粉
+dustlmpureGadoliniteCe // 含杂硅铍钇矿(Ce)粉
+dustlmpureGadoliniteY // 含杂硅铍钇矿(Y)粉
+dustlmpureGadolinium // 含杂钆粉
+dustlmpureGarnetRed // 含杂红石榴石粉
+dustlmpureGarnetYellow // 含杂黄石榴石粉
+dustlmpureGarnierite // 含杂硅镁镍矿粉
+dustlmpureGeikielite // 含杂镁钛矿粉
+dustlmpureGlauconite // 含杂海绿石粉
+dustlmpureGold // 含杂金粉
+dustlmpureGraphite // 含杂石墨粉
+dustlmpureGreenFuchsite // 含杂绿铬云母粉
+dustlmpureGreenockite // 含杂硫镉粉
+dustlmpureGrossular // 含杂钙铝榴石粉
+dustlmpureGypsum // 含杂石膏粉
+dustlmpureHedenbergite // 含杂钙铁辉石粉
+dustlmpureHeeEndium // 含杂终末粉
+dustlmpureHibonite // 含杂黑铝钙石粉
+dustlmpureHolmium // 含杂钬粉
+dustlmpureHuebnerite // 含杂钨酸锰粉
+dustlmpureIchorium // 含杂灵宝粉
+dustlmpureIndium // 含杂铟粉
+dustlmpureInfinityCatalyst // 含杂无尽催化剂粉
+dustlmpureInfusedGold // 含杂注魔金粉
+dustlmpureIridiumMetalResidue // 含杂铱金属渣粉粉
+dustlmpureIron // 含杂铁粉
+dustlmpureJade // 含杂玉粉
+dustlmpureJasper // 含杂碧玉粉
+dustlmpureKyanite // 含杂蓝晶石粉
+dustlmpureLanthaniteCe // 含杂镧石(Ce)粉
+dustlmpureLanthaniteLa // 含杂镧石(La)粉
+dustlmpureLanthaniteNd // 含杂镧石()粉
+dustlmpureLanthanum // 含杂镧粉
+dustlmpureLazurite // 含杂蓝金石粉
+dustlmpureLeachResidue // 含杂浸出渣粉
+dustlmpureLedox // 含杂深铅粉
+dustlmpureLepersonnite // 含杂绿泥石粉
+dustlmpureLignite // 含杂褐煤粉
+dustlmpureLithium // 含杂锂粉
+dustlmpureLoellingite // 含杂斜方砷铁粉
+dustlmpureLutetium // 含杂镥粉
+dustlmpureMagnesite // 含杂菱镁矿粉
+dustlmpureMagnesium // 含杂镁粉
+dustlmpureMagnetite // 含杂磁铁矿粉
+dustlmpureMalachite // 含杂孔雀石粉
+dustlmpureManganese // 含杂锰粉
+dustlmpureManyullyn // 含杂玛玉灵粉
+dustlmpureMica // 含杂云母粉
+dustlmpureMirabilite // 含杂芒硝粉
+dustlmpureMysteriousCrystal // 含杂神秘水晶粉
+dustlmpureNaquadah // 含杂硅岩粉
+dustlmpureNaquadahEnriched // 含杂富集硅岩粉
+dustlmpureNaquadahOxideMixture // 含杂氧化富集硅岩混合物粉
+dustlmpureNaquadria // 含杂超能硅岩粉
+dustlmpureNaquadriaOxideMixture // 含杂氧化超能硅岩混合物粉
+dustlmpureNeodymium // 含杂钕粉
+dustlmpureNeutronium // 含杂中子粉
+dustlmpureNichromite // 含杂镍铬矿粉
+dustlmpureNiobium // 含杂铌粉
+dustlmpureNiter // 含杂硝石粉
+dustlmpureOilsands // 含杂油砂粉
+dustlmpureOlenite // 含杂铝电气石粉
+dustlmpureOpal // 含杂蛋白石粉
+dustlmpureOrangeDescloizite // 含杂橙钒铅铜粉
+dustlmpureOrichalcum // 含杂山铜粉
+dustlmpureOriharukon // 含杂奥利哈钢粉
+dustlmpurePalladium // 含杂钯粉
+dustlmpurePalladiumMetallicPowder // 含杂钯金属粉
+dustlmpurePentlandite // 含杂镍黄铁矿粉
+dustlmpurePerlite // 含杂珍珠岩粉
+dustlmpurePhosphate // 含杂磷酸盐粉
+dustlmpurePigIron // 含杂生铁粉
+dustlmpurePlutonium // 含杂钚-239粉
+dustlmpurePlutonium241 // 含杂钚-241粉
+dustlmpurePollucite // 含杂铯榴石粉
+dustlmpurePolycrase // 含杂锗铀钇矿粉
+dustlmpurePowellite // 含杂钼钙矿粉
+dustlmpurePraseodymium // 含杂镨粉
+dustlmpurePromethium // 含杂钷粉
+dustlmpurePumice // 含杂浮岩粉
+dustlmpurePyrite // 含杂黄铁矿粉
+dustlmpurePyrope // 含杂镁铝榴石粉
+dustlmpureQuantium // 含杂量子粉
+dustlmpureRareEarthl // 含杂稀土I粉
+dustlmpureRareEarthlII // 含杂稀土II粉
+dustlmpureRareEarthlII // 含杂稀土II粉
+dustlmpureRarestMetalResidue // 含杂稀有金属渣粉
+dustlmpureRealgar // 含杂雄黄粉
+dustlmpureRedDescloizite // 含杂红钒铅锌粉
+dustlmpureRedFuchsite // 含杂红铬云母粉
+dustlmpureRedstone // 含杂红石粉
+dustlmpureRoastedlron // 含杂焙烧铁粉
+dustlmpureRoastedNickel // 含杂焙烧镍粉
+dustlmpureRockSalt // 含杂岩盐粉
+dustlmpureRubidium // 含杂铷粉
+dustlmpureRunite // 含杂虚恩粉
+dustlmpureRutile // 含杂金红石粉
+dustlmpureSaltpeter // 含杂硝石粉
+dustlmpureSamarium // 含杂钐粉
+dustlmpureSamarskiteY // 含杂铌钇矿(Y)粉
+dustlmpureSamarskiteYb // 含杂铌钇矿(Yb)粉
+dustlmpureScandium // 含杂钪粉
+dustlmpureShadow // 含杂暗影金属粉
+dustlmpureShadowIron // 含杂暗影铁粉
+dustlmpureSilicon // 含杂硅粉
+dustlmpureSiliconSolarGrade // 含杂太阳能级硅(多晶硅)粉
+dustlmpureSilver // 含杂银粉
+dustlmpureSoapstone // 含杂皂石粉
+dustlmpureSodalite // 含杂方钠石粉
+dustlmpureSpessartine // 含杂锰铝榴石粉
+dustlmpureSpodumene // 含杂锂辉石粉
+dustlmpureStibnite // 含杂辉锑矿粉
+dustlmpureStrontium // 含杂锶粉
+dustlmpureSulfur // 含杂硫粉
+dustlmpureTantalite // 含杂钽铁矿粉
+dustlmpureTantalum // 含杂钽粉
+dustlmpureTartarite // 含杂溶火之石粉
+dustlmpureTellurium // 含杂碲粉
+dustlmpureTemagamite // 含杂碲汞钯粉
+dustlmpureTengamRaw // 含杂生磁粉
+dustlmpureTerbium // 含杂铽粉
+dustlmpureTerlinguaite // 含杂黄氯汞粉
+dustlmpureTetrahedrite // 含杂黝铜矿粉
+dustlmpureThorianite // 含杂方钍石粉
+dustlmpureThorium // 含杂钍粉
+dustlmpureThulium // 含杂铥粉
+dustlmpureTin // 含杂锡粉
+dustlmpureTitanite // 含杂榍石粉
+dustlmpureTitanium // 含杂钛粉
+dustlmpureTopaz // 含杂黄玉粉
+dustlmpureTricalciumPhosphate // 含杂磷酸三钙粉
+dustlmpureTrinium // 含杂三元金属粉
+dustlmpureTritanium // 含杂三钛粉
+dustlmpureTrona // 含杂天然碱粉
+dustlmpureTungstate // 含杂钨酸锂粉
+dustlmpureTungsten // 含杂钨粉
+dustlmpureUraninite // 含杂晶质铀矿粉
+dustlmpureUranium // 含杂铀-238粉
+dustlmpureUranium235 // 含杂铀-235粉
+dustlmpureUvarovite // 含杂钙铬榴石粉
+dustlmpureVanadio-Oxy-Dravite // 含杂钒镁电气石粉
+dustlmpureVanadium // 含杂钒粉
+dustlmpureVanadiumMagnetite // 含杂钒磁铁矿粉
+dustlmpureVinteum // 含杂温特姆粉
+dustlmpureVulcanite // 含杂胶木粉
+dustlmpureVyroxeres // 含杂幽冥剧毒结晶粉
+dustlmpureWittichenite // 含杂硫铋铜粉
+dustlmpureWollastonite // 含杂硅灰石粉
+dustlmpureWulfenite // 含杂钼铅矿粉
+dustlmpureXenotime // 含杂磷钇粉
+dustlmpureYellowLimonite // 含杂黄褐铁矿粉
+dustlmpureYtterbium // 含杂镱粉
+dustlmpureYttrialite // 含杂硅钍钇粉
+dustlmpureYttrium // 含杂钇粉
+dustlmpureYttrocerite // 含杂铈钇矿粉
+dustlmpureZeolite // 含杂沸石粉
+dustlmpureZimbabweite // 含杂钛铌铅钠石粉
+dustlmpureZinc // 含杂锌粉
+dustlmpureZircon // 含杂锆石粉
+dustlmpureZirconolite // 含杂钛锆酸钙粉
+dustlmpureZircophyllite // 含杂锆星叶石粉
+dustlmpureZirkelite // 含杂钛锆钍粉
+
+=== ~粒 ===
+
+nuggetAmber // 琥珀粒 洗-筛
+nuggetApatite // 磷灰石粒 洗-筛
+nuggetBArTiMaEuSNek // BArTiMaEuSNek粒 洗-筛
+nuggetBauxite // 铝土矿粒 洗-热-粉
+nuggetCoal // 煤粒 洗-筛
+nuggetCooperite // 硫铂矿粒 洗or浸洗(Hg)
+nuggetDiamond // 钻石粒 洗-筛
+nuggetDilithium // 双锂粒 洗-筛
+nuggetEmerald // 绿宝石粒 洗-筛
+nuggetGreenSapphire // 绿色蓝宝石粒 洗-筛
+nuggetGalena // 方铅矿粒 洗-保留
+nuggetIlmenite // 钛铁矿粒 浸洗（硫酸）
+nuggetInfusedAir // 风之蕴魔石粒 洗-筛
+nuggetInfusedEarth // 地之蕴魔石粒 洗-筛
+nuggetInfusedEntropy // 混沌蕴魔石粒 洗-筛
+nuggetInfusedFire // 火之蕴魔石粒 洗-筛
+nuggetInfusedWater // 水之蕴魔石粒 洗-筛
+nuggetInfusedOrder // 秩序蕴魔石粒 洗-筛
+nuggetIridium // 铱粒 浸洗(Hg)-热-粉
+nuggetLapis // 青金石粒 洗-筛
+nuggetLead // 铅粒 工业高炉
+nuggetLepidolite // 锂云母粒 洗-浸洗(盐酸)
+nuggetMeteoriclron // 陨铁粒 浸洗(Hg)-热-粉
+nuggetMithril // 秘银粒 浸洗(Hg)-粉-离
+nuggetMonazite // 独居石粒 洗-热-粉
+nuggetMytryl // 深空秘银粒 粉-离
+nuggetNetherQuartz // 下界石英粒 洗-筛
+nuggetNetherStar // 下界之星粒 洗-筛
+nuggetNickel // 镍粒 浸洗(Hg)-粉-离
+nuggetOlivine // 橄榄石粒 洗-筛
+nuggetOrundum // 合成玉粒 洗-筛
+nuggetOsmium // 锇粒 浸洗(Hg)-热-粉
+nuggetPlatinum // 铂粒 浸洗(Hg)-热-粉
+nuggetPlatinumMetallicPowder // 铂金属粒 浸洗(Hg)-热-粉
+nuggetPrasiolite // 堇云石粒 洗-筛
+nuggetPyrochlore // 烧绿石粒 洗-热-粉
+nuggetPyrolusite // 软锰矿粒 洗-热-粉
+nuggetQuartzite // 石英岩粒 洗-筛
+nuggetRedZircon // 红锆石粒 洗-筛
+nuggetRoquesite // 硫铟铜粒 保留
+nuggetRubracium // 褐铜粒 粉-粉
+nuggetRuby // 红宝石粒 洗-筛
+nuggetSalt // 盐粒 洗-筛
+nuggetSapphire // 蓝宝石粒 洗-筛
+nuggetScheelite // 白钨矿粒 洗-保留
+nuggetMolybdenite // 辉钼矿粒 洗-保留
+nuggetMolybdenum // 钼粒 洗-保留
+nuggetSphalerite // 闪锌矿粒 洗-保留
+nuggetTanzanite // 坦桑石粒 洗-筛
+nuggetTiberium // 泰伯利亚粒 洗-筛
+nuggetAdamantium // 精金粒
+nuggetAgarditeCd // 菱铁矿（Cd）粒
+nuggetAgarditeLa // 菱铁矿（La）粒
+nuggetAgarditeNd // 菱铁矿（Nd）粒
+nuggetAgarditeY // 菱铁矿（Y）粒
+nuggetAlduorite // 神秘蓝金粒
+nuggetAlmandine // 铁铝榴石粒
+nuggetAluminium // 铝粒
+nuggetAluminiumfluoride // 氟化铝粒
+nuggetAlunite // 明矾石粒
+nuggetAmericium // 镅粒
+nuggetAmethyst // 紫水晶粒
+nuggetAndradite // 钙铁榴石粒
+nuggetAntimony // 锑粒
+nuggetAnycopper // 铜粒
+nuggetAnyiron // 铁粒
+nuggetArdite // 阿迪特粒
+nuggetArsenic // 砷粒
+nuggetArsenopyrite // 砷铁矿粒
+nuggetAsbestos // 石棉粒
+nuggetAtheneite // 砷汞钯粒
+nuggetBandedIron // 带状铁矿粒
+nuggetBarite // 重晶石粒
+nuggetBarium // 钡粒
+nuggetBastnasite // 氟碳镧铈粒
+nuggetBedrockium // 基岩粒
+nuggetBeryllium // 铍粒
+nuggetBismuth // 铋粒
+nuggetBismuthinite // 辉铋粒
+nuggetBismutite // 泡铋粒
+nuggetBlackPlutonium // 黑钚粒
+nuggetBlueTopaz // 蓝黄玉粒
+nuggetBorax // 硼砂粒
+nuggetBornite // 斑铜粒
+nuggetBrownLimonite // 棕褐铁矿粒
+nuggetCadmium // 镉粒
+nuggetCaesium // 铯粒
+nuggetCalcite // 方解石粒
+nuggetCalciumDisilicide // 二硅化钙粒
+nuggetCalciumHydride // 氢化钙粒
+nuggetCallistolce // 木卫四冰粒
+nuggetCassiterite // 锡石粒
+nuggetCerite // 铈硅石粒
+nuggetCerium // 铈粒
+nuggetCertusQuartz // 赛特斯石英粒
+nuggetCheese // 奶酪粒
+nuggetChrome // 铬粒
+nuggetChromite // 铬铁矿粒
+nuggetChromo-Alumino-Povondraite // 铬铝电气石粒
+nuggetChrysotile // 白石棉粒
+nuggetCinnabar // 朱砂粒
+nuggetCobalt // 钴粒
+nuggetCobaltite // 辉钴矿粒
+nuggetCosmicNeutronium // 宇宙中子态素粒
+nuggetCrocoite // 赤铅矿粒
+nuggetCrudeRhodiumMetal // 粗制铑金属粒
+nuggetCryolite // 冰晶石粒
+nuggetCryoliteF // 冰晶石F粒
+nuggetDarklron // 玄铁粒
+nuggetDeeplron // 深渊铁粒
+nuggetDesh // 戴斯粒
+nuggetDiatomite // 硅藻土粒
+nuggetDjurleite // 久辉铜粒
+nuggetDolomite // 白云石粒
+nuggetDraconium // 龙粒
+nuggetDraconiumAwakened // 觉醒龙粒
+nuggetDuralumin // 硬铝粒
+nuggetDysprosium // 镝粒
+nuggetElectrotine // 蓝石粒
+nuggetElectrum // 琥珀金粒
+nuggetElectrumFlux // 通流琥珀金粒
+nuggetEmery // 金刚砂粒
+nuggetEnriched-NaquadahOxideMixture // 氧化富集硅岩混合物粒
+nuggetErbium // 铒粒
+nuggetEuropium // 铕粒
+nuggetFayalite // 铁橄榄石粒
+nuggetFerberite // 钨铁粒
+nuggetFirestone // 火石粒
+nuggetFlorencite // 磷铝铈矿粒
+nuggetFluor-Buergerite // 氟铁电气石粒
+nuggetFluorcaphite // 氟碳铈矿粒
+nuggetFluoriteF // 氟石(F)粒
+nuggetFluorspar // 氟石粒
+nuggetFoolsRuby // 尖晶石粒
+nuggetForce // 力量粒
+nuggetForcicium // 力之宝石粒
+nuggetForcillium // 力场宝石粒
+nuggetForsterite // 镁橄榄石粒
+nuggetGadoliniteCe // 硅铍钇矿(Ce)粒
+nuggetGadoliniteY // 硅铍钇矿(Y)粒
+nuggetGadolinium // 钆粒
+nuggetGarnetRed // 红石榴石粒
+nuggetGarnetYellow // 黄石榴石粒
+nuggetGarnierite // 硅镁镍矿粒
+nuggetGeikielite // 镁钛矿粒
+nuggetGlauconite // 海绿石粒
+nuggetGold // 金粒
+nuggetGraphite // 石墨粒
+nuggetGreenFuchsite // 绿铬云母粒
+nuggetGreenockite // 硫镉粒
+nuggetGrossular // 钙铝榴石粒
+nuggetGypsum // 石膏粒
+nuggetHedenbergite // 钙铁辉石粒
+nuggetHeeEndium // 终末粒
+nuggetHibonite // 黑铝钙石粒
+nuggetHolmium // 钬粒
+nuggetHuebnerite // 钨酸锰粒
+nuggetIchorium // 灵宝粒
+nuggetIndium // 铟粒
+nuggetInfinityCatalyst // 无尽催化剂粒
+nuggetInfusedGold // 注魔金粒
+nuggetIridiumMetalResidue // 铱金属渣粉粒
+nuggetIron // 铁粒
+nuggetJade // 玉粒
+nuggetJasper // 碧玉粒
+nuggetKyanite // 蓝晶石粒
+nuggetLanthaniteCe // 镧石(Ce)粒
+nuggetLanthaniteLa // 镧石(La)粒
+nuggetLanthaniteNd // 镧石()粒
+nuggetLanthanum // 镧粒
+nuggetLazurite // 蓝金石粒
+nuggetLeachResidue // 浸出渣粒
+nuggetLedox // 深铅粒
+nuggetLepersonnite // 绿泥石粒
+nuggetLignite // 褐煤粒
+nuggetLithium // 锂粒
+nuggetLoellingite // 斜方砷铁粒
+nuggetLutetium // 镥粒
+nuggetMagnesite // 菱镁矿粒
+nuggetMagnesium // 镁粒
+nuggetMagnetite // 磁铁矿粒
+nuggetMalachite // 孔雀石粒
+nuggetManganese // 锰粒
+nuggetManyullyn // 玛玉灵粒
+nuggetMica // 云母粒
+nuggetMirabilite // 芒硝粒
+nuggetMysteriousCrystal // 神秘水晶粒
+nuggetNaquadah // 硅岩粒
+nuggetNaquadahEnriched // 富集硅岩粒
+nuggetNaquadahOxideMixture // 氧化富集硅岩混合物粒
+nuggetNaquadria // 超能硅岩粒
+nuggetNaquadriaOxideMixture // 氧化超能硅岩混合物粒
+nuggetNeodymium // 钕粒
+nuggetNeutronium // 中子粒
+nuggetNichromite // 镍铬矿粒
+nuggetNiobium // 铌粒
+nuggetNiter // 硝石粒
+nuggetOilsands // 油砂粒
+nuggetOlenite // 铝电气石粒
+nuggetOpal // 蛋白石粒
+nuggetOrangeDescloizite // 橙钒铅铜粒
+nuggetOrichalcum // 山铜粒
+nuggetOriharukon // 奥利哈钢粒
+nuggetPalladium // 钯粒
+nuggetPalladiumMetallicPowder // 钯金属粒
+nuggetPentlandite // 镍黄铁矿粒
+nuggetPerlite // 珍珠岩粒
+nuggetPhosphate // 磷酸盐粒
+nuggetPigIron // 生铁粒
+nuggetPlutonium // 钚-239粒
+nuggetPlutonium241 // 钚-241粒
+nuggetPollucite // 铯榴石粒
+nuggetPolycrase // 锗铀钇矿粒
+nuggetPowellite // 钼钙矿粒
+nuggetPraseodymium // 镨粒
+nuggetPromethium // 钷粒
+nuggetPumice // 浮岩粒
+nuggetPyrite // 黄铁矿粒
+nuggetPyrope // 镁铝榴石粒
+nuggetQuantium // 量子粒
+nuggetRareEarthl // 稀土I粒
+nuggetRareEarthlII // 稀土II粒
+nuggetRareEarthlII // 稀土II粒
+nuggetRarestMetalResidue // 稀有金属渣粒
+nuggetRealgar // 雄黄粒
+nuggetRedDescloizite // 红钒铅锌粒
+nuggetRedFuchsite // 红铬云母粒
+nuggetRedstone // 红石粒
+nuggetRoastedlron // 焙烧铁粒
+nuggetRoastedNickel // 焙烧镍粒
+nuggetRockSalt // 岩盐粒
+nuggetRubidium // 铷粒
+nuggetRunite // 虚恩粒
+nuggetRutile // 金红石粒
+nuggetSaltpeter // 硝石粒
+nuggetSamarium // 钐粒
+nuggetSamarskiteY // 铌钇矿(Y)粒
+nuggetSamarskiteYb // 铌钇矿(Yb)粒
+nuggetScandium // 钪粒
+nuggetShadow // 暗影金属粒
+nuggetShadowIron // 暗影铁粒
+nuggetSilicon // 硅粒
+nuggetSiliconSolarGrade // 太阳能级硅(多晶硅)粒
+nuggetSilver // 银粒
+nuggetSoapstone // 皂石粒
+nuggetSodalite // 方钠石粒
+nuggetSpessartine // 锰铝榴石粒
+nuggetSpodumene // 锂辉石粒
+nuggetStibnite // 辉锑矿粒
+nuggetStrontium // 锶粒
+nuggetSulfur // 硫粒
+nuggetTantalite // 钽铁矿粒
+nuggetTantalum // 钽粒
+nuggetTartarite // 溶火之石粒
+nuggetTellurium // 碲粒
+nuggetTemagamite // 碲汞钯粒
+nuggetTengamRaw // 生磁粒
+nuggetTerbium // 铽粒
+nuggetTerlinguaite // 黄氯汞粒
+nuggetTetrahedrite // 黝铜矿粒
+nuggetThorianite // 方钍石粒
+nuggetThorium // 钍粒
+nuggetThulium // 铥粒
+nuggetTin // 锡粒
+nuggetTitanite // 榍石粒
+nuggetTitanium // 钛粒
+nuggetTopaz // 黄玉粒
+nuggetTricalciumPhosphate // 磷酸三钙粒
+nuggetTrinium // 三元金属粒
+nuggetTritanium // 三钛粒
+nuggetTrona // 天然碱粒
+nuggetTungstate // 钨酸锂粒
+nuggetTungsten // 钨粒
+nuggetUraninite // 晶质铀矿粒
+nuggetUranium // 铀-238粒
+nuggetUranium235 // 铀-235粒
+nuggetUvarovite // 钙铬榴石粒
+nuggetVanadio-Oxy-Dravite // 钒镁电气石粒
+nuggetVanadium // 钒粒
+nuggetVanadiumMagnetite // 钒磁铁矿粒
+nuggetVinteum // 温特姆粒
+nuggetVulcanite // 胶木粒
+nuggetVyroxeres // 幽冥剧毒结晶粒
+nuggetWittichenite // 硫铋铜粒
+nuggetWollastonite // 硅灰石粒
+nuggetWulfenite // 钼铅矿粒
+nuggetXenotime // 磷钇粒
+nuggetYellowLimonite // 黄褐铁矿粒
+nuggetYtterbium // 镱粒
+nuggetYttrialite // 硅钍钇粒
+nuggetYttrium // 钇粒
+nuggetYttrocerite // 铈钇矿粒
+nuggetZeolite // 沸石粒
+nuggetZimbabweite // 钛铌铅钠石粒
+nuggetZinc // 锌粒
+nuggetZircon // 锆石粒
+nuggetZirconolite // 钛锆酸钙粒
+nuggetZircophyllite // 锆星叶石粒
+nuggetZirkelite // 钛锆钍粒
