@@ -2,7 +2,7 @@
 === ~原矿 ===
 
 oreAmber // 琥珀原矿 洗-筛
-oreApatite // 磷灰石原矿 洗-筛
+oreApatite // 磷灰石原矿 洗-热-粉
 oreBArTiMaEuSNek // BArTiMaEuSNek原矿 洗-筛
 oreBauxite // 铝土矿原矿 洗-热-粉
 oreCoal // 煤原矿 洗-筛
@@ -25,7 +25,7 @@ oreLead // 铅原矿 工业高炉
 oreLepidolite // 锂云母原矿 洗-浸洗(盐酸)
 oreMeteoriclron // 陨铁原矿 浸洗(Hg)-热-粉
 oreMithril // 秘银原矿 浸洗(Hg)-粉-离
-oreMonazite // 独居石原矿 洗-热-粉
+oreMonazite // 独居石原矿
 oreMytryl // 深空秘银原矿 粉-离
 oreNetherQuartz // 下界石英原矿 洗-筛
 oreNetherStar // 下界之星原矿 洗-筛
@@ -304,7 +304,7 @@ oreZirkelite // 钛锆钍原矿
 === ~粗矿 ===
 
 rawOreAmber // 琥珀粗矿 洗-筛
-rawOreApatite // 磷灰石粗矿 洗-筛
+rawOreApatite // 磷灰石粗矿 洗-热-粉
 rawOreBArTiMaEuSNek // BArTiMaEuSNek粗矿 洗-筛
 rawOreBauxite // 铝土矿粗矿 洗-热-粉
 rawOreCoal // 煤粗矿 洗-筛
@@ -327,7 +327,7 @@ rawOreLead // 铅粗矿 工业高炉
 rawOreLepidolite // 锂云母粗矿 洗-浸洗(盐酸)
 rawOreMeteoriclron // 陨铁粗矿 浸洗(Hg)-热-粉
 rawOreMithril // 秘银粗矿 浸洗(Hg)-粉-离
-rawOreMonazite // 独居石粗矿 洗-热-粉
+rawOreMonazite // 独居石粗矿
 rawOreMytryl // 深空秘银粗矿 粉-离
 rawOreNetherQuartz // 下界石英粗矿 洗-筛
 rawOreNetherStar // 下界之星粗矿 洗-筛
@@ -606,7 +606,7 @@ rawOreZirkelite // 钛锆钍粗矿
 === 粉碎~ ===
 
 crushedAmber // 粉碎琥珀 洗-筛
-crushedApatite // 粉碎磷灰石 洗-筛
+crushedApatite // 粉碎磷灰石 洗-热-粉
 crushedBArTiMaEuSNek // 粉碎BArTiMaEuSNek 洗-筛
 crushedBauxite // 粉碎铝土矿 洗-热-粉
 crushedCoal // 粉碎煤 洗-筛
@@ -625,7 +625,7 @@ crushedInfusedOrder // 粉碎秩序蕴魔石 洗-筛
 crushedLapis // 粉碎青金石 洗-筛
 crushedLead // 粉碎铅 工业高炉
 crushedLepidolite // 粉碎锂云母 洗-浸洗(盐酸)
-crushedMonazite // 粉碎独居石 洗-热-粉
+crushedMonazite // 粉碎独居石
 crushedMytryl // 粉碎深空秘银 粉-离
 crushedNetherQuartz // 粉碎下界石英 洗-筛
 crushedNetherStar // 粉碎下界之星 洗-筛
@@ -900,7 +900,7 @@ crushedZirkelite // 粉碎钛锆钍
 === 洗净~ ===
 
 crushedPurifiedAmber // 洗净琥珀 洗-筛
-crushedPurifiedApatite // 洗净磷灰石 洗-筛
+crushedPurifiedApatite // 洗净磷灰石 洗-热-粉
 crushedPurifiedBArTiMaEuSNek // 洗净BArTiMaEuSNek 洗-筛
 crushedPurifiedBauxite // 洗净铝土矿 洗-热-粉
 crushedPurifiedCoal // 洗净煤 洗-筛
@@ -923,7 +923,7 @@ crushedPurifiedLead // 洗净铅 工业高炉
 crushedPurifiedLepidolite // 洗净锂云母 洗-浸洗(盐酸)
 crushedPurifiedMeteoriclron // 洗净陨铁 浸洗(Hg)-热-粉
 crushedPurifiedMithril // 洗净秘银 浸洗(Hg)-粉-离
-crushedPurifiedMonazite // 洗净独居石 洗-热-粉
+crushedPurifiedMonazite // 洗净独居石
 crushedPurifiedMytryl // 洗净深空秘银 粉-离
 crushedPurifiedNetherQuartz // 洗净下界石英 洗-筛
 crushedPurifiedNetherStar // 洗净下界之星 洗-筛
@@ -1202,7 +1202,7 @@ crushedPurifiedZirkelite // 洗净钛锆钍
 === 离心~ ===
 
 crushedCentrifugedAmber // 离心琥珀 洗-筛
-crushedCentrifugedApatite // 离心磷灰石 洗-筛
+crushedCentrifugedApatite // 离心磷灰石 洗-热-粉
 crushedCentrifugedBArTiMaEuSNek // 离心BArTiMaEuSNek 洗-筛
 crushedCentrifugedBauxite // 离心铝土矿 洗-热-粉
 crushedCentrifugedCoal // 离心煤 洗-筛
@@ -1225,7 +1225,7 @@ crushedCentrifugedLead // 离心铅 工业高炉
 crushedCentrifugedLepidolite // 离心锂云母 洗-浸洗(盐酸)
 crushedCentrifugedMeteoriclron // 离心陨铁 浸洗(Hg)-热-粉
 crushedCentrifugedMithril // 离心秘银 浸洗(Hg)-粉-离
-crushedCentrifugedMonazite // 离心独居石 洗-热-粉
+crushedCentrifugedMonazite // 离心独居石
 crushedCentrifugedMytryl // 离心深空秘银 粉-离
 crushedCentrifugedNetherQuartz // 离心下界石英 洗-筛
 crushedCentrifugedNetherStar // 离心下界之星 洗-筛
@@ -1504,7 +1504,7 @@ crushedCentrifugedZirkelite // 离心钛锆钍
 === ~粉 ===
 
 dustAmber // 琥珀粉 洗-筛
-dustApatite // 磷灰石粉 洗-筛
+dustApatite // 磷灰石粉 洗-热-粉
 dustBArTiMaEuSNek // BArTiMaEuSNek粉 洗-筛
 dustBauxite // 铝土矿粉 洗-热-粉
 dustCoal // 煤粉 洗-筛
@@ -1527,7 +1527,7 @@ dustLead // 铅粉 工业高炉
 dustLepidolite // 锂云母粉 洗-浸洗(盐酸)
 dustMeteoriclron // 陨铁粉 浸洗(Hg)-热-粉
 dustMithril // 秘银粉 浸洗(Hg)-粉-离
-dustMonazite // 独居石粉 洗-热-粉
+dustMonazite // 独居石粉
 dustMytryl // 深空秘银粉 粉-离
 dustNetherQuartz // 下界石英粉 洗-筛
 dustNetherStar // 下界之星粉 洗-筛
@@ -1806,7 +1806,7 @@ dustZirkelite // 钛锆钍粉
 === 洁净~粉 ===
 
 dustPureAmber // 洁净琥珀粉 洗-筛
-dustPureApatite // 洁净磷灰石粉 洗-筛
+dustPureApatite // 洁净磷灰石粉 洗-热-粉
 dustPureBArTiMaEuSNek // 洁净BArTiMaEuSNek粉 洗-筛
 dustPureBauxite // 洁净铝土矿粉 洗-热-粉
 dustPureCoal // 洁净煤粉 洗-筛
@@ -1829,7 +1829,7 @@ dustPureLead // 洁净铅粉 工业高炉
 dustPureLepidolite // 洁净锂云母粉 洗-浸洗(盐酸)
 dustPureMeteoriclron // 洁净陨铁粉 浸洗(Hg)-热-粉
 dustPureMithril // 洁净秘银粉 浸洗(Hg)-粉-离
-dustPureMonazite // 洁净独居石粉 洗-热-粉
+dustPureMonazite // 洁净独居石粉
 dustPureMytryl // 洁净深空秘银粉 粉-离
 dustPureNetherQuartz // 洁净下界石英粉 洗-筛
 dustPureNetherStar // 洁净下界之星粉 洗-筛
@@ -2108,7 +2108,7 @@ dustPureZirkelite // 洁净钛锆钍粉
 === 含杂~粉 ===
 
 dustlmpureAmber // 含杂琥珀粉 洗-筛
-dustlmpureApatite // 含杂磷灰石粉 洗-筛
+dustlmpureApatite // 含杂磷灰石粉 洗-热-粉
 dustlmpureBArTiMaEuSNek // 含杂BArTiMaEuSNek粉 洗-筛
 dustlmpureBauxite // 含杂铝土矿粉 洗-热-粉
 dustlmpureCoal // 含杂煤粉 洗-筛
@@ -2131,7 +2131,7 @@ dustlmpureLead // 含杂铅粉 工业高炉
 dustlmpureLepidolite // 含杂锂云母粉 洗-浸洗(盐酸)
 dustlmpureMeteoriclron // 含杂陨铁粉 浸洗(Hg)-热-粉
 dustlmpureMithril // 含杂秘银粉 浸洗(Hg)-粉-离
-dustlmpureMonazite // 含杂独居石粉 洗-热-粉
+dustlmpureMonazite // 含杂独居石粉
 dustlmpureMytryl // 含杂深空秘银粉 粉-离
 dustlmpureNetherQuartz // 含杂下界石英粉 洗-筛
 dustlmpureNetherStar // 含杂下界之星粉 洗-筛
@@ -2410,7 +2410,7 @@ dustlmpureZirkelite // 含杂钛锆钍粉
 === ~粒 ===
 
 nuggetAmber // 琥珀粒 洗-筛
-nuggetApatite // 磷灰石粒 洗-筛
+nuggetApatite // 磷灰石粒 洗-热-粉
 nuggetBArTiMaEuSNek // BArTiMaEuSNek粒 洗-筛
 nuggetBauxite // 铝土矿粒 洗-热-粉
 nuggetCoal // 煤粒 洗-筛
@@ -2433,7 +2433,7 @@ nuggetLead // 铅粒 工业高炉
 nuggetLepidolite // 锂云母粒 洗-浸洗(盐酸)
 nuggetMeteoriclron // 陨铁粒 浸洗(Hg)-热-粉
 nuggetMithril // 秘银粒 浸洗(Hg)-粉-离
-nuggetMonazite // 独居石粒 洗-热-粉
+nuggetMonazite // 独居石粒
 nuggetMytryl // 深空秘银粒 粉-离
 nuggetNetherQuartz // 下界石英粒 洗-筛
 nuggetNetherStar // 下界之星粒 洗-筛

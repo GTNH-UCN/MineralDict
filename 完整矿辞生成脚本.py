@@ -15,7 +15,7 @@ prefixes = {
 
 suffixes_special = [
     ("Amber","琥珀","洗-筛"),
-    ("Apatite","磷灰石","洗-筛"),
+    ("Apatite","磷灰石","洗-热-粉"),
     ("BArTiMaEuSNek","BArTiMaEuSNek","洗-筛"),
     ("Bauxite","铝土矿","洗-热-粉"),
     ("Coal","煤","洗-筛"),
@@ -38,7 +38,6 @@ suffixes_special = [
     ("Lepidolite","锂云母","洗-浸洗(盐酸)"),
     ("Meteoriclron","陨铁","浸洗(Hg)-热-粉"),
     ("Mithril","秘银","浸洗(Hg)-粉-离"),
-    ("Monazite","独居石","洗-热-粉"),
     ("Mytryl","深空秘银","粉-离"),
     ("NetherQuartz","下界石英","洗-筛"),
     ("NetherStar","下界之星","洗-筛"),
@@ -204,6 +203,7 @@ suffixes_non_special = [
     ("Mica","云母"),
     ("Mirabilite","芒硝"),
     ("MysteriousCrystal","神秘水晶"),
+    ("Monazite","独居石"),
     ("Naquadah","硅岩"),
     ("NaquadahEnriched","富集硅岩"),
     ("NaquadahOxideMixture","氧化富集硅岩混合物"),
