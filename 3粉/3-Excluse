@@ -910,6 +910,27 @@ crushedPurifiedMolybdenum // 洗净钼 洗-保留
 crushedPurifiedSphalerite // 洗净闪锌矿 洗-保留
 crushedPurifiedGalena // 洗净方铅矿 洗-保留
 
+crushedPurifiedBauxite // 洗净铝土矿 洗-热-粉
+crushedPurifiedDiamond // 洗净钻石 洗-筛
+crushedPurifiedEmerald // 洗净绿宝石 洗-筛
+crushedPurifiedInfusedAir // 洗净风之蕴魔石 洗-筛
+crushedPurifiedInfusedEarth // 洗净地之蕴魔石 洗-筛
+crushedPurifiedInfusedEntropy // 洗净混沌蕴魔石 洗-筛
+crushedPurifiedInfusedFire // 洗净火之蕴魔石 洗-筛
+crushedPurifiedInfusedWater // 洗净水之蕴魔石 洗-筛
+crushedPurifiedInfusedOrder // 洗净秩序蕴魔石 洗-筛
+crushedPurifiedIridium // 洗净铱 浸洗(Hg)-热-粉
+crushedPurifiedNetherQuartz // 洗净下界石英 洗-筛
+crushedPurifiedNetherStar // 洗净下界之星 洗-筛
+crushedPurifiedOsmium // 洗净锇 浸洗(Hg)-热-粉
+crushedPurifiedPrasiolite // 洗净堇云石 洗-筛
+crushedPurifiedPyrochlore // 洗净烧绿石 洗-热-粉
+crushedPurifiedPyrolusite // 洗净软锰矿 洗-热-粉
+crushedPurifiedRuby // 洗净红宝石 洗-筛
+crushedPurifiedScheelite // 洗净白钨矿 洗-保留
+crushedPurifiedTanzanite // 洗净坦桑石 洗-筛
+crushedPurifiedTiberium // 洗净泰伯利亚 洗-筛
+
 === ~粉 ===
 
 dustAmber // 琥珀粉 洗-筛
