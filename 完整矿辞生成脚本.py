@@ -9,7 +9,7 @@ prefixes = {
     "crushedCentrifuged":"离心~",
     "dust":"~粉",
     "dustPure":"洁净~粉",
-    "dustlmpure":"含杂~粉",
+    "dustImpure":"含杂~粉",
     "nugget":"~粒"
 }
 
