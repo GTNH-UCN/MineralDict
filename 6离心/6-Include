@@ -100,7 +100,7 @@ dustPureChrome // 洁净铬粉
 dustPureChromite // 洁净铬铁矿粉
 dustPureChromo-Alumino-Povondraite // 洁净铬铝电气石粉
 dustPureChrysotile // 洁净白石棉粉
-dustPureCinnabar // 洁净朱砂粉
+dustPureCinnabar // 洁净朱砂粉 洗-筛
 dustPureCobalt // 洁净钴粉
 dustPureCobaltite // 洁净辉钴矿粉
 dustPureCosmicNeutronium // 洁净宇宙中子态素粉
@@ -173,7 +173,7 @@ dustPureLanthanum // 洁净镧粉
 dustPureLazurite // 洁净蓝金石粉
 dustPureLeachResidue // 洁净浸出渣粉
 dustPureLedox // 洁净深铅粉
-dustPureLepersonnite // 洁净绿泥石粉
+dustPureLepersonnite // 洁净绿泥石粉 粉-离
 dustPureLignite // 洁净褐煤粉
 dustPureLithium // 洁净锂粉
 dustPureLoellingite // 洁净斜方砷铁粉
@@ -402,7 +402,7 @@ dustImpureChrome // 含杂铬粉
 dustImpureChromite // 含杂铬铁矿粉
 dustImpureChromo-Alumino-Povondraite // 含杂铬铝电气石粉
 dustImpureChrysotile // 含杂白石棉粉
-dustImpureCinnabar // 含杂朱砂粉
+dustImpureCinnabar // 含杂朱砂粉 洗-筛
 dustImpureCobalt // 含杂钴粉
 dustImpureCobaltite // 含杂辉钴矿粉
 dustImpureCosmicNeutronium // 含杂宇宙中子态素粉
@@ -475,7 +475,7 @@ dustImpureLanthanum // 含杂镧粉
 dustImpureLazurite // 含杂蓝金石粉
 dustImpureLeachResidue // 含杂浸出渣粉
 dustImpureLedox // 含杂深铅粉
-dustImpureLepersonnite // 含杂绿泥石粉
+dustImpureLepersonnite // 含杂绿泥石粉 粉-离
 dustImpureLignite // 含杂褐煤粉
 dustImpureLithium // 含杂锂粉
 dustImpureLoellingite // 含杂斜方砷铁粉
