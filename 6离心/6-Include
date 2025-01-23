@@ -91,7 +91,7 @@ dustPureCalcite // 洁净方解石粉
 dustPureCalciumDisilicide // 洁净二硅化钙粉
 dustPureCalciumHydride // 洁净氢化钙粉
 dustPureCallistolce // 洁净木卫四冰粉
-dustPureCassiterite // 洁净锡石粉
+dustPureCassiterite // 洁净锡石粉 洗-筛
 dustPureCerite // 洁净铈硅石粉
 dustPureCerium // 洁净铈粉
 dustPureCertusQuartz // 洁净赛特斯石英粉
@@ -217,7 +217,7 @@ dustPurePowellite // 洁净钼钙矿粉
 dustPurePraseodymium // 洁净镨粉
 dustPurePromethium // 洁净钷粉
 dustPurePumice // 洁净浮岩粉
-dustPurePyrite // 洁净黄铁矿粉
+dustPurePyrite // 洁净黄铁矿粉 洗-热-粉
 dustPurePyrope // 洁净镁铝榴石粉
 dustPureQuantium // 洁净量子粉
 dustPureRareEarthl // 洁净稀土I粉
@@ -263,7 +263,7 @@ dustPureTetrahedrite // 洁净黝铜矿粉
 dustPureThorianite // 洁净方钍石粉
 dustPureThorium // 洁净钍粉
 dustPureThulium // 洁净铥粉
-dustPureTin // 洁净锡粉
+dustPureTin // 洁净锡粉 洗-筛
 dustPureTitanite // 洁净榍石粉
 dustPureTitanium // 洁净钛粉
 dustPureTopaz // 洁净黄玉粉
@@ -393,7 +393,7 @@ dustImpureCalcite // 含杂方解石粉
 dustImpureCalciumDisilicide // 含杂二硅化钙粉
 dustImpureCalciumHydride // 含杂氢化钙粉
 dustImpureCallistolce // 含杂木卫四冰粉
-dustImpureCassiterite // 含杂锡石粉
+dustImpureCassiterite // 含杂锡石粉 洗-筛
 dustImpureCerite // 含杂铈硅石粉
 dustImpureCerium // 含杂铈粉
 dustImpureCertusQuartz // 含杂赛特斯石英粉
@@ -519,7 +519,7 @@ dustImpurePowellite // 含杂钼钙矿粉
 dustImpurePraseodymium // 含杂镨粉
 dustImpurePromethium // 含杂钷粉
 dustImpurePumice // 含杂浮岩粉
-dustImpurePyrite // 含杂黄铁矿粉
+dustImpurePyrite // 含杂黄铁矿粉 洗-热-粉
 dustImpurePyrope // 含杂镁铝榴石粉
 dustImpureQuantium // 含杂量子粉
 dustImpureRareEarthl // 含杂稀土I粉
@@ -565,7 +565,7 @@ dustImpureTetrahedrite // 含杂黝铜矿粉
 dustImpureThorianite // 含杂方钍石粉
 dustImpureThorium // 含杂钍粉
 dustImpureThulium // 含杂铥粉
-dustImpureTin // 含杂锡粉
+dustImpureTin // 含杂锡粉 洗-筛
 dustImpureTitanite // 含杂榍石粉
 dustImpureTitanium // 含杂钛粉
 dustImpureTopaz // 含杂黄玉粉

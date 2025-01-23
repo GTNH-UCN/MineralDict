@@ -15,7 +15,7 @@ crushedPurifiedAlduorite // 洗净神秘蓝金
 crushedPurifiedAlmandine // 洗净铁铝榴石
 crushedPurifiedAluminium // 洗净铝
 crushedPurifiedAluminiumfluoride // 洗净氟化铝
-crushedPurifiedAlunite // 洗净明矾石^(crushed(Mytryl|Rubracium|Lepersonnite)|(crushedCentrifuged|(ore|rawOre)(?!Blackg)).*)
+crushedPurifiedAlunite // 洗净明矾石
 crushedPurifiedAmericium // 洗净镅
 crushedPurifiedAmethyst // 洗净紫水晶
 crushedPurifiedAndradite // 洗净钙铁榴石
@@ -47,7 +47,6 @@ crushedPurifiedCalcite // 洗净方解石
 crushedPurifiedCalciumDisilicide // 洗净二硅化钙
 crushedPurifiedCalciumHydride // 洗净氢化钙
 crushedPurifiedCallistolce // 洗净木卫四冰
-crushedPurifiedCassiterite // 洗净锡石
 crushedPurifiedCerite // 洗净铈硅石
 crushedPurifiedCerium // 洗净铈
 crushedPurifiedCertusQuartz // 洗净赛特斯石英
@@ -179,7 +178,6 @@ crushedPurifiedPowellite // 洗净钼钙矿
 crushedPurifiedPraseodymium // 洗净镨
 crushedPurifiedPromethium // 洗净钷
 crushedPurifiedPumice // 洗净浮岩
-crushedPurifiedPyrite // 洗净黄铁矿
 crushedPurifiedPyrope // 洗净镁铝榴石
 crushedPurifiedQuantium // 洗净量子
 crushedPurifiedRareEarthl // 洗净稀土I
@@ -227,7 +225,6 @@ crushedPurifiedTetrahedrite // 洗净黝铜矿
 crushedPurifiedThorianite // 洗净方钍石
 crushedPurifiedThorium // 洗净钍
 crushedPurifiedThulium // 洗净铥
-crushedPurifiedTin // 洗净锡
 crushedPurifiedTitanite // 洗净榍石
 crushedPurifiedTitanium // 洗净钛
 crushedPurifiedTopaz // 洗净黄玉
@@ -358,7 +355,7 @@ oreCalcite // 方解石原矿
 oreCalciumDisilicide // 二硅化钙原矿
 oreCalciumHydride // 氢化钙原矿
 oreCallistolce // 木卫四冰原矿
-oreCassiterite // 锡石原矿
+oreCassiterite // 锡石原矿 洗-筛
 oreCerite // 铈硅石原矿
 oreCerium // 铈原矿
 oreCertusQuartz // 赛特斯石英原矿
@@ -484,7 +481,7 @@ orePowellite // 钼钙矿原矿
 orePraseodymium // 镨原矿
 orePromethium // 钷原矿
 orePumice // 浮岩原矿
-orePyrite // 黄铁矿原矿
+orePyrite // 黄铁矿原矿 洗-热-粉
 orePyrope // 镁铝榴石原矿
 oreQuantium // 量子原矿
 oreRareEarthl // 稀土I原矿
@@ -530,7 +527,7 @@ oreTetrahedrite // 黝铜矿原矿
 oreThorianite // 方钍石原矿
 oreThorium // 钍原矿
 oreThulium // 铥原矿
-oreTin // 锡原矿
+oreTin // 锡原矿 洗-筛
 oreTitanite // 榍石原矿
 oreTitanium // 钛原矿
 oreTopaz // 黄玉原矿
@@ -660,7 +657,7 @@ rawOreCalcite // 方解石粗矿
 rawOreCalciumDisilicide // 二硅化钙粗矿
 rawOreCalciumHydride // 氢化钙粗矿
 rawOreCallistolce // 木卫四冰粗矿
-rawOreCassiterite // 锡石粗矿
+rawOreCassiterite // 锡石粗矿 洗-筛
 rawOreCerite // 铈硅石粗矿
 rawOreCerium // 铈粗矿
 rawOreCertusQuartz // 赛特斯石英粗矿
@@ -786,7 +783,7 @@ rawOrePowellite // 钼钙矿粗矿
 rawOrePraseodymium // 镨粗矿
 rawOrePromethium // 钷粗矿
 rawOrePumice // 浮岩粗矿
-rawOrePyrite // 黄铁矿粗矿
+rawOrePyrite // 黄铁矿粗矿 洗-热-粉
 rawOrePyrope // 镁铝榴石粗矿
 rawOreQuantium // 量子粗矿
 rawOreRareEarthl // 稀土I粗矿
@@ -832,7 +829,7 @@ rawOreTetrahedrite // 黝铜矿粗矿
 rawOreThorianite // 方钍石粗矿
 rawOreThorium // 钍粗矿
 rawOreThulium // 铥粗矿
-rawOreTin // 锡粗矿
+rawOreTin // 锡粗矿 洗-筛
 rawOreTitanite // 榍石粗矿
 rawOreTitanium // 钛粗矿
 rawOreTopaz // 黄玉粗矿
@@ -962,7 +959,7 @@ crushedCentrifugedCalcite // 离心方解石
 crushedCentrifugedCalciumDisilicide // 离心二硅化钙
 crushedCentrifugedCalciumHydride // 离心氢化钙
 crushedCentrifugedCallistolce // 离心木卫四冰
-crushedCentrifugedCassiterite // 离心锡石
+crushedCentrifugedCassiterite // 离心锡石 洗-筛
 crushedCentrifugedCerite // 离心铈硅石
 crushedCentrifugedCerium // 离心铈
 crushedCentrifugedCertusQuartz // 离心赛特斯石英
@@ -1088,7 +1085,7 @@ crushedCentrifugedPowellite // 离心钼钙矿
 crushedCentrifugedPraseodymium // 离心镨
 crushedCentrifugedPromethium // 离心钷
 crushedCentrifugedPumice // 离心浮岩
-crushedCentrifugedPyrite // 离心黄铁矿
+crushedCentrifugedPyrite // 离心黄铁矿 洗-热-粉
 crushedCentrifugedPyrope // 离心镁铝榴石
 crushedCentrifugedQuantium // 离心量子
 crushedCentrifugedRareEarthl // 离心稀土I
@@ -1134,7 +1131,7 @@ crushedCentrifugedTetrahedrite // 离心黝铜矿
 crushedCentrifugedThorianite // 离心方钍石
 crushedCentrifugedThorium // 离心钍
 crushedCentrifugedThulium // 离心铥
-crushedCentrifugedTin // 离心锡
+crushedCentrifugedTin // 离心锡 洗-筛
 crushedCentrifugedTitanite // 离心榍石
 crushedCentrifugedTitanium // 离心钛
 crushedCentrifugedTopaz // 离心黄玉

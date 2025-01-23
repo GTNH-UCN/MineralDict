@@ -36,6 +36,7 @@ crushedPlatinumMetallicPowder // 粉碎铂金属 浸洗(Hg)-热-粉
 crushedPrasiolite // 粉碎堇云石 洗-筛
 crushedPyrochlore // 粉碎烧绿石 洗-热-粉
 crushedPyrolusite // 粉碎软锰矿 洗-热-粉
+crushedPurifiedPyrite // 洗净黄铁矿 洗-热-粉
 crushedQuartzite // 粉碎石英岩 洗-筛
 crushedRedZircon // 粉碎红锆石 洗-筛
 crushedRoquesite // 粉碎硫铟铜 保留
@@ -89,7 +90,7 @@ crushedCalcite // 粉碎方解石
 crushedCalciumDisilicide // 粉碎二硅化钙
 crushedCalciumHydride // 粉碎氢化钙
 crushedCallistolce // 粉碎木卫四冰
-crushedCassiterite // 粉碎锡石
+crushedCassiterite // 粉碎锡石 洗-筛
 crushedCerite // 粉碎铈硅石
 crushedCerium // 粉碎铈
 crushedCertusQuartz // 粉碎赛特斯石英
@@ -214,7 +215,7 @@ crushedPowellite // 粉碎钼钙矿
 crushedPraseodymium // 粉碎镨
 crushedPromethium // 粉碎钷
 crushedPumice // 粉碎浮岩
-crushedPyrite // 粉碎黄铁矿
+crushedPyrite // 粉碎黄铁矿 洗-热-粉
 crushedPyrope // 粉碎镁铝榴石
 crushedQuantium // 粉碎量子
 crushedRareEarthl // 粉碎稀土I
@@ -260,7 +261,7 @@ crushedTetrahedrite // 粉碎黝铜矿
 crushedThorianite // 粉碎方钍石
 crushedThorium // 粉碎钍
 crushedThulium // 粉碎铥
-crushedTin // 粉碎锡
+crushedTin // 粉碎锡 洗-筛
 crushedTitanite // 粉碎榍石
 crushedTitanium // 粉碎钛
 crushedTopaz // 粉碎黄玉
@@ -323,9 +324,11 @@ crushedPurifiedRuby // 洗净红宝石 洗-筛
 crushedPurifiedScheelite // 洗净白钨矿 洗-保留
 crushedPurifiedTanzanite // 洗净坦桑石 洗-筛
 crushedPurifiedTiberium // 洗净泰伯利亚 洗-筛
+crushedPurifiedTin // 洗净锡 洗-筛
 crushedPurifiedAmber // 洗净琥珀 洗-筛
 crushedPurifiedApatite // 洗净磷灰石 洗-热-粉
 crushedPurifiedBArTiMaEuSNek // 洗净BArTiMaEuSNek 洗-筛
+crushedPurifiedCassiterite // 洗净锡石 洗-筛
 crushedPurifiedCinnabar // 洗净朱砂 洗-筛
 crushedPurifiedCoal // 洗净煤 洗-筛
 crushedPurifiedDilithium // 洗净双锂 洗-筛
@@ -435,7 +438,7 @@ dustCalcite // 方解石粉
 dustCalciumDisilicide // 二硅化钙粉
 dustCalciumHydride // 氢化钙粉
 dustCallistolce // 木卫四冰粉
-dustCassiterite // 锡石粉
+dustCassiterite // 锡石粉 洗-筛
 dustCerite // 铈硅石粉
 dustCerium // 铈粉
 dustCertusQuartz // 赛特斯石英粉
@@ -561,7 +564,7 @@ dustPowellite // 钼钙矿粉
 dustPraseodymium // 镨粉
 dustPromethium // 钷粉
 dustPumice // 浮岩粉
-dustPyrite // 黄铁矿粉
+dustPyrite // 黄铁矿粉 洗-热-粉
 dustPyrope // 镁铝榴石粉
 dustQuantium // 量子粉
 dustRareEarthl // 稀土I粉
@@ -607,7 +610,7 @@ dustTetrahedrite // 黝铜矿粉
 dustThorianite // 方钍石粉
 dustThorium // 钍粉
 dustThulium // 铥粉
-dustTin // 锡粉
+dustTin // 锡粉 洗-筛
 dustTitanite // 榍石粉
 dustTitanium // 钛粉
 dustTopaz // 黄玉粉
@@ -737,7 +740,7 @@ dustPureCalcite // 洁净方解石粉
 dustPureCalciumDisilicide // 洁净二硅化钙粉
 dustPureCalciumHydride // 洁净氢化钙粉
 dustPureCallistolce // 洁净木卫四冰粉
-dustPureCassiterite // 洁净锡石粉
+dustPureCassiterite // 洁净锡石粉 洗-筛
 dustPureCerite // 洁净铈硅石粉
 dustPureCerium // 洁净铈粉
 dustPureCertusQuartz // 洁净赛特斯石英粉
@@ -863,7 +866,7 @@ dustPurePowellite // 洁净钼钙矿粉
 dustPurePraseodymium // 洁净镨粉
 dustPurePromethium // 洁净钷粉
 dustPurePumice // 洁净浮岩粉
-dustPurePyrite // 洁净黄铁矿粉
+dustPurePyrite // 洁净黄铁矿粉 洗-热-粉
 dustPurePyrope // 洁净镁铝榴石粉
 dustPureQuantium // 洁净量子粉
 dustPureRareEarthl // 洁净稀土I粉
@@ -909,7 +912,7 @@ dustPureTetrahedrite // 洁净黝铜矿粉
 dustPureThorianite // 洁净方钍石粉
 dustPureThorium // 洁净钍粉
 dustPureThulium // 洁净铥粉
-dustPureTin // 洁净锡粉
+dustPureTin // 洁净锡粉 洗-筛
 dustPureTitanite // 洁净榍石粉
 dustPureTitanium // 洁净钛粉
 dustPureTopaz // 洁净黄玉粉
@@ -1039,7 +1042,7 @@ dustImpureCalcite // 含杂方解石粉
 dustImpureCalciumDisilicide // 含杂二硅化钙粉
 dustImpureCalciumHydride // 含杂氢化钙粉
 dustImpureCallistolce // 含杂木卫四冰粉
-dustImpureCassiterite // 含杂锡石粉
+dustImpureCassiterite // 含杂锡石粉 洗-筛
 dustImpureCerite // 含杂铈硅石粉
 dustImpureCerium // 含杂铈粉
 dustImpureCertusQuartz // 含杂赛特斯石英粉
@@ -1165,7 +1168,7 @@ dustImpurePowellite // 含杂钼钙矿粉
 dustImpurePraseodymium // 含杂镨粉
 dustImpurePromethium // 含杂钷粉
 dustImpurePumice // 含杂浮岩粉
-dustImpurePyrite // 含杂黄铁矿粉
+dustImpurePyrite // 含杂黄铁矿粉 洗-热-粉
 dustImpurePyrope // 含杂镁铝榴石粉
 dustImpureQuantium // 含杂量子粉
 dustImpureRareEarthl // 含杂稀土I粉
@@ -1211,7 +1214,7 @@ dustImpureTetrahedrite // 含杂黝铜矿粉
 dustImpureThorianite // 含杂方钍石粉
 dustImpureThorium // 含杂钍粉
 dustImpureThulium // 含杂铥粉
-dustImpureTin // 含杂锡粉
+dustImpureTin // 含杂锡粉 洗-筛
 dustImpureTitanite // 含杂榍石粉
 dustImpureTitanium // 含杂钛粉
 dustImpureTopaz // 含杂黄玉粉
@@ -1341,7 +1344,7 @@ nuggetCalcite // 方解石粒
 nuggetCalciumDisilicide // 二硅化钙粒
 nuggetCalciumHydride // 氢化钙粒
 nuggetCallistolce // 木卫四冰粒
-nuggetCassiterite // 锡石粒
+nuggetCassiterite // 锡石粒 洗-筛
 nuggetCerite // 铈硅石粒
 nuggetCerium // 铈粒
 nuggetCertusQuartz // 赛特斯石英粒
@@ -1467,7 +1470,7 @@ nuggetPowellite // 钼钙矿粒
 nuggetPraseodymium // 镨粒
 nuggetPromethium // 钷粒
 nuggetPumice // 浮岩粒
-nuggetPyrite // 黄铁矿粒
+nuggetPyrite // 黄铁矿粒 洗-热-粉
 nuggetPyrope // 镁铝榴石粒
 nuggetQuantium // 量子粒
 nuggetRareEarthl // 稀土I粒
@@ -1513,7 +1516,7 @@ nuggetTetrahedrite // 黝铜矿粒
 nuggetThorianite // 方钍石粒
 nuggetThorium // 钍粒
 nuggetThulium // 铥粒
-nuggetTin // 锡粒
+nuggetTin // 锡粒 洗-筛
 nuggetTitanite // 榍石粒
 nuggetTitanium // 钛粒
 nuggetTopaz // 黄玉粒

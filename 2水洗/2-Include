@@ -78,7 +78,7 @@ crushedCalcite // 粉碎方解石
 crushedCalciumDisilicide // 粉碎二硅化钙
 crushedCalciumHydride // 粉碎氢化钙
 crushedCallistolce // 粉碎木卫四冰
-crushedCassiterite // 粉碎锡石
+crushedCassiterite // 粉碎锡石 洗-筛
 crushedCerite // 粉碎铈硅石
 crushedCerium // 粉碎铈
 crushedCertusQuartz // 粉碎赛特斯石英
@@ -202,7 +202,7 @@ crushedPowellite // 粉碎钼钙矿
 crushedPraseodymium // 粉碎镨
 crushedPromethium // 粉碎钷
 crushedPumice // 粉碎浮岩
-crushedPyrite // 粉碎黄铁矿
+crushedPyrite // 粉碎黄铁矿 洗-热-粉
 crushedPyrope // 粉碎镁铝榴石
 crushedQuantium // 粉碎量子
 crushedRareEarthl // 粉碎稀土I
@@ -248,7 +248,7 @@ crushedTetrahedrite // 粉碎黝铜矿
 crushedThorianite // 粉碎方钍石
 crushedThorium // 粉碎钍
 crushedThulium // 粉碎铥
-crushedTin // 粉碎锡
+crushedTin // 粉碎锡 洗-筛
 crushedTitanite // 粉碎榍石
 crushedTitanium // 粉碎钛
 crushedTopaz // 粉碎黄玉
