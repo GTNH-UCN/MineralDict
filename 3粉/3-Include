@@ -268,6 +268,7 @@ oreAmber // 琥珀原矿 洗-筛
 oreApatite // 磷灰石原矿 洗-热-粉
 oreBArTiMaEuSNek // BArTiMaEuSNek原矿 洗-筛
 oreBauxite // 铝土矿原矿 洗-热-粉
+oreChalcopyrite // 黄铜矿原矿 洗-热-粉
 oreCoal // 煤原矿 洗-筛
 oreCooperite // 硫铂矿原矿 洗or浸洗(Hg)
 oreDiamond // 钻石原矿 洗-筛
@@ -570,6 +571,7 @@ rawOreAmber // 琥珀粗矿 洗-筛
 rawOreApatite // 磷灰石粗矿 洗-热-粉
 rawOreBArTiMaEuSNek // BArTiMaEuSNek粗矿 洗-筛
 rawOreBauxite // 铝土矿粗矿 洗-热-粉
+rawOreChalcopyrite // 黄铜矿粗矿 洗-热-粉
 rawOreCoal // 煤粗矿 洗-筛
 rawOreCooperite // 硫铂矿粗矿 洗or浸洗(Hg)
 rawOreDiamond // 钻石粗矿 洗-筛
@@ -872,6 +874,7 @@ crushedCentrifugedAmber // 离心琥珀 洗-筛
 crushedCentrifugedApatite // 离心磷灰石 洗-热-粉
 crushedCentrifugedBArTiMaEuSNek // 离心BArTiMaEuSNek 洗-筛
 crushedCentrifugedBauxite // 离心铝土矿 洗-热-粉
+crushedCentrifugedChalcopyrite // 离心黄铜矿 洗-热-粉
 crushedCentrifugedCoal // 离心煤 洗-筛
 crushedCentrifugedCooperite // 离心硫铂矿 洗or浸洗(Hg)
 crushedCentrifugedDiamond // 离心钻石 洗-筛

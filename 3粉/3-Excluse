@@ -4,6 +4,7 @@ crushedAmber // 粉碎琥珀 洗-筛
 crushedApatite // 粉碎磷灰石 洗-热-粉
 crushedBArTiMaEuSNek // 粉碎BArTiMaEuSNek 洗-筛
 crushedBauxite // 粉碎铝土矿 洗-热-粉
+crushedChalcopyrite // 粉碎黄铜矿 洗-热-粉
 crushedCoal // 粉碎煤 洗-筛
 crushedCooperite // 粉碎硫铂矿 洗or浸洗(Hg)
 crushedDiamond // 粉碎钻石 洗-筛
@@ -300,6 +301,7 @@ crushedZirkelite // 粉碎钛锆钍
 
 === 洗净~ ===
 
+crushedPurifiedChalcopyrite // 洗净黄铜矿 洗-热-粉
 crushedPurifiedMolybdenite // 洗净辉钼矿 洗-保留
 crushedPurifiedMolybdenum // 洗净钼 洗-保留
 crushedPurifiedSphalerite // 洗净闪锌矿 洗-保留
@@ -351,6 +353,7 @@ dustAmber // 琥珀粉 洗-筛
 dustApatite // 磷灰石粉 洗-热-粉
 dustBArTiMaEuSNek // BArTiMaEuSNek粉 洗-筛
 dustBauxite // 铝土矿粉 洗-热-粉
+dustChalcopyrite // 黄铜矿粉 洗-热-粉
 dustCoal // 煤粉 洗-筛
 dustCooperite // 硫铂矿粉 洗or浸洗(Hg)
 dustDiamond // 钻石粉 洗-筛
@@ -653,6 +656,7 @@ dustPureAmber // 洁净琥珀粉 洗-筛
 dustPureApatite // 洁净磷灰石粉 洗-热-粉
 dustPureBArTiMaEuSNek // 洁净BArTiMaEuSNek粉 洗-筛
 dustPureBauxite // 洁净铝土矿粉 洗-热-粉
+dustPureChalcopyrite // 洁净黄铜矿粉 洗-热-粉
 dustPureCoal // 洁净煤粉 洗-筛
 dustPureCooperite // 洁净硫铂矿粉 洗or浸洗(Hg)
 dustPureDiamond // 洁净钻石粉 洗-筛
@@ -955,6 +959,7 @@ dustImpureAmber // 含杂琥珀粉 洗-筛
 dustImpureApatite // 含杂磷灰石粉 洗-热-粉
 dustImpureBArTiMaEuSNek // 含杂BArTiMaEuSNek粉 洗-筛
 dustImpureBauxite // 含杂铝土矿粉 洗-热-粉
+dustImpureChalcopyrite // 含杂黄铜矿粉 洗-热-粉
 dustImpureCoal // 含杂煤粉 洗-筛
 dustImpureCooperite // 含杂硫铂矿粉 洗or浸洗(Hg)
 dustImpureDiamond // 含杂钻石粉 洗-筛
@@ -1257,6 +1262,7 @@ nuggetAmber // 琥珀粒 洗-筛
 nuggetApatite // 磷灰石粒 洗-热-粉
 nuggetBArTiMaEuSNek // BArTiMaEuSNek粒 洗-筛
 nuggetBauxite // 铝土矿粒 洗-热-粉
+nuggetChalcopyrite // 黄铜矿粒 洗-热-粉
 nuggetCoal // 煤粒 洗-筛
 nuggetCooperite // 硫铂矿粒 洗or浸洗(Hg)
 nuggetDiamond // 钻石粒 洗-筛
