@@ -1551,7 +1551,6 @@ dustOsmium // 锇粉 浸洗(Hg)-热-粉
 dustPlatinum // 铂粉 浸洗(Hg)-热-粉
 dustPlatinumMetallicPowder // 铂金属粉 浸洗(Hg)-热-粉
 dustPrasiolite // 堇云石粉 洗-筛
-dustPyrolusite // 软锰矿粉 洗-热-粉
 dustQuartzite // 石英岩粉 洗-筛
 dustRedZircon // 红锆石粉 洗-筛
 dustRoquesite // 硫铟铜粉 保留
@@ -1609,13 +1608,11 @@ dustCerium // 铈粉
 dustCertusQuartz // 赛特斯石英粉
 dustCheese // 奶酪粉
 dustChrome // 铬粉
-dustChromite // 铬铁矿粉
 dustChromo-Alumino-Povondraite // 铬铝电气石粉
 dustChrysotile // 白石棉粉
 dustCinnabar // 朱砂粉 洗-筛
 dustCobalt // 钴粉
 dustCosmicNeutronium // 宇宙中子态素粉
-dustCrocoite // 赤铅矿粉
 dustCrudeRhodiumMetal // 粗制铑金属粉
 dustCryolite // 冰晶石粉
 dustCryoliteF // 冰晶石F粉
@@ -1664,7 +1661,6 @@ dustGreenockite // 硫镉粉
 dustGrossular // 钙铝榴石粉
 dustGypsum // 石膏粉
 dustHeeEndium // 终末粉
-dustHibonite // 黑铝钙石粉
 dustHolmium // 钬粉
 dustHuebnerite // 钨酸锰粉
 dustIchorium // 灵宝粉
@@ -1684,7 +1680,6 @@ dustLazurite // 蓝金石粉
 dustLeachResidue // 浸出渣粉
 dustLedox // 深铅粉
 dustLepersonnite // 绿泥石粉 粉-离
-dustLignite // 褐煤粉
 dustLithium // 锂粉
 dustLoellingite // 斜方砷铁粉
 dustLutetium // 镥粉
@@ -1717,7 +1712,6 @@ dustPalladium // 钯粉
 dustPalladiumMetallicPowder // 钯金属粉
 dustPentlandite // 镍黄铁矿粉
 dustPerlite // 珍珠岩粉
-dustPhosphate // 磷酸盐粉
 dustPigIron // 生铁粉
 dustPlutonium // 钚-239粉
 dustPlutonium241 // 钚-241粉
@@ -1844,7 +1838,6 @@ dustPurePlatinum // 洁净铂粉 浸洗(Hg)-热-粉
 dustPurePlatinumMetallicPowder // 洁净铂金属粉 浸洗(Hg)-热-粉
 dustPurePrasiolite // 洁净堇云石粉 洗-筛
 dustPurePyrochlore // 洁净烧绿石粉 洗-热-粉
-
 dustPureQuartzite // 洁净石英岩粉 洗-筛
 dustPureRedZircon // 洁净红锆石粉 洗-筛
 dustPureRoquesite // 洁净硫铟铜粉 保留
@@ -1983,6 +1976,7 @@ dustPureLeachResidue // 洁净浸出渣粉
 dustPureLedox // 洁净深铅粉
 dustPureLepersonnite // 洁净绿泥石粉 粉-离
 dustPureLithium // 洁净锂粉
+dustPureLignite // 洁净褐煤粉
 dustPureLoellingite // 洁净斜方砷铁粉
 dustPureLutetium // 洁净镥粉
 dustPureMagnesite // 洁净菱镁矿粉
@@ -2014,6 +2008,7 @@ dustPurePalladium // 洁净钯粉
 dustPurePalladiumMetallicPowder // 洁净钯金属粉
 dustPurePentlandite // 洁净镍黄铁矿粉
 dustPurePerlite // 洁净珍珠岩粉
+dustPurePhosphate // 洁净磷酸盐粉
 dustPurePigIron // 洁净生铁粉
 dustPurePlutonium // 洁净钚-239粉
 dustPurePlutonium241 // 洁净钚-241粉
@@ -2025,6 +2020,7 @@ dustPurePromethium // 洁净钷粉
 dustPurePumice // 洁净浮岩粉
 dustPurePyrite // 洁净黄铁矿粉 洗-热-粉
 dustPurePyrope // 洁净镁铝榴石粉
+dustPurePyrolusite // 洁净软锰矿粉 洗-热-粉 [3]
 dustPureQuantium // 洁净量子粉
 dustPureRareEarthl // 洁净稀土I粉
 dustPureRareEarthlII // 洁净稀土II粉
