@@ -1517,16 +1517,16 @@
   {
     "Name": "Scheelite",
     "NameZh": "白钨矿",
-    "Mode": 7
+    "Mode": 1
   },
   {
     "Name": "Molybdenite",
     "NameZh": "辉钼矿",
-    "Mode": 7
+    "Mode": 1
   },
   {
     "Name": "Molybdenum",
     "NameZh": "钼",
-    "Mode": 7
+    "Mode": 1
   }
 ]

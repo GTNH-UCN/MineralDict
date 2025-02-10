@@ -82,8 +82,8 @@ public class MineralDictProcessor
         foreach (var m in Materials)
         {
             // TODO 处理油砂
-            AppendMaterial(m.DictNameOre, m.DictNameOreZh, needCrusher: true);
-            AppendMaterial(m.DictNameRawOre, m.DictNameRawOreZh, needCrusher: true);
+            AppendMaterial(m.DictNameOre, m.DictNameOreZh, needCrusher: true, isIntermediate: true);
+            AppendMaterial(m.DictNameRawOre, m.DictNameRawOreZh, needCrusher: true, isIntermediate: true);
         }
 
         AppendAll("");
@@ -177,13 +177,37 @@ public class MineralDictProcessor
         // 全部离心
         foreach (var m in Materials)
         {
-            AppendMaterial(m.DictNameDustPure, m.DictNameDustPureZh, needCentrifuge: true);
-            AppendMaterial(m.DictNameDustImpure, m.DictNameDustImpureZh, needCentrifuge: true);
+            AppendMaterial(m.DictNameDustPure, m.DictNameDustPureZh, needCentrifuge: true, isIntermediate: true);
+            AppendMaterial(m.DictNameDustImpure, m.DictNameDustImpureZh, needCentrifuge: true, isIntermediate: true);
         }
     }
 
     private void ExportMineralDict()
     {
+        // 获取项目根目录
+        var projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "../../../"));
+        var artifactsDir = Path.Combine(projectRoot, "Artifacts");
+
+        // 确保Artifacts目录存在
+        Directory.CreateDirectory(artifactsDir);
+
+        // 导出文件
+        File.WriteAllText(Path.Combine(artifactsDir, "1-H2OWashInclude.txt"), _h20WashInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "1-H2OWashExclude.txt"), _h2OWashExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "2-HgWashInclude.txt"), _hgWashInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "2-HgWashExclude.txt"), _hgWashExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "3-SpWashInclude.txt"), _spWashInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "3-SpWashExclude.txt"), _spWashExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "4-CrusherInclude.txt"), _crusherInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "4-CrusherExclude.txt"), _crusherExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "5-SieveInclude.txt"), _sieveInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "5-SieveExclude.txt"), _sieveExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "6-HeatCentrifugeInclude.txt"), _heatCentrifugeInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "6-HeatCentrifugeExclude.txt"), _heatCentrifugeExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "7-CentrifugeInclude.txt"), _centrifugeInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "7-CentrifugeExclude.txt"), _centrifugeExclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "8-IntermediateInclude.txt"), _intermediateInclude.ToString());
+        File.WriteAllText(Path.Combine(artifactsDir, "8-IntermediateExclude.txt"), _intermediateExclude.ToString());
     }
 
     private void AppendAll(string str)

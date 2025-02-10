@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GTNH-MineralDict")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd4fbd414454ccc1ce51c6b394c8e2c45b2c03cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967388d10220c8c1c76ca6ba4791a0710a6ec97c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GTNH-MineralDict")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GTNH-MineralDict")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
