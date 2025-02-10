@@ -1,0 +1,57 @@
+name: Auto Build
+
+on:
+  push:
+    branches: [ "main" ]  # 也可以改成其它分支或使用 ['*'] 表示所有分支
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 生成 yyMMddHHmmss 格式的版本号
+      - name: Generate Version
+        id: genversion
+        run: |
+          TimeVersion="$(TZ=Asia/Shanghai date '+%Y.%m.%d-%H.%M.%S')"
+          echo "TimeVersion=$TimeVersion" >> $GITHUB_ENV
+          echo "Generated version: $TimeVersion"
+
+      # 2. 检出代码
+      - name: Check out
+        uses: actions/checkout@v3
+
+      # 3. 安装 .NET (这里以 .NET 8 为例)
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
+      # 4. 发布项目（保持原有配置）
+      - name: Build and Publish
+        run: dotnet publish ./GTNH-MineralDict/GTNH-MineralDict.csproj -c Release -r win-x64 --self-contained true
+
+      # 5. 验证产物目录（新增步骤）
+      - name: Validate Artifacts
+        run: |
+          echo "生成文件列表："
+          ls -R ./GTNH-MineralDict/Artifacts
+          if [ ! -d "./GTNH-MineralDict/Artifacts" ]; then
+            echo "错误：Artifacts目录未生成！"
+            exit 1
+          fi
+
+      # 5. 使用 softprops/action-gh-release 发布到 GitHub Releases
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: MineralDict-${{ env.TimeVersion }}
+          name: MineralDict ${{ env.TimeVersion }}
+          body: |
+            自动构建版本: ${{ env.TimeVersion }}
+            构建时间（北京时间）: ${{ env.TimeVersion }}
+          files: |
+            ./GTNH-MineralDict/Artifacts/**
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
