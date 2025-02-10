@@ -14,6 +14,8 @@ class Program
 
 public class MineralDictProcessor
 {
+    private const string DataSourcePath = "Assets/datasource.json";
+
     #region Fields
 
     private List<Material> Materials { get; set; } = [];
@@ -60,20 +62,17 @@ public class MineralDictProcessor
         ExportMineralDict();
     }
 
-    public List<Material> ImportMaterialData()
+    private static List<Material> ImportMaterialData()
     {
-        var ores = new List<Material>();
-
         // 导入OreData
         // 从Assets/datasource.json中反序列化数据
-        var json = File.ReadAllText("Assets/datasource.json");
-        var data = JsonSerializer.Deserialize<List<Material>>(json);
+        var json = File.ReadAllText(DataSourcePath);
+        var ores = JsonSerializer.Deserialize<List<Material>>(json);
 
-
-        return ores;
+        return ores ?? throw new InvalidOperationException("解析矿辞数据源失败，请检查数据源格式。");
     }
 
-    public void GenerateMineralDict()
+    private void GenerateMineralDict()
     {
         // 生成MineralDict
         AppendAll("===Ore/RawOre 原矿/粗矿===");
@@ -183,11 +182,11 @@ public class MineralDictProcessor
         }
     }
 
-    public void ExportMineralDict()
+    private void ExportMineralDict()
     {
     }
 
-    public void AppendAll(string str)
+    private void AppendAll(string str)
     {
         _h20WashInclude.Append(str).Append(Environment.NewLine);
         _h2OWashExclude.Append(str).Append(Environment.NewLine);
@@ -207,7 +206,7 @@ public class MineralDictProcessor
         _intermediateExclude.Append(str).Append(Environment.NewLine);
     }
 
-    public void AppendMaterial(
+    private void AppendMaterial(
         string nameDict,
         string nameZh,
         bool needH20Wash = false,

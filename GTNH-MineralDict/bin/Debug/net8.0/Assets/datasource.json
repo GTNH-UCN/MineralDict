@@ -1,0 +1,1532 @@
+[
+  {
+    "Name": "Ilmenite",
+    "NameZh": "钛铁矿",
+    "Mode": 0
+  },
+  {
+    "Name": "Lead",
+    "NameZh": "铅",
+    "Mode": 0
+  },
+  {
+    "Name": "RareEarthl",
+    "NameZh": "稀土I",
+    "Mode": 0
+  },
+  {
+    "Name": "RareEarthlII",
+    "NameZh": "稀土II",
+    "Mode": 0
+  },
+  {
+    "Name": "RareEarthlIII",
+    "NameZh": "稀土III",
+    "Mode": 0
+  },
+  {
+    "Name": "Adamantium",
+    "NameZh": "精金",
+    "Mode": 1
+  },
+  {
+    "Name": "AgarditeCd",
+    "NameZh": "菱铁矿（Cd）",
+    "Mode": 1
+  },
+  {
+    "Name": "AgarditeLa",
+    "NameZh": "菱铁矿（La）",
+    "Mode": 1
+  },
+  {
+    "Name": "AgarditeNd",
+    "NameZh": "菱铁矿（Nd）",
+    "Mode": 1
+  },
+  {
+    "Name": "AgarditeY",
+    "NameZh": "菱铁矿（Y）",
+    "Mode": 1
+  },
+  {
+    "Name": "Alduorite",
+    "NameZh": "神秘蓝金",
+    "Mode": 1
+  },
+  {
+    "Name": "Almandine",
+    "NameZh": "铁铝榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Aluminium",
+    "NameZh": "铝",
+    "Mode": 1
+  },
+  {
+    "Name": "Aluminiumfluoride",
+    "NameZh": "氟化铝",
+    "Mode": 1
+  },
+  {
+    "Name": "Alunite",
+    "NameZh": "明矾石",
+    "Mode": 1
+  },
+  {
+    "Name": "Americium",
+    "NameZh": "镅",
+    "Mode": 1
+  },
+  {
+    "Name": "Amethyst",
+    "NameZh": "紫水晶",
+    "Mode": 1
+  },
+  {
+    "Name": "Andradite",
+    "NameZh": "钙铁榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Antimony",
+    "NameZh": "锑",
+    "Mode": 1
+  },
+  {
+    "Name": "Anycopper",
+    "NameZh": "铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Anyiron",
+    "NameZh": "铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Ardite",
+    "NameZh": "阿迪特",
+    "Mode": 1
+  },
+  {
+    "Name": "Arsenic",
+    "NameZh": "砷",
+    "Mode": 1
+  },
+  {
+    "Name": "Arsenopyrite",
+    "NameZh": "砷铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Asbestos",
+    "NameZh": "石棉",
+    "Mode": 1
+  },
+  {
+    "Name": "Atheneite",
+    "NameZh": "砷汞钯",
+    "Mode": 1
+  },
+  {
+    "Name": "BandedIron",
+    "NameZh": "带状铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Barite",
+    "NameZh": "重晶石",
+    "Mode": 1
+  },
+  {
+    "Name": "Barium",
+    "NameZh": "钡",
+    "Mode": 1
+  },
+  {
+    "Name": "Bastnasite",
+    "NameZh": "氟碳镧铈",
+    "Mode": 1
+  },
+  {
+    "Name": "Bedrockium",
+    "NameZh": "基岩",
+    "Mode": 1
+  },
+  {
+    "Name": "Beryllium",
+    "NameZh": "铍",
+    "Mode": 1
+  },
+  {
+    "Name": "Bismuth",
+    "NameZh": "铋",
+    "Mode": 1
+  },
+  {
+    "Name": "Bismuthinite",
+    "NameZh": "辉铋",
+    "Mode": 1
+  },
+  {
+    "Name": "Bismutite",
+    "NameZh": "泡铋",
+    "Mode": 1
+  },
+  {
+    "Name": "BlackPlutonium",
+    "NameZh": "黑钚",
+    "Mode": 1
+  },
+  {
+    "Name": "BlueTopaz",
+    "NameZh": "蓝黄玉",
+    "Mode": 1
+  },
+  {
+    "Name": "Borax",
+    "NameZh": "硼砂",
+    "Mode": 1
+  },
+  {
+    "Name": "Bornite",
+    "NameZh": "斑铜",
+    "Mode": 1
+  },
+  {
+    "Name": "BrownLimonite",
+    "NameZh": "棕褐铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Cadmium",
+    "NameZh": "镉",
+    "Mode": 1
+  },
+  {
+    "Name": "Caesium",
+    "NameZh": "铯",
+    "Mode": 1
+  },
+  {
+    "Name": "Calcite",
+    "NameZh": "方解石",
+    "Mode": 1
+  },
+  {
+    "Name": "CalciumDisilicide",
+    "NameZh": "二硅化钙",
+    "Mode": 1
+  },
+  {
+    "Name": "CalciumHydride",
+    "NameZh": "氢化钙",
+    "Mode": 1
+  },
+  {
+    "Name": "Callistolce",
+    "NameZh": "木卫四冰",
+    "Mode": 1
+  },
+  {
+    "Name": "Cerium",
+    "NameZh": "铈",
+    "Mode": 1
+  },
+  {
+    "Name": "Cheese",
+    "NameZh": "奶酪",
+    "Mode": 1
+  },
+  {
+    "Name": "Chrome",
+    "NameZh": "铬",
+    "Mode": 1
+  },
+  {
+    "Name": "Chromite",
+    "NameZh": "铬铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Chromo-Alumino-Povondraite",
+    "NameZh": "铬铝电气石",
+    "Mode": 1
+  },
+  {
+    "Name": "Chrysotile",
+    "NameZh": "白石棉",
+    "Mode": 1
+  },
+  {
+    "Name": "Cobalt",
+    "NameZh": "钴",
+    "Mode": 1
+  },
+  {
+    "Name": "Cobaltite",
+    "NameZh": "辉钴矿",
+    "Mode": 1
+  },
+  {
+    "Name": "CosmicNeutronium",
+    "NameZh": "宇宙中子态素",
+    "Mode": 1
+  },
+  {
+    "Name": "Crocoite",
+    "NameZh": "赤铅矿",
+    "Mode": 1
+  },
+  {
+    "Name": "CrudeRhodiumMetal",
+    "NameZh": "粗制铑金属",
+    "Mode": 1
+  },
+  {
+    "Name": "Cryolite",
+    "NameZh": "冰晶石",
+    "Mode": 1
+  },
+  {
+    "Name": "CryoliteF",
+    "NameZh": "冰晶石F",
+    "Mode": 1
+  },
+  {
+    "Name": "Darklron",
+    "NameZh": "玄铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Deeplron",
+    "NameZh": "深渊铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Desh",
+    "NameZh": "戴斯",
+    "Mode": 1
+  },
+  {
+    "Name": "Diatomite",
+    "NameZh": "硅藻土",
+    "Mode": 1
+  },
+  {
+    "Name": "Djurleite",
+    "NameZh": "久辉铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Dolomite",
+    "NameZh": "白云石",
+    "Mode": 1
+  },
+  {
+    "Name": "Draconium",
+    "NameZh": "龙",
+    "Mode": 1
+  },
+  {
+    "Name": "DraconiumAwakened",
+    "NameZh": "觉醒龙",
+    "Mode": 1
+  },
+  {
+    "Name": "Duralumin",
+    "NameZh": "硬铝",
+    "Mode": 1
+  },
+  {
+    "Name": "Dysprosium",
+    "NameZh": "镝",
+    "Mode": 1
+  },
+  {
+    "Name": "Electrotine",
+    "NameZh": "蓝石",
+    "Mode": 1
+  },
+  {
+    "Name": "Electrum",
+    "NameZh": "琥珀金",
+    "Mode": 1
+  },
+  {
+    "Name": "ElectrumFlux",
+    "NameZh": "通流琥珀金",
+    "Mode": 1
+  },
+  {
+    "Name": "Emery",
+    "NameZh": "金刚砂",
+    "Mode": 1
+  },
+  {
+    "Name": "Enriched-NaquadahOxideMixture",
+    "NameZh": "氧化富集硅岩混合物",
+    "Mode": 1
+  },
+  {
+    "Name": "Erbium",
+    "NameZh": "铒",
+    "Mode": 1
+  },
+  {
+    "Name": "Europium",
+    "NameZh": "铕",
+    "Mode": 1
+  },
+  {
+    "Name": "Fayalite",
+    "NameZh": "铁橄榄石",
+    "Mode": 1
+  },
+  {
+    "Name": "Ferberite",
+    "NameZh": "钨铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Firestone",
+    "NameZh": "火石",
+    "Mode": 1
+  },
+  {
+    "Name": "Florencite",
+    "NameZh": "磷铝铈矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Fluor-Buergerite",
+    "NameZh": "氟铁电气石",
+    "Mode": 1
+  },
+  {
+    "Name": "Fluorcaphite",
+    "NameZh": "氟碳铈矿",
+    "Mode": 1
+  },
+  {
+    "Name": "FluoriteF",
+    "NameZh": "氟石(F)",
+    "Mode": 1
+  },
+  {
+    "Name": "Fluorspar",
+    "NameZh": "氟石",
+    "Mode": 1
+  },
+  {
+    "Name": "FoolsRuby",
+    "NameZh": "尖晶石",
+    "Mode": 1
+  },
+  {
+    "Name": "Force",
+    "NameZh": "力量",
+    "Mode": 1
+  },
+  {
+    "Name": "Forcicium",
+    "NameZh": "力之宝石",
+    "Mode": 1
+  },
+  {
+    "Name": "Forcillium",
+    "NameZh": "力场宝石",
+    "Mode": 1
+  },
+  {
+    "Name": "Forsterite",
+    "NameZh": "镁橄榄石",
+    "Mode": 1
+  },
+  {
+    "Name": "GadoliniteCe",
+    "NameZh": "硅铍钇矿(Ce)",
+    "Mode": 1
+  },
+  {
+    "Name": "GadoliniteY",
+    "NameZh": "硅铍钇矿(Y)",
+    "Mode": 1
+  },
+  {
+    "Name": "Gadolinium",
+    "NameZh": "钆",
+    "Mode": 1
+  },
+  {
+    "Name": "Galena",
+    "NameZh": "方铅矿",
+    "Mode": 1
+  },
+  {
+    "Name": "GarnetRed",
+    "NameZh": "红石榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "GarnetYellow",
+    "NameZh": "黄石榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Garnierite",
+    "NameZh": "硅镁镍矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Geikielite",
+    "NameZh": "镁钛矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Glauconite",
+    "NameZh": "海绿石",
+    "Mode": 1
+  },
+  {
+    "Name": "Gold",
+    "NameZh": "金",
+    "Mode": 1
+  },
+  {
+    "Name": "Graphite",
+    "NameZh": "石墨",
+    "Mode": 1
+  },
+  {
+    "Name": "GreenFuchsite",
+    "NameZh": "绿铬云母",
+    "Mode": 1
+  },
+  {
+    "Name": "Greenockite",
+    "NameZh": "硫镉",
+    "Mode": 1
+  },
+  {
+    "Name": "Grossular",
+    "NameZh": "钙铝榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Gypsum",
+    "NameZh": "石膏",
+    "Mode": 1
+  },
+  {
+    "Name": "Hedenbergite",
+    "NameZh": "钙铁辉石",
+    "Mode": 1
+  },
+  {
+    "Name": "HeeEndium",
+    "NameZh": "终末",
+    "Mode": 1
+  },
+  {
+    "Name": "Hibonite",
+    "NameZh": "黑铝钙石",
+    "Mode": 1
+  },
+  {
+    "Name": "Holmium",
+    "NameZh": "钬",
+    "Mode": 1
+  },
+  {
+    "Name": "Huebnerite",
+    "NameZh": "钨酸锰",
+    "Mode": 1
+  },
+  {
+    "Name": "Ichorium",
+    "NameZh": "灵宝",
+    "Mode": 1
+  },
+  {
+    "Name": "Indium",
+    "NameZh": "铟",
+    "Mode": 1
+  },
+  {
+    "Name": "InfinityCatalyst",
+    "NameZh": "无尽催化剂",
+    "Mode": 1
+  },
+  {
+    "Name": "InfusedGold",
+    "NameZh": "注魔金",
+    "Mode": 1
+  },
+  {
+    "Name": "IridiumMetalResidue",
+    "NameZh": "铱金属渣粉",
+    "Mode": 1
+  },
+  {
+    "Name": "Iron",
+    "NameZh": "铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Jade",
+    "NameZh": "玉",
+    "Mode": 1
+  },
+  {
+    "Name": "Jasper",
+    "NameZh": "碧玉",
+    "Mode": 1
+  },
+  {
+    "Name": "Kyanite",
+    "NameZh": "蓝晶石",
+    "Mode": 1
+  },
+  {
+    "Name": "LanthaniteCe",
+    "NameZh": "镧石(Ce)",
+    "Mode": 1
+  },
+  {
+    "Name": "LanthaniteLa",
+    "NameZh": "镧石(La)",
+    "Mode": 1
+  },
+  {
+    "Name": "LanthaniteNd",
+    "NameZh": "镧石(Nd)",
+    "Mode": 1
+  },
+  {
+    "Name": "Lanthanum",
+    "NameZh": "镧",
+    "Mode": 1
+  },
+  {
+    "Name": "Lazurite",
+    "NameZh": "蓝金石",
+    "Mode": 1
+  },
+  {
+    "Name": "LeachResidue",
+    "NameZh": "浸出渣",
+    "Mode": 1
+  },
+  {
+    "Name": "Ledox",
+    "NameZh": "深铅",
+    "Mode": 1
+  },
+  {
+    "Name": "Lignite",
+    "NameZh": "褐煤",
+    "Mode": 1
+  },
+  {
+    "Name": "Lithium",
+    "NameZh": "锂",
+    "Mode": 1
+  },
+  {
+    "Name": "Loellingite",
+    "NameZh": "斜方砷铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Lutetium",
+    "NameZh": "镥",
+    "Mode": 1
+  },
+  {
+    "Name": "Magnesite",
+    "NameZh": "菱镁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Magnesium",
+    "NameZh": "镁",
+    "Mode": 1
+  },
+  {
+    "Name": "Magnetite",
+    "NameZh": "磁铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Malachite",
+    "NameZh": "孔雀石",
+    "Mode": 1
+  },
+  {
+    "Name": "Manganese",
+    "NameZh": "锰",
+    "Mode": 1
+  },
+  {
+    "Name": "Manyullyn",
+    "NameZh": "玛玉灵",
+    "Mode": 1
+  },
+  {
+    "Name": "Mica",
+    "NameZh": "云母",
+    "Mode": 1
+  },
+  {
+    "Name": "Mirabilite",
+    "NameZh": "芒硝",
+    "Mode": 1
+  },
+  {
+    "Name": "Monazite",
+    "NameZh": "独居石",
+    "Mode": 1
+  },
+  {
+    "Name": "Molybdenite",
+    "NameZh": "辉钼矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Molybdenum",
+    "NameZh": "钼",
+    "Mode": 1
+  },
+  {
+    "Name": "MysteriousCrystal",
+    "NameZh": "神秘水晶",
+    "Mode": 1
+  },
+  {
+    "Name": "Naquadah",
+    "NameZh": "硅岩",
+    "Mode": 1
+  },
+  {
+    "Name": "NaquadahEnriched",
+    "NameZh": "富集硅岩",
+    "Mode": 1
+  },
+  {
+    "Name": "NaquadahOxideMixture",
+    "NameZh": "氧化富集硅岩混合物",
+    "Mode": 1
+  },
+  {
+    "Name": "Naquadria",
+    "NameZh": "超能硅岩",
+    "Mode": 1
+  },
+  {
+    "Name": "NaquadriaOxideMixture",
+    "NameZh": "氧化超能硅岩混合物",
+    "Mode": 1
+  },
+  {
+    "Name": "Neodymium",
+    "NameZh": "钕",
+    "Mode": 1
+  },
+  {
+    "Name": "Neutronium",
+    "NameZh": "中子",
+    "Mode": 1
+  },
+  {
+    "Name": "Nichromite",
+    "NameZh": "镍铬矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Niobium",
+    "NameZh": "铌",
+    "Mode": 1
+  },
+  {
+    "Name": "Niter",
+    "NameZh": "硝石",
+    "Mode": 1
+  },
+  {
+    "Name": "Oilsands",
+    "NameZh": "油砂",
+    "Mode": 1
+  },
+  {
+    "Name": "Olenite",
+    "NameZh": "铝电气石",
+    "Mode": 1
+  },
+  {
+    "Name": "Opal",
+    "NameZh": "蛋白石",
+    "Mode": 1
+  },
+  {
+    "Name": "OrangeDescloizite",
+    "NameZh": "橙钒铅铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Orichalcum",
+    "NameZh": "山铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Oriharukon",
+    "NameZh": "奥利哈钢",
+    "Mode": 1
+  },
+  {
+    "Name": "Palladium",
+    "NameZh": "钯",
+    "Mode": 1
+  },
+  {
+    "Name": "PalladiumMetallicPowder",
+    "NameZh": "钯金属",
+    "Mode": 1
+  },
+  {
+    "Name": "Pentlandite",
+    "NameZh": "镍黄铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Perlite",
+    "NameZh": "珍珠岩",
+    "Mode": 1
+  },
+  {
+    "Name": "Phosphate",
+    "NameZh": "磷酸盐",
+    "Mode": 1
+  },
+  {
+    "Name": "PigIron",
+    "NameZh": "生铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Plutonium",
+    "NameZh": "钚-239",
+    "Mode": 1
+  },
+  {
+    "Name": "Plutonium241",
+    "NameZh": "钚-241",
+    "Mode": 1
+  },
+  {
+    "Name": "Pollucite",
+    "NameZh": "铯榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Polycrase",
+    "NameZh": "锗铀钇矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Powellite",
+    "NameZh": "钼钙矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Praseodymium",
+    "NameZh": "镨",
+    "Mode": 1
+  },
+  {
+    "Name": "Promethium",
+    "NameZh": "钷",
+    "Mode": 1
+  },
+  {
+    "Name": "Pumice",
+    "NameZh": "浮岩",
+    "Mode": 1
+  },
+  {
+    "Name": "Pyrope",
+    "NameZh": "镁铝榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Quantium",
+    "NameZh": "量子",
+    "Mode": 1
+  },
+  {
+    "Name": "RareEarthl",
+    "NameZh": "稀土I",
+    "Mode": 1
+  },
+  {
+    "Name": "RareEarthlII",
+    "NameZh": "稀土II",
+    "Mode": 1
+  },
+  {
+    "Name": "RareEarthlIII",
+    "NameZh": "稀土III",
+    "Mode": 1
+  },
+  {
+    "Name": "RarestMetalResidue",
+    "NameZh": "稀有金属渣",
+    "Mode": 1
+  },
+  {
+    "Name": "Realgar",
+    "NameZh": "雄黄",
+    "Mode": 1
+  },
+  {
+    "Name": "RedDescloizite",
+    "NameZh": "红钒铅锌",
+    "Mode": 1
+  },
+  {
+    "Name": "RedFuchsite",
+    "NameZh": "红铬云母",
+    "Mode": 1
+  },
+  {
+    "Name": "Redstone",
+    "NameZh": "红石",
+    "Mode": 1
+  },
+  {
+    "Name": "Roastedlron",
+    "NameZh": "焙烧铁",
+    "Mode": 1
+  },
+  {
+    "Name": "RoastedNickel",
+    "NameZh": "焙烧镍",
+    "Mode": 1
+  },
+  {
+    "Name": "RockSalt",
+    "NameZh": "岩盐",
+    "Mode": 1
+  },
+  {
+    "Name": "Roquesite",
+    "NameZh": "硫铟铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Rubidium",
+    "NameZh": "铷",
+    "Mode": 1
+  },
+  {
+    "Name": "Runite",
+    "NameZh": "虚恩",
+    "Mode": 1
+  },
+  {
+    "Name": "Rutile",
+    "NameZh": "金红石",
+    "Mode": 1
+  },
+  {
+    "Name": "Salt",
+    "NameZh": "盐",
+    "Mode": 1
+  },
+  {
+    "Name": "Saltpeter",
+    "NameZh": "硝石",
+    "Mode": 1
+  },
+  {
+    "Name": "Samarium",
+    "NameZh": "钐",
+    "Mode": 1
+  },
+  {
+    "Name": "SamarskiteY",
+    "NameZh": "铌钇矿(Y)",
+    "Mode": 1
+  },
+  {
+    "Name": "SamarskiteYb",
+    "NameZh": "铌钇矿(Yb)",
+    "Mode": 1
+  },
+  {
+    "Name": "Scandium",
+    "NameZh": "钪",
+    "Mode": 1
+  },
+  {
+    "Name": "Scheelite",
+    "NameZh": "白钨矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Shadow",
+    "NameZh": "暗影金属",
+    "Mode": 1
+  },
+  {
+    "Name": "ShadowIron",
+    "NameZh": "暗影铁",
+    "Mode": 1
+  },
+  {
+    "Name": "Silicon",
+    "NameZh": "硅",
+    "Mode": 1
+  },
+  {
+    "Name": "SiliconSolarGrade",
+    "NameZh": "太阳能级硅(多晶硅)",
+    "Mode": 1
+  },
+  {
+    "Name": "Silver",
+    "NameZh": "银",
+    "Mode": 1
+  },
+  {
+    "Name": "Soapstone",
+    "NameZh": "皂石",
+    "Mode": 1
+  },
+  {
+    "Name": "Sodalite",
+    "NameZh": "方钠石",
+    "Mode": 1
+  },
+  {
+    "Name": "Spessartine",
+    "NameZh": "锰铝榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Sphalerite",
+    "NameZh": "闪锌矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Spodumene",
+    "NameZh": "锂辉石",
+    "Mode": 1
+  },
+  {
+    "Name": "Stibnite",
+    "NameZh": "辉锑矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Strontium",
+    "NameZh": "锶",
+    "Mode": 1
+  },
+  {
+    "Name": "Sulfur",
+    "NameZh": "硫",
+    "Mode": 1
+  },
+  {
+    "Name": "Tantalite",
+    "NameZh": "钽铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Tantalum",
+    "NameZh": "钽",
+    "Mode": 1
+  },
+  {
+    "Name": "Tartarite",
+    "NameZh": "溶火之石",
+    "Mode": 1
+  },
+  {
+    "Name": "Tellurium",
+    "NameZh": "碲",
+    "Mode": 1
+  },
+  {
+    "Name": "Temagamite",
+    "NameZh": "碲汞钯",
+    "Mode": 1
+  },
+  {
+    "Name": "TengamRaw",
+    "NameZh": "生磁",
+    "Mode": 1
+  },
+  {
+    "Name": "Terbium",
+    "NameZh": "铽",
+    "Mode": 1
+  },
+  {
+    "Name": "Terlinguaite",
+    "NameZh": "黄氯汞",
+    "Mode": 1
+  },
+  {
+    "Name": "Tetrahedrite",
+    "NameZh": "黝铜矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Thorianite",
+    "NameZh": "方钍石",
+    "Mode": 1
+  },
+  {
+    "Name": "Thorium",
+    "NameZh": "钍",
+    "Mode": 1
+  },
+  {
+    "Name": "Thulium",
+    "NameZh": "铥",
+    "Mode": 1
+  },
+  {
+    "Name": "Titanite",
+    "NameZh": "榍石",
+    "Mode": 1
+  },
+  {
+    "Name": "Titanium",
+    "NameZh": "钛",
+    "Mode": 1
+  },
+  {
+    "Name": "Topaz",
+    "NameZh": "黄玉",
+    "Mode": 1
+  },
+  {
+    "Name": "TricalciumPhosphate",
+    "NameZh": "磷酸三钙",
+    "Mode": 1
+  },
+  {
+    "Name": "Trinium",
+    "NameZh": "三元金属",
+    "Mode": 1
+  },
+  {
+    "Name": "Tritanium",
+    "NameZh": "三钛",
+    "Mode": 1
+  },
+  {
+    "Name": "Trona",
+    "NameZh": "天然碱",
+    "Mode": 1
+  },
+  {
+    "Name": "Tungstate",
+    "NameZh": "钨酸锂",
+    "Mode": 1
+  },
+  {
+    "Name": "Tungsten",
+    "NameZh": "钨",
+    "Mode": 1
+  },
+  {
+    "Name": "Uraninite",
+    "NameZh": "晶质铀矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Uranium",
+    "NameZh": "铀-238",
+    "Mode": 1
+  },
+  {
+    "Name": "Uranium235",
+    "NameZh": "铀-235",
+    "Mode": 1
+  },
+  {
+    "Name": "Uvarovite",
+    "NameZh": "钙铬榴石",
+    "Mode": 1
+  },
+  {
+    "Name": "Vanadio-Oxy-Dravite",
+    "NameZh": "钒镁电气石",
+    "Mode": 1
+  },
+  {
+    "Name": "Vanadium",
+    "NameZh": "钒",
+    "Mode": 1
+  },
+  {
+    "Name": "VanadiumMagnetite",
+    "NameZh": "钒磁铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Vinteum",
+    "NameZh": "温特姆",
+    "Mode": 1
+  },
+  {
+    "Name": "Vulcanite",
+    "NameZh": "胶木",
+    "Mode": 1
+  },
+  {
+    "Name": "Vyroxeres",
+    "NameZh": "幽冥剧毒结晶",
+    "Mode": 1
+  },
+  {
+    "Name": "Wittichenite",
+    "NameZh": "硫铋铜",
+    "Mode": 1
+  },
+  {
+    "Name": "Wollastonite",
+    "NameZh": "硅灰石",
+    "Mode": 1
+  },
+  {
+    "Name": "Wulfenite",
+    "NameZh": "钼铅矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Xenotime",
+    "NameZh": "磷钇",
+    "Mode": 1
+  },
+  {
+    "Name": "YellowLimonite",
+    "NameZh": "黄褐铁矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Ytterbium",
+    "NameZh": "镱",
+    "Mode": 1
+  },
+  {
+    "Name": "Yttrialite",
+    "NameZh": "硅钍钇",
+    "Mode": 1
+  },
+  {
+    "Name": "Yttrium",
+    "NameZh": "钇",
+    "Mode": 1
+  },
+  {
+    "Name": "Yttrocerite",
+    "NameZh": "铈钇矿",
+    "Mode": 1
+  },
+  {
+    "Name": "Zeolite",
+    "NameZh": "沸石",
+    "Mode": 1
+  },
+  {
+    "Name": "Zimbabweite",
+    "NameZh": "钛铌铅钠石",
+    "Mode": 1
+  },
+  {
+    "Name": "Zinc",
+    "NameZh": "锌",
+    "Mode": 1
+  },
+  {
+    "Name": "Zircon",
+    "NameZh": "锆石",
+    "Mode": 1
+  },
+  {
+    "Name": "Zirconolite",
+    "NameZh": "钛锆酸钙",
+    "Mode": 1
+  },
+  {
+    "Name": "Zircophyllite",
+    "NameZh": "锆星叶石",
+    "Mode": 1
+  },
+  {
+    "Name": "Zirkelite",
+    "NameZh": "钛锆钍",
+    "Mode": 1
+  },
+  {
+    "Name": "Mytryl",
+    "NameZh": "深空秘银",
+    "Mode": 2
+  },
+  {
+    "Name": "Rubracium",
+    "NameZh": "褐铜",
+    "Mode": 2
+  },
+  {
+    "Name": "Lepersonnite",
+    "NameZh": "绿泥石",
+    "Mode": 2
+  },
+  {
+    "Name": "Xenotime",
+    "NameZh": "磷钇矿",
+    "Mode": 2
+  },
+  {
+    "Name": "Cerite",
+    "NameZh": "铈硅石",
+    "Mode": 2
+  },
+  {
+    "Name": "Lautarite",
+    "NameZh": "碘钙石",
+    "Mode": 2
+  },
+  {
+    "Name": "Amber",
+    "NameZh": "琥珀",
+    "Mode": 3
+  },
+  {
+    "Name": "Apatite",
+    "NameZh": "磷灰石",
+    "Mode": 3
+  },
+  {
+    "Name": "BArTiMaEuSNek",
+    "NameZh": "BArTiMaEuSNek",
+    "Mode": 3
+  },
+  {
+    "Name": "Cassiterite",
+    "NameZh": "锡石",
+    "Mode": 3
+  },
+  {
+    "Name": "Cinnabar",
+    "NameZh": "朱砂",
+    "Mode": 3
+  },
+  {
+    "Name": "Coal",
+    "NameZh": "煤",
+    "Mode": 3
+  },
+  {
+    "Name": "Diamond",
+    "NameZh": "钻石",
+    "Mode": 3
+  },
+  {
+    "Name": "Dilithium",
+    "NameZh": "双锂",
+    "Mode": 3
+  },
+  {
+    "Name": "Emerald",
+    "NameZh": "绿宝石",
+    "Mode": 3
+  },
+  {
+    "Name": "GreenSapphire",
+    "NameZh": "绿色蓝宝石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedAir",
+    "NameZh": "风之蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedEarth",
+    "NameZh": "地之蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedEntropy",
+    "NameZh": "混沌蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedFire",
+    "NameZh": "火之蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedWater",
+    "NameZh": "水之蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "InfusedOrder",
+    "NameZh": "秩序蕴魔石",
+    "Mode": 3
+  },
+  {
+    "Name": "Lapis",
+    "NameZh": "青金石",
+    "Mode": 3
+  },
+  {
+    "Name": "NetherQuartz",
+    "NameZh": "下界石英",
+    "Mode": 3
+  },
+  {
+    "Name": "NetherStar",
+    "NameZh": "下界之星",
+    "Mode": 3
+  },
+  {
+    "Name": "Olivine",
+    "NameZh": "橄榄石",
+    "Mode": 3
+  },
+  {
+    "Name": "Orundum",
+    "NameZh": "合成玉",
+    "Mode": 3
+  },
+  {
+    "Name": "Prasiolite",
+    "NameZh": "堇云石",
+    "Mode": 3
+  },
+  {
+    "Name": "Quartzite",
+    "NameZh": "石英岩",
+    "Mode": 3
+  },
+  {
+    "Name": "RedZircon",
+    "NameZh": "红锆石",
+    "Mode": 3
+  },
+  {
+    "Name": "Ruby",
+    "NameZh": "红宝石",
+    "Mode": 3
+  },
+  {
+    "Name": "Sapphire",
+    "NameZh": "蓝宝石",
+    "Mode": 3
+  },
+  {
+    "Name": "Tanzanite",
+    "NameZh": "坦桑石",
+    "Mode": 3
+  },
+  {
+    "Name": "Tiberium",
+    "NameZh": "泰伯利亚",
+    "Mode": 3
+  },
+  {
+    "Name": "Tin",
+    "NameZh": "锡",
+    "Mode": 3
+  },
+  {
+    "Name": "Bauxite",
+    "NameZh": "铝土矿",
+    "Mode": 4
+  },
+  {
+    "Name": "Pyrochlore",
+    "NameZh": "烧绿石",
+    "Mode": 4
+  },
+  {
+    "Name": "Pyrolusite",
+    "NameZh": "软锰矿",
+    "Mode": 4
+  },
+  {
+    "Name": "Pyrite",
+    "NameZh": "黄铁矿",
+    "Mode": 4
+  },
+  {
+    "Name": "Cooperite",
+    "NameZh": "硫铂矿",
+    "Mode": 5
+  },
+  {
+    "Name": "Iridium",
+    "NameZh": "铱",
+    "Mode": 5
+  },
+  {
+    "Name": "Meteoriclron",
+    "NameZh": "陨铁",
+    "Mode": 5
+  },
+  {
+    "Name": "Mithril",
+    "NameZh": "秘银",
+    "Mode": 5
+  },
+  {
+    "Name": "Nickel",
+    "NameZh": "镍",
+    "Mode": 5
+  },
+  {
+    "Name": "Osmium",
+    "NameZh": "锇",
+    "Mode": 5
+  },
+  {
+    "Name": "Platinum",
+    "NameZh": "铂",
+    "Mode": 5
+  },
+  {
+    "Name": "PlatinumMetallicPowder",
+    "NameZh": "铂金属粉",
+    "Mode": 5
+  },
+  {
+    "Name": "CertusQuartz",
+    "NameZh": "赛特斯石英",
+    "Mode": 6
+  },
+  {
+    "Name": "Scheelite",
+    "NameZh": "白钨矿",
+    "Mode": 7
+  },
+  {
+    "Name": "Molybdenite",
+    "NameZh": "辉钼矿",
+    "Mode": 7
+  },
+  {
+    "Name": "Molybdenum",
+    "NameZh": "钼",
+    "Mode": 7
+  }
+]

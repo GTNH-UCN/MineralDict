@@ -1,0 +1,16 @@
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\GTNH-MineralDict.exe
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\Assets\datasource.json
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\GTNH-MineralDict.deps.json
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\GTNH-MineralDict.runtimeconfig.json
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\GTNH-MineralDict.dll
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\bin\Debug\net8.0\GTNH-MineralDict.pdb
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.AssemblyInfoInputs.cache
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.AssemblyInfo.cs
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.csproj.CoreCompileInputs.cache
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.sourcelink.json
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.dll
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\refint\GTNH-MineralDict.dll
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.pdb
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\GTNH-MineralDict.genruntimeconfig.cache
+D:\ZhangZhenyu\Dev\RktRepos\GTNH\GTNH-MineralDict\GTNH-MineralDict\obj\Debug\net8.0\ref\GTNH-MineralDict.dll
