@@ -13,47 +13,36 @@ class Program
 
 public class MineralDictProcessor
 {
-    #region Const
-
-    #endregion
-
     #region Fields
 
     private List<Material> Materials { get; set; } = [];
 
     // 水洗
     private readonly StringBuilder _h20WashInclude = new();
-
     private readonly StringBuilder _h2OWashExclude = new();
 
     // 汞洗
     private readonly StringBuilder _hgWashInclude = new();
-
     private readonly StringBuilder _hgWashExclude = new();
 
     // 过硫酸钠洗
     private readonly StringBuilder _na2S2O8WashInclude = new();
-
     private readonly StringBuilder _na2S2O8WashExclude = new();
 
     // 粉碎机
     private readonly StringBuilder _crusherInclude = new();
-
     private readonly StringBuilder _crusherExclude = new();
 
     // 筛选机
     private readonly StringBuilder _sieveInclude = new();
-
     private readonly StringBuilder _sieveExclude = new();
 
     // 热离
     private readonly StringBuilder _heatCentrifugeInclude = new();
-
     private readonly StringBuilder _heatCentrifugeExclude = new();
 
     // 离心
     private readonly StringBuilder _centrifugeInclude = new();
-
     private readonly StringBuilder _centrifugeExclude = new();
 
     // 矿处中间产物
@@ -67,6 +56,7 @@ public class MineralDictProcessor
     {
         Materials = ImportMaterialData();
         GenerateMineralDict();
+        ExportMineralDict();
     }
 
     public List<Material> ImportMaterialData()
@@ -83,6 +73,8 @@ public class MineralDictProcessor
         // 生成MineralDict
         AppendAll("===Ore/RawOre 原矿/粗矿===");
         AppendAll("");
+
+        // 全部粉掉
         foreach (var m in Materials)
         {
             // TODO 处理油砂
@@ -129,26 +121,65 @@ public class MineralDictProcessor
         {
             switch (m.Mode)
             {
-                case ProcessMode.Ignore:
+                case ProcessMode.Xi:
+                    AppendMaterial(m.DictNameCrushedPurified, m.DictNameCrushedPurifiedZh);
                     break;
                 case ProcessMode.XiFenLi:
+                case ProcessMode.Ignore:
+                case ProcessMode.FenLi:
+                    AppendMaterial(m.DictNameCrushedPurified, m.DictNameCrushedPurifiedZh, needCrusher: true,
+                        isIntermediate: true);
                     break;
                 case ProcessMode.XiShai:
+                case ProcessMode.Na2S2O8Shai:
+                    AppendMaterial(m.DictNameCrushedPurified, m.DictNameCrushedPurifiedZh, needSieve: true,
+                        isIntermediate: true);
                     break;
                 case ProcessMode.XiReFen:
-                    break;
-                case ProcessMode.Xi:
-                    break;
                 case ProcessMode.HgReFen:
-                    break;
-                case ProcessMode.Na2S2O8Shai:
-                    break;
-                case ProcessMode.FenLi:
+                    AppendMaterial(m.DictNameCrushedPurified, m.DictNameCrushedPurifiedZh, needHeatCentrifuge: true,
+                        isIntermediate: true);
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
             }
         }
+
+        AppendAll("");
+        AppendAll("===CrushedCentrifuged 热离（离心）矿石===");
+        AppendAll("");
+
+        // 全部粉掉
+        foreach (var m in Materials)
+        {
+            AppendMaterial(m.DictNameCrushedCentrifuged, m.DictNameCrushedCentrifugedZh, needCrusher: true,
+                isIntermediate: true);
+        }
+
+        AppendAll("");
+        AppendAll("===Dust 粉===");
+        AppendAll("");
+
+        // 不处理
+        foreach (var m in Materials)
+        {
+            AppendMaterial(m.DictNameDust, m.DictNameDustZh);
+        }
+
+        AppendAll("");
+        AppendAll("===DustPure/dustImpure 纯净粉/含杂粉===");
+        AppendAll("");
+
+        // 全部离心
+        foreach (var m in Materials)
+        {
+            AppendMaterial(m.DictNameDustPure, m.DictNameDustPureZh, needCentrifuge: true);
+            AppendMaterial(m.DictNameDustImpure, m.DictNameDustImpureZh, needCentrifuge: true);
+        }
+    }
+
+    public void ExportMineralDict()
+    {
     }
 
     public void AppendAll(string str)
@@ -183,29 +214,82 @@ public class MineralDictProcessor
         bool needCentrifuge = false,
         bool isIntermediate = false)
     {
+        if (needH20Wash)
+        {
+            _h20WashInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _h2OWashExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needHgWash)
+        {
+            _hgWashInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _hgWashExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needNa2S2O8Wash)
+        {
+            _na2S2O8WashInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _na2S2O8WashExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needCrusher)
+        {
+            _crusherInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _crusherExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needSieve)
+        {
+            _sieveInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _sieveExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needHeatCentrifuge)
+        {
+            _heatCentrifugeInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _heatCentrifugeExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (needCentrifuge)
+        {
+            _centrifugeInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _centrifugeExclude.AppendLine(nameDict + " //" + nameZh);
+        }
+
+        if (isIntermediate)
+        {
+            _intermediateInclude.AppendLine(nameDict + " //" + nameZh);
+        }
+        else
+        {
+            _intermediateExclude.AppendLine(nameDict + " //" + nameZh);
+        }
     }
 }
 
 public class Material(string name, string nameZh, ProcessMode mode)
 {
-    // public const string PrefixOre = "ore";
-    // public const string PrefixRawOre = "rawOre";
-    // public const string PrefixCrushed = "crushed";
-    // public const string PrefixCrushedPurified = "crushedPurified";
-    // public const string PrefixCrushedCentrifuged = "crushedCentrifuged";
-    // public const string PrefixDust = "dust";
-    // public const string PrefixDustPure = "dustPure";
-    // public const string PrefixDustImpure = "dustImpure";
-
-    // public const string PrefixOreZh = "原矿";
-    // public const string PrefixRawOreZh = "粗矿";
-    // public const string PrefixCrushedZh = "粉碎矿石";
-    // public const string PrefixCrushedPurifiedZh = "洗净矿石";
-    // public const string PrefixCrushedCentrifugedZh = "离心矿石";
-    // public const string PrefixDustZh = "粉";
-    // public const string PrefixDustPureZh = "纯净粉";
-    // public const string PrefixDustImpureZh = "含杂粉";
-
     public string Name { get; set; } = name;
     public string NameZh { get; set; } = nameZh;
     public ProcessMode Mode { get; set; } = mode;
