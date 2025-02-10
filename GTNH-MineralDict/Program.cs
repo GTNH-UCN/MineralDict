@@ -185,8 +185,9 @@ public class MineralDictProcessor
     private void ExportMineralDict()
     {
         // 获取项目根目录
-        var projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "../../../"));
-        var artifactsDir = Path.Combine(projectRoot, "Artifacts");
+        // var projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "../../../"));
+        // var artifactsDir = Path.Combine(projectRoot, "Artifacts");
+        var artifactsDir = "./Artifacts";
 
         // 确保Artifacts目录存在
         Directory.CreateDirectory(artifactsDir);

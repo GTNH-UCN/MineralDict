@@ -2,7 +2,7 @@ name: Auto Build
 
 on:
   push:
-    branches: [ "main" ]  # 也可以改成其它分支或使用 ['*'] 表示所有分支
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 生成 yyMMddHHmmss 格式的版本号
+      # 1. 生成版本号
       - name: Generate Version
         id: genversion
         run: |
@@ -22,27 +22,40 @@ jobs:
       - name: Check out
         uses: actions/checkout@v3
 
-      # 3. 安装 .NET (这里以 .NET 8 为例)
+      # 3. 安装 .NET 8
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
 
-      # 4. 发布项目（保持原有配置）
-      - name: Build and Publish
-        run: dotnet publish ./GTNH-MineralDict/GTNH-MineralDict.csproj -c Release -r win-x64 --self-contained true
+      # 4. 构建项目
+      - name: Build
+        run: dotnet build ./GTNH-MineralDict/GTNH-MineralDict.csproj -c Release
 
-      # 5. 验证产物目录（新增步骤）
-      - name: Validate Artifacts
+      # 5. 运行程序生成文件
+      - name: Run Program
         run: |
-          echo "生成文件列表："
-          ls -R ./GTNH-MineralDict/Artifacts
-          if [ ! -d "./GTNH-MineralDict/Artifacts" ]; then
-            echo "错误：Artifacts目录未生成！"
-            exit 1
-          fi
+          cd ./GTNH-MineralDict/bin/Release/net8.0
+          ./GTNH-MineralDict
+          ls -R
 
-      # 5. 使用 softprops/action-gh-release 发布到 GitHub Releases
+      # 6. 检查生成的文件
+      - name: Check Generated Files
+        run: |
+          echo "当前目录结构："
+          ls -R
+          echo "查找 Artifacts 目录："
+          find . -name "Artifacts" -type d
+
+      # 7. 创建临时目录并复制文件
+      - name: Prepare Release Files
+        run: |
+          mkdir -p ./release-files
+          # 根据实际生成位置调整路径
+          cp -r ./GTNH-MineralDict/bin/Release/net8.0/Artifacts/* ./release-files/ || true
+          ls -R ./release-files
+
+      # 8. 创建 GitHub Release
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
@@ -52,6 +65,6 @@ jobs:
             自动构建版本: ${{ env.TimeVersion }}
             构建时间（北京时间）: ${{ env.TimeVersion }}
           files: |
-            ./GTNH-MineralDict/Artifacts/**
+            ./release-files/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
