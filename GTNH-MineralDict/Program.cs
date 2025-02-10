@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json;
 
 namespace GTNH_MineralDict;
 
@@ -26,8 +27,8 @@ public class MineralDictProcessor
     private readonly StringBuilder _hgWashExclude = new();
 
     // 过硫酸钠洗
-    private readonly StringBuilder _na2S2O8WashInclude = new();
-    private readonly StringBuilder _na2S2O8WashExclude = new();
+    private readonly StringBuilder _spWashInclude = new();
+    private readonly StringBuilder _spWashExclude = new();
 
     // 粉碎机
     private readonly StringBuilder _crusherInclude = new();
@@ -64,6 +65,10 @@ public class MineralDictProcessor
         var ores = new List<Material>();
 
         // 导入OreData
+        // 从Assets/datasource.json中反序列化数据
+        var json = File.ReadAllText("Assets/datasource.json");
+        var data = JsonSerializer.Deserialize<List<Material>>(json);
+
 
         return ores;
     }
@@ -102,8 +107,8 @@ public class MineralDictProcessor
                 case ProcessMode.HgReFen:
                     AppendMaterial(m.DictNameCrushed, m.DictNameCrushedZh, needHgWash: true, isIntermediate: true);
                     break;
-                case ProcessMode.Na2S2O8Shai:
-                    AppendMaterial(m.DictNameCrushed, m.DictNameCrushedZh, needNa2S2O8Wash: true, isIntermediate: true);
+                case ProcessMode.SpXiShai:
+                    AppendMaterial(m.DictNameCrushed, m.DictNameCrushedZh, needSpWash: true, isIntermediate: true);
                     break;
                 case ProcessMode.FenLi:
                     AppendMaterial(m.DictNameCrushed, m.DictNameCrushedZh, needCrusher: true, isIntermediate: true);
@@ -131,7 +136,7 @@ public class MineralDictProcessor
                         isIntermediate: true);
                     break;
                 case ProcessMode.XiShai:
-                case ProcessMode.Na2S2O8Shai:
+                case ProcessMode.SpXiShai:
                     AppendMaterial(m.DictNameCrushedPurified, m.DictNameCrushedPurifiedZh, needSieve: true,
                         isIntermediate: true);
                     break;
@@ -188,8 +193,8 @@ public class MineralDictProcessor
         _h2OWashExclude.Append(str).Append(Environment.NewLine);
         _hgWashInclude.Append(str).Append(Environment.NewLine);
         _hgWashExclude.Append(str).Append(Environment.NewLine);
-        _na2S2O8WashInclude.Append(str).Append(Environment.NewLine);
-        _na2S2O8WashExclude.Append(str).Append(Environment.NewLine);
+        _spWashInclude.Append(str).Append(Environment.NewLine);
+        _spWashExclude.Append(str).Append(Environment.NewLine);
         _crusherInclude.Append(str).Append(Environment.NewLine);
         _crusherExclude.Append(str).Append(Environment.NewLine);
         _sieveInclude.Append(str).Append(Environment.NewLine);
@@ -207,7 +212,7 @@ public class MineralDictProcessor
         string nameZh,
         bool needH20Wash = false,
         bool needHgWash = false,
-        bool needNa2S2O8Wash = false,
+        bool needSpWash = false,
         bool needCrusher = false,
         bool needSieve = false,
         bool needHeatCentrifuge = false,
@@ -232,13 +237,13 @@ public class MineralDictProcessor
             _hgWashExclude.AppendLine(nameDict + " //" + nameZh);
         }
 
-        if (needNa2S2O8Wash)
+        if (needSpWash)
         {
-            _na2S2O8WashInclude.AppendLine(nameDict + " //" + nameZh);
+            _spWashInclude.AppendLine(nameDict + " //" + nameZh);
         }
         else
         {
-            _na2S2O8WashExclude.AppendLine(nameDict + " //" + nameZh);
+            _spWashExclude.AppendLine(nameDict + " //" + nameZh);
         }
 
         if (needCrusher)
@@ -290,8 +295,8 @@ public class MineralDictProcessor
 
 public class Material(string name, string nameZh, ProcessMode mode)
 {
-    public string Name { get; set; } = name;
-    public string NameZh { get; set; } = nameZh;
+    public string Name { get; set; } = name.Trim();
+    public string NameZh { get; set; } = nameZh.Trim();
     public ProcessMode Mode { get; set; } = mode;
 
     public string DictNameOre => "ore" + Name;
@@ -321,6 +326,6 @@ public enum ProcessMode
     XiReFen,
     Xi,
     HgReFen,
-    Na2S2O8Shai,
+    SpXiShai,
     FenLi,
 }
