@@ -347,11 +347,11 @@ public class Material(string name, string nameZh, ProcessMode mode)
 public enum ProcessMode
 {
     Ignore = 0,
-    XiFenLi,
-    XiShai,
-    XiReFen,
-    Xi,
-    HgReFen,
-    SpXiShai,
-    FenLi,
+    XiFenLi = 1,
+    FenLi = 2,
+    XiShai = 3,
+    XiReFen = 4,
+    HgReFen = 5,
+    SpXiShai = 6,
+    Xi = 7,
 }
