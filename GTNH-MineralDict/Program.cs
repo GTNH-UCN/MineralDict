@@ -58,6 +58,8 @@ public class MineralDictProcessor
     public void GenerateDict()
     {
         Materials = ImportMaterialData();
+        // 将Materials中的数据按照Name列A->Z排序
+        Materials.Sort((a, b) => string.Compare(a.Name, b.Name, StringComparison.Ordinal));
         GenerateMineralDict();
         ExportMineralDict();
     }

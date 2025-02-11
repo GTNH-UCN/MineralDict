@@ -25,6 +25,11 @@
     "Mode": 0
   },
   {
+    "Name": "FluoriteF",
+    "NameZh": "氟石(F)",
+    "Mode": 0
+  },
+  {
     "Name": "Adamantium",
     "NameZh": "精金",
     "Mode": 1
@@ -407,11 +412,6 @@
   {
     "Name": "Fluorcaphite",
     "NameZh": "氟碳铈矿",
-    "Mode": 1
-  },
-  {
-    "Name": "FluoriteF",
-    "NameZh": "氟石(F)",
     "Mode": 1
   },
   {
